@@ -11,3 +11,10 @@ job_009.txt,GRC Analyst - Entry Level,Deloitte Advisory,"London, United Kingdom"
 job_010.txt,Cybersecurity Compliance Manager,Emirates NBD,"Dubai, UAE",UAE,Senior,5,5,2,5,"AED 22,000 - 28,000 per month",81600.0,CERT_OVERLOAD
 job_011.txt,Information Security Analyst - Mid Level,Infosys Cyber Defense,"Hyderabad, India",India,Mid,3,6,2,4,"INR 12,00,000 - 16,00,000 annually",16800.0,CERT_OVERLOAD|UNDERPAID_EXPERIENCED
 job_012.txt,Chief Information Security Officer (CISO),FinSecure Asia,Hong Kong,Hong Kong,Senior,12,4,3,7,"HKD 80,000 - 110,000 per month",145920.0,SENIOR_EXPLOITATION
+job_013.txt,SOC Analyst Level 2,ThreatGuard Security,"Dubai, UAE",UAE,Mid,3,4,3,2,"AED 16,000 - 20,000 per month",58752.0,CLEAN
+job_014.txt,Threat Intelligence Analyst,CyberEdge Asia,Singapore,Singapore,Mid,4,3,2,1,"SGD 7,000 - 9,000 per month",71232.0,CLEAN
+job_015.txt,Penetration Tester - Web & Network,RedCell Security,"London, United Kingdom",UK,Mid,3,2,3,0,"GBP 55,000 - 70,000 annually",79375.0,CLEAN
+job_016.txt,Senior Red Team Operator,OffSec Consulting,Remote - United States,USA,Senior,6,1,0,1,"USD 130,000 - 160,000 annually",145000.0,CLEAN
+job_017.txt,Cloud Security Engineer,FinCloud Technologies,"Bengaluru, Karnataka, India",India,Mid,4,3,0,1,"INR 20,00,000 - 28,00,000 annually",28800.0,UNDERPAID_EXPERIENCED
+job_018.txt,Application Security Engineer,SecureCode Labs,Hong Kong,Hong Kong,Mid,5,1,1,2,"HKD 45,000 - 60,000 per month",80640.0,CLEAN
+job_019.txt,Identity & Access Management Engineer,GlobalTrust Financial,"Mumbai, India",India,Mid,4,3,0,2,"INR 16,00,000 - 22,00,000 annually",22800.0,UNDERPAID_EXPERIENCED

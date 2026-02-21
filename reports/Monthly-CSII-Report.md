@@ -1,20 +1,20 @@
 # CSII Monthly Report — 2026-02
 
 ## Signal
-🔴 **HIGH INFLATION** — Requirements significantly outpacing market value.
+🟡 **MODERATE INFLATION** — Monitor closely.
 
 ## Key Metrics
 | Metric | Value |
 |--------|-------|
-| Avg Years Required | 4.17 |
-| Avg Certifications | 3.42 |
-| Avg Tools | 1.42 |
-| Avg Frameworks | 3.67 |
-| **Skill Inflation Score** | **3.12** |
-| Jobs Analyzed | 12 |
-| Avg Salary (USD) | $65,306 |
-| Exploitation Rate | 50.0% |
-| Junior / Mid / Senior | 3 / 5 / 4 |
+| Avg Years Required | 4.16 |
+| Avg Certifications | 3.05 |
+| Avg Tools | 1.37 |
+| Avg Frameworks | 2.79 |
+| **Skill Inflation Score** | **2.99** |
+| Jobs Analyzed | 19 |
+| Avg Salary (USD) | $67,147 |
+| Exploitation Rate | 42.1% |
+| Junior / Mid / Senior | 3 / 11 / 5 |
 
 ## Charts
 ![Trend](skill_trend.png)
