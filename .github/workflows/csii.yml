@@ -2,7 +2,7 @@ name: CSII Automation
 
 on:
   schedule:
-    - cron: "0 4 1 * *"
+    - cron: "0 10 * * *"   # Runs daily
   workflow_dispatch:
 
 permissions:
