@@ -63,23 +63,10 @@ Built to help you:
 - Negotiate offers more effectively
 
 ---
+## 📊 Dashboard
 
-## 🛠 Tech Stack
-
-| Component | Technology |
-|-----------|------------|
-| Data Storage | CSV / Git |
-| Analytics | Python (pandas, numpy) |
-| Visuals | matplotlib |
-| Automation | GitHub Actions |
-| Reports | Markdown + Graphs |
-
----
-
-## ⏱ Automation Status
-
-```yaml
-on:
-  schedule:
-    - cron: "0 4 1 * *"
-  workflow_dispatch:
+![Trend](reports/skill_trend.png)
+![Cert Demand](reports/cert_demand.png)
+![Tool Demand](reports/tool_demand.png)
+![Experience](reports/experience_distribution.png)
+![Salary vs Experience](reports/salary_vs_experience.png)
