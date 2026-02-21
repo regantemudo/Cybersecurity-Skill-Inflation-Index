@@ -44,20 +44,10 @@ def process_month():
             "salary": salary
         })
 
-   os.makedirs("data/processed", exist_ok=True)
-
-if not job_data:
-    df = pd.DataFrame(columns=[
-        "date",
-        "years_required",
-        "certification",
-        "tool",
-        "salary_mean"
-    ])
-else:
-    df = pd.DataFrame(job_data)
-
-df.to_csv("data/processed/extracted_data.csv", index=False)
+    os.makedirs("data/processed", exist_ok=True)
+    df = pd.DataFrame(records)
+    df.to_csv(f"data/processed/{month}.csv", index=False)
+    print("Metrics extracted.")
 
 if __name__ == "__main__":
     process_month()
