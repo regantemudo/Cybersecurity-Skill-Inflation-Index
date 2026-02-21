@@ -5,9 +5,9 @@
 [![CSII Automation](https://github.com/YOUR-USERNAME/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml/badge.svg)](https://github.com/YOUR-USERNAME/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02-blue?style=flat)
 ![Skill Score](https://img.shields.io/badge/Skill%20Score-3.32-red?style=flat)
-![Avg Years](https://img.shields.io/badge/Avg%20Years-4.2-blue?style=flat)
-![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.1-green?style=flat)
-![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.4-yellow?style=flat)
+![Avg Years](https://img.shields.io/badge/Avg%20Years-4.4-blue?style=flat)
+![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.2-green?style=flat)
+![Avg Tools](https://img.shields.io/badge/Avg%20Tools-1.8-yellow?style=flat)
 ![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-19-brightgreen?style=flat)
 ![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-53%25-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
@@ -130,7 +130,10 @@
 
 | Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |
 |-------|-----------|-----------|-----------|-------------|------|
-| 2026-02 | 4.16 | 3.11 | 2.42 | **3.32** | 19 |
+| 2026-02 | 4.37 | 3.21 | 1.84 | **3.32** | 19 |
+
+---
+
 ## 🔍 What Is CSII?
 
 The **Cybersecurity Skill Inflation Index** tracks whether employers across all cybersecurity domains are raising job requirements faster than compensation — a structural market trend that distorts career planning and hiring.
@@ -239,58 +242,3 @@ Optionally add: Domain: SOC  (to override auto-detection)
 ---
 
 *Tracking the full cybersecurity job market. Auto-updated via GitHub Actions.*
-
----
-
-## 🤖 Automated Job Collection
-
-The repo collects real cybersecurity job listings automatically every Monday.
-
-### Data Sources
-
-| Source | Coverage | Key Required |
-|--------|----------|-------------|
-| **Adzuna API** | US, UK, India, Singapore, Australia | Yes — free at [developer.adzuna.com](https://developer.adzuna.com) |
-| **JSearch** | Google Jobs worldwide | Yes — free 200/month at [RapidAPI](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) |
-| **USAJobs.gov** | US Government roles | Optional — [usajobs.gov/api](https://developer.usajobs.gov/) |
-
-### Setup (One Time)
-
-**1. Get your free Adzuna keys** (takes 2 minutes):
-```
-→ Go to developer.adzuna.com
-→ Register → Dashboard → copy App ID + App Key
-```
-
-**2. Add secrets to your GitHub repo:**
-```
-Repo → Settings → Secrets and variables → Actions → New repository secret
-
-ADZUNA_APP_ID     ← your Adzuna App ID
-ADZUNA_APP_KEY    ← your Adzuna App Key
-JSEARCH_API_KEY   ← optional, from RapidAPI
-USAJOBS_API_KEY   ← optional, from usajobs.gov
-```
-
-**3. Trigger first run:**
-```
-Actions tab → CSII Automated Intelligence Engine → Run workflow
-```
-
-That's it. Every Monday the workflow will:
-1. Pull fresh cybersecurity job listings from all sources
-2. Auto-detect domain (GRC / SOC / Pentest / Cloud / AppSec / IAM)
-3. Extract metrics and calculate inflation scores
-4. Regenerate all 12 charts
-5. Update README badges
-6. Commit everything back to the repo
-
-### Manual Collection (No API)
-
-You can still add jobs manually alongside automated collection:
-```
-data/raw/YYYY-MM/job_XXX.txt
-```
-Manual files are processed identically to automated ones.
-
----
