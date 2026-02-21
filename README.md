@@ -5,9 +5,9 @@
 [![CSII Automation](https://github.com/YOUR-USERNAME/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml/badge.svg)](https://github.com/YOUR-USERNAME/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02-blue?style=flat)
 ![Skill Score](https://img.shields.io/badge/Skill%20Score-3.32-red?style=flat)
-![Avg Years](https://img.shields.io/badge/Avg%20Years-4.4-blue?style=flat)
-![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.2-green?style=flat)
-![Avg Tools](https://img.shields.io/badge/Avg%20Tools-1.8-yellow?style=flat)
+![Avg Years](https://img.shields.io/badge/Avg%20Years-4.2-blue?style=flat)
+![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.1-green?style=flat)
+![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.4-yellow?style=flat)
 ![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-19-brightgreen?style=flat)
 ![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-53%25-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
@@ -130,10 +130,7 @@
 
 | Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |
 |-------|-----------|-----------|-----------|-------------|------|
-| 2026-02 | 4.37 | 3.21 | 1.84 | **3.32** | 19 |
-
----
-
+| 2026-02 | 4.16 | 3.11 | 2.42 | **3.32** | 19 |
 ## 🔍 What Is CSII?
 
 The **Cybersecurity Skill Inflation Index** tracks whether employers across all cybersecurity domains are raising job requirements faster than compensation — a structural market trend that distorts career planning and hiring.
