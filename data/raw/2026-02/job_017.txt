@@ -1,0 +1,24 @@
+Title: Cloud Security Engineer
+Company: FinCloud Technologies
+Location: Bengaluru, Karnataka, India
+Salary: INR 20,00,000 - 28,00,000 annually
+
+Job Description:
+FinCloud Technologies is looking for a Cloud Security Engineer to secure multi-cloud infrastructure across AWS and Azure for fintech clients.
+
+Responsibilities:
+- Design and implement cloud security architecture across AWS and Azure
+- Deploy and manage CSPM tools including Wiz and Prisma Cloud
+- Build IaC security guardrails using Terraform and Checkov
+- Implement DevSecOps pipelines with SAST/DAST integration using Snyk
+- Conduct cloud security reviews and architecture threat modeling
+- Manage cloud security posture and compliance against CIS Benchmarks
+
+Requirements:
+- 4+ years experience in cloud security or DevSecOps
+- AWS Certified Security Specialty or Azure Security Engineer required
+- Hands-on experience with Wiz or Prisma Cloud
+- Proficiency with Terraform and container security (Kubernetes)
+- Knowledge of SOC 2 and ISO 27001 in cloud environments
+- CISSP or CCSP certification preferred
+- Scripting in Python or Go

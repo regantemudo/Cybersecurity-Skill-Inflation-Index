@@ -1,0 +1,24 @@
+Title: Penetration Tester - Web & Network
+Company: RedCell Security
+Location: London, United Kingdom
+Salary: GBP 55,000 - 70,000 annually
+
+Job Description:
+RedCell Security is hiring a Penetration Tester to conduct web application and network penetration tests for clients across financial services and government sectors.
+
+Responsibilities:
+- Conduct web application penetration testing using Burp Suite and OWASP methodology
+- Perform network and infrastructure penetration testing
+- Execute social engineering and phishing assessments
+- Write detailed technical and executive-level pentest reports
+- Assist with red team engagements
+- Perform vulnerability assessments using Nessus and Nmap
+
+Requirements:
+- 3+ years experience in penetration testing
+- OSCP certification required
+- Strong knowledge of OWASP Top 10 and PTES methodology
+- Proficiency with Burp Suite, Metasploit, Nmap, Nessus
+- CEH or GPEN certification is a plus
+- Scripting skills in Python or Bash
+- Experience with Kali Linux

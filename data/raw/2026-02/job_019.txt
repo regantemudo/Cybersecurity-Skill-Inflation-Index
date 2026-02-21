@@ -1,0 +1,25 @@
+Title: Identity & Access Management Engineer
+Company: GlobalTrust Financial
+Location: Mumbai, India
+Salary: INR 16,00,000 - 22,00,000 annually
+
+Job Description:
+GlobalTrust Financial is seeking an IAM Engineer to design and manage identity governance solutions for a 15,000-person enterprise.
+
+Responsibilities:
+- Implement and maintain SailPoint IdentityNow IGA platform
+- Manage CyberArk PAM solution for privileged account governance
+- Design Okta SSO and MFA configurations across 200+ applications
+- Develop role-based access control (RBAC) and access certification campaigns
+- Integrate IAM with HR systems (Workday) for joiner/mover/leaver automation
+- Ensure IAM compliance with SOC 2, ISO 27001, and GDPR
+- Manage Azure Active Directory and federated identity
+
+Requirements:
+- 4+ years experience in IAM or identity security
+- Hands-on experience with SailPoint or Saviynt required
+- CyberArk and Okta proficiency required
+- Microsoft SC-300 certification preferred
+- CISSP or CISM certification a strong advantage
+- Knowledge of SAML, OAuth, OIDC, and SCIM protocols
+- Experience with Zero Trust architecture principles

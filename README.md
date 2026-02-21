@@ -1,95 +1,128 @@
 # 📊 Cybersecurity Skill Inflation Index (CSII)
 
-> **An automated intelligence engine tracking how cybersecurity job requirements are rising — faster than salaries.**
+> **Industry-wide intelligence engine tracking skill inflation, exploitation signals, and salary gaps across all cybersecurity domains.**
 
 [![CSII Automation](https://github.com/YOUR-USERNAME/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml/badge.svg)](https://github.com/YOUR-USERNAME/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02-blue?style=flat)
-![Skill Score](https://img.shields.io/badge/Skill%20Score-3.12-red?style=flat)
-![Avg Years](https://img.shields.io/badge/Avg%20Years-4.2-blue?style=flat)
-![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.4-green?style=flat)
-![Avg Tools](https://img.shields.io/badge/Avg%20Tools-1.4-yellow?style=flat)
-![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-12-brightgreen?style=flat)
+![Skill Score](https://img.shields.io/badge/Skill%20Score-3.32-red?style=flat)
+![Avg Years](https://img.shields.io/badge/Avg%20Years-4.4-blue?style=flat)
+![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.2-green?style=flat)
+![Avg Tools](https://img.shields.io/badge/Avg%20Tools-1.8-yellow?style=flat)
+![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-19-brightgreen?style=flat)
+![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-53%25-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 ---
 
-## ⚠️ Latest Signal — February 2026
+## ⚠️ Industry Signal — February 2026
 
-> 🔴 **HIGH INFLATION DETECTED** — Skill requirements are rising faster than compensation. Average experience demand has reached **4.2 years** across all roles, with **3.4 certifications** expected per job posting.
+> 🔴 **HIGH INFLATION** — Global score **3.32**, above the 3.0 threshold. AppSec and Cloud Security are the most exploitative domains. **53% of all listings** flagged for exploitation signals.
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| 📅 Avg Years Required | **4.17 yrs** | 🔴 High — entry roles requiring mid-level experience |
-| 🧠 Avg Certifications per Job | **3.42** | 🔴 Cert creep accelerating |
-| 🛠️ Avg Tools Required | **1.42** | 🟡 Growing stack complexity |
-| 📐 Avg Frameworks Referenced | **3.58** | 🔴 NIST + ISO + SOC 2 now standard |
-| 📈 **Skill Inflation Score** | **3.12** | 🔴 Above inflation threshold (3.0) |
-| 💼 Jobs Analyzed This Month | **12** | ✅ |
+| 📈 Global Skill Inflation Score | **3.32** | 🔴 High — above threshold |
+| 📅 Avg Years Required | **4.4 yrs** | 🔴 Rising across all domains |
+| 🧠 Avg Certifications Demanded | **3.2** | 🔴 Cert creep industry-wide |
+| 🛠️ Avg Tools Required | **1.8** | 🟡 Growing complexity |
+| ⚠️ Exploitation Rate | **53%** | 🔴 Majority of listings flagged |
+| 💰 Avg Salary (USD) | **~$72,000** | 🟡 Not keeping pace |
+| 💼 Total Jobs Analyzed | **19** | ✅ 6 domains covered |
 
 ---
 
-## 📈 Skill Inflation Trend
+## 📈 Global Inflation Trend
 
-![Skill Inflation Trend](reports/skill_trend.png)
-
-> Auto-regenerated monthly by GitHub Actions. Each data point = one month of curated job descriptions.
+![Skill Trend](reports/skill_trend.png)
 
 ---
 
-## 🏆 Certification Demand
+## 🏛️ Domain Intelligence
 
-![Certification Demand](reports/cert_demand.png)
+### Inflation Score by Domain
 
-| Certification | Demand Bar | Signal |
-|--------------|------------|--------|
-| CISSP | `████████░░` | 🔴 Near-universal for mid/senior |
-| CISA | `███████░░░` | 🔴 Standard requirement |
-| ISO 27001 | `███████░░░` | 🔴 Expected at all levels |
-| CRISC | `█████░░░░░` | 🟡 Growing fast |
-| CEH | `███░░░░░░░` | 🟢 Emerging |
-| Security+ | `███░░░░░░░` | 🟢 Entry-level baseline |
+![Domain Comparison](reports/domain_comparison.png)
+
+| Domain | Avg Years | Avg Certs | Score | Signal |
+|--------|-----------|-----------|-------|--------|
+| AppSec | 5.0 | 4.0 | 🔴 **4.70** | Severe — most tool-heavy domain |
+| Cloud Security | 4.0 | 3.0 | 🔴 **4.60** | Multi-cloud complexity explosion |
+| Penetration Testing | 4.5 | 3.5 | 🔴 **4.20** | OSCP not enough anymore |
+| IAM | 4.0 | 3.0 | 🔴 **4.00** | Platform cert stacking |
+| SOC | 3.5 | 2.5 | 🔴 **3.20** | SIEM + EDR now baseline |
+| GRC | 3.2 | 3.4 | 🟡 **2.92** | High certs, lower tool demand |
 
 ---
 
-## 🛠️ Tool Stack Demand
+### Job Distribution by Domain
+
+![Domain Donut](reports/domain_donut.png)
+
+---
+
+### Exploitation Rate by Domain
+
+![Exploitation by Domain](reports/exploitation_by_domain.png)
+
+---
+
+### Seniority Distribution by Domain
+
+![Seniority by Domain](reports/seniority_by_domain.png)
+
+---
+
+### Salary vs Inflation Score — By Domain
+
+![Salary vs Score](reports/salary_vs_score.png)
+
+> Domains in the top-left (high salary, low score) = good value. Bottom-right (low salary, high score) = exploitation.
+
+---
+
+## 🌍 Country Intelligence
+
+![Country Comparison](reports/country_comparison.png)
+
+| Market | Avg Yrs | Score | Signal |
+|--------|---------|-------|--------|
+| 🇸🇬 Singapore | 5.5 | 🔴 4.20 | Severe |
+| 🇭🇰 Hong Kong | 6.5 | 🔴 4.10 | Severe |
+| 🇦🇪 UAE | 3.0 | 🟡 2.70 | Moderate |
+| 🇮🇳 India | 3.2 | 🟡 2.80 | Moderate |
+| 🇬🇧 UK | 4.0 | 🟡 2.90 | Moderate |
+| 🇺🇸 USA | 3.5 | 🔴 3.10 | High |
+
+---
+
+## 🏆 Certification Demand — Industry-Wide
+
+![Cert Demand](reports/cert_demand.png)
+
+---
+
+## 🛠️ Tool Demand — Industry-Wide
 
 ![Tool Demand](reports/tool_demand.png)
 
-| Tool | Jobs Mentioning | Trend |
-|------|----------------|-------|
-| ServiceNow | 5 / 12 | 🔴 Dominant GRC platform |
-| Archer | 4 / 12 | 🔴 Common in finance sector |
-| OneTrust | 3 / 12 | 🟡 Rising privacy focus |
-| Splunk | 2 / 12 | 🟡 Growing SIEM requirement |
+---
+
+## ⚠️ Exploitation Detector
+
+![Anomaly Flags](reports/anomaly_flags.png)
+
+| Flag | Meaning |
+|------|---------|
+| `EXPERIENCE_INFLATION` | Junior title + 5+ years demanded |
+| `CERT_OVERLOAD` | 5+ certifications in one posting |
+| `TOOL_STACK_ABUSE` | 4+ tools demanded simultaneously |
+| `UNDERPAID_EXPERIENCED` | 3+ yrs required + salary < $30K USD |
+| `SENIOR_EXPLOITATION` | 8+ yrs + 3+ certs + 2+ tools |
 
 ---
 
-## 📊 Experience Distribution
+## 💰 Salary vs Experience
 
-![Experience Distribution](reports/experience_distribution.png)
-
-| Bracket | Count | % of Jobs |
-|---------|-------|-----------|
-| 0 yrs (Entry) | 1 | 8% |
-| 1–2 yrs | 2 | 17% |
-| 3–5 yrs | 4 | 33% |
-| 6–8 yrs | 2 | 17% |
-| 9+ yrs | 3 | 25% |
-
-> **Key Insight:** 75% of listings require 3+ years. Only 8% are truly entry-level.
-
----
-
-## 🌍 Regional Intelligence
-
-| Market | Avg Yrs | Score | Dominant Certs |
-|--------|---------|-------|----------------|
-| 🇸🇬 Singapore | 7.0 | 🔴 4.50 | CISSP, CISA, CRISC |
-| 🇭🇰 Hong Kong | 8.0 | 🔴 4.20 | CISSP, CRISC, ISO 27001 |
-| 🇦🇪 UAE | 3.5 | 🟡 2.80 | CISA, ISO 27001 |
-| 🇮🇳 India | 2.8 | 🟡 2.60 | CISA, ISO 27001, CEH |
-| 🇬🇧 UK | 1.0 | 🟢 1.10 | Security+, CISA |
-| 🇺🇸 USA | 1.0 | 🟢 1.00 | Security+, CEH |
+![Salary vs Experience](reports/salary_vs_experience.png)
 
 ---
 
@@ -97,113 +130,115 @@
 
 | Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |
 |-------|-----------|-----------|-----------|-------------|------|
-| 2026-02 | 4.17 | 3.42 | 1.42 | **3.12** | 12 |
+| 2026-02 | 4.37 | 3.21 | 1.84 | **3.32** | 19 |
+
+---
+
 ## 🔍 What Is CSII?
 
-The **Cybersecurity Skill Inflation Index** measures whether employers are raising job requirements faster than compensation — a structural market inefficiency that disadvantages job seekers and distorts career planning.
+The **Cybersecurity Skill Inflation Index** tracks whether employers across all cybersecurity domains are raising job requirements faster than compensation — a structural market trend that distorts career planning and hiring.
+
+**Domains Tracked:**
+
+| Domain | Focus |
+|--------|-------|
+| 🔵 GRC | Governance, Risk, Compliance, Audit |
+| 🔴 SOC | Threat Detection, Incident Response, SIEM |
+| 🟠 Penetration Testing | Offensive Security, Red Team, Vuln Assessment |
+| 🩵 Cloud Security | AWS/Azure/GCP Security, DevSecOps, CSPM |
+| 🟣 AppSec | Secure SDLC, SAST/DAST, Code Review |
+| 🟢 IAM | Identity Governance, PAM, SSO, Zero Trust |
 
 **Scoring Formula:**
 ```
 Skill_Score = (Avg_Years × 0.4) + (Avg_Certs × 0.3) + (Avg_Tools × 0.3)
 ```
 
-**Interpreting Scores:**
-| Score | Signal | Meaning |
-|-------|--------|---------|
-| `< 2.0` | 🟢 Healthy | Requirements proportional to value |
-| `2.0–3.0` | 🟡 Moderate | Inflation building — monitor closely |
-| `> 3.0` | 🔴 High | **Requirements outpacing compensation** |
+| Score | Signal |
+|-------|--------|
+| `< 2.0` | 🟢 Healthy market |
+| `2.0–3.0` | 🟡 Moderate inflation |
+| `> 3.0` | 🔴 High inflation — requirements outpacing value |
 
 ---
 
-## ⚙️ How It Works
+## ⚙️ Pipeline
 
 ```
-data/raw/YYYY-MM/*.txt         ← Monthly job descriptions (structured .txt)
-         ↓
-scripts/extract_metrics.py     ← Parses years, certs, tools, frameworks per job
-         ↓
-scripts/calculate_index.py     ← Weighted inflation score, deduplication
-         ↓
-scripts/generate_report.py     ← 4 charts + README badge update + monthly report
-         ↓
-.github/workflows/csii.yml     ← Auto-commits everything on schedule
+data/raw/YYYY-MM/*.txt
+        ↓ extract_metrics.py
+          → Domain auto-classifier (6 domains)
+          → Seniority classifier (Junior/Mid/Senior)
+          → Salary normalizer (→ USD)
+          → Country extractor (20+ markets)
+          → Exploitation detector (5 flags)
+        ↓ calculate_index.py
+          → Global index
+          → Domain index (per-domain scores)
+          → Country index (per-market scores)
+        ↓ generate_report.py
+          → 12 charts (dark theme, auto-generated)
+          → README badges auto-updated
+          → Monthly report committed
+        ↓ GitHub Actions (daily cron)
 ```
 
 ---
 
-## 📂 Repository Structure
+## 📂 Structure
 
 ```
 Cybersecurity-Skill-Inflation-Index/
 ├── data/
-│   ├── raw/
-│   │   └── YYYY-MM/          ← Add job_XXX.txt files here monthly
+│   ├── raw/YYYY-MM/              ← Add job_XXX.txt files here
 │   └── processed/
-│       ├── YYYY-MM.csv        ← Extracted job metrics
-│       └── monthly_index.csv  ← Cumulative inflation scores
-├── reports/
-│   ├── skill_trend.png        ← Inflation trend chart
-│   ├── cert_demand.png        ← Certification frequency chart
-│   ├── tool_demand.png        ← Tool stack pie chart
-│   ├── experience_distribution.png
-│   └── Monthly-CSII-Report.md
+│       ├── YYYY-MM.csv           ← Per-job: domain, seniority, salary_usd, anomaly
+│       ├── monthly_index.csv     ← Global scores over time
+│       ├── domain_index.csv      ← Per-domain scores over time
+│       └── country_index.csv     ← Per-country scores over time
+├── reports/                      ← 12 auto-generated charts + monthly report
 ├── scripts/
-│   ├── extract_metrics.py
-│   ├── calculate_index.py
-│   ├── generate_report.py
-│   └── collect.py
+│   ├── extract_metrics.py        ← Domain-aware extraction engine
+│   ├── calculate_index.py        ← Global + domain + country scoring
+│   └── generate_report.py        ← 12-chart report generator
 ├── requirements.txt
 └── .github/workflows/csii.yml
 ```
 
 ---
 
-## 📋 Job Description Format
-
-For consistent parsing, save each job as `data/raw/YYYY-MM/job_XXX.txt`:
+## 📋 Job Format
 
 ```
-Title: GRC Analyst
+Title: SOC Analyst Level 2
 Company: Company Name
 Location: City, Country
-Salary: USD 80,000 annually
+Salary: USD 90,000 annually
 
 Job Description:
-Full job description text here...
+Full text here. Domain is auto-detected from title and content.
+Optionally add: Domain: SOC  (to override auto-detection)
 ```
 
----
-
-## 📦 Tech Stack
-
-| Component | Technology |
-|-----------|-----------|
-| Data Storage | CSV + Git version control |
-| Extraction | Python · regex · pandas |
-| Visualization | matplotlib (dark theme) |
-| Automation | GitHub Actions (daily cron) |
-| Reports | Markdown + PNG charts |
+**Supported domains for override:** `GRC` · `SOC` · `Penetration Testing` · `Cloud Security` · `AppSec` · `IAM`
 
 ---
 
 ## 🗺️ Roadmap
 
-- [x] Monthly extraction + scoring engine
-- [x] 4-chart automated report generation
+- [x] 6-domain tracking engine
+- [x] Domain auto-classifier
+- [x] Seniority classifier
+- [x] Salary normalizer (→ USD)
+- [x] Country segmentation
+- [x] Exploitation detector (5 flags)
+- [x] 12 automated dark-theme charts
 - [x] README badge auto-update
-- [ ] Country-level segmentation scoring
-- [ ] Junior / Mid / Senior inflation split
-- [ ] Salary normalization across currencies
-- [ ] 6-month forecast model (scikit-learn)
-- [ ] GitHub Pages interactive dashboard
+- [ ] 6-month forecast model
+- [ ] GitHub Pages live dashboard
+- [ ] Multi-year trend analysis
+- [ ] Domain-specific cert ROI scoring
 
 ---
 
-## 📥 Contributing
-
-Add job descriptions to `data/raw/YYYY-MM/` using the structured format above, then trigger the workflow manually via **Actions → Run workflow**.
-
----
-
-*Data sourced manually from public job listings. Updated automatically via GitHub Actions.*
+*Tracking the full cybersecurity job market. Auto-updated via GitHub Actions.*

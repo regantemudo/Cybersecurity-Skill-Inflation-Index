@@ -1,0 +1,24 @@
+Title: Threat Intelligence Analyst
+Company: CyberEdge Asia
+Location: Singapore
+Salary: SGD 7,000 - 9,000 per month
+
+Job Description:
+CyberEdge Asia is seeking a Threat Intelligence Analyst to deliver actionable threat intelligence for financial sector clients across APAC.
+
+Responsibilities:
+- Collect and analyse threat intelligence from OSINT, dark web, and commercial feeds
+- Develop threat profiles and TTPs using MITRE ATT&CK framework
+- Produce finished intelligence products for executive and technical audiences
+- Integrate threat intel into SIEM and SOAR platforms
+- Support incident response with adversary context
+- Track APT groups targeting the financial sector
+
+Requirements:
+- 4+ years experience in cyber threat intelligence or SOC
+- Strong knowledge of MITRE ATT&CK and Diamond Model
+- Experience with Splunk and CrowdStrike or similar EDR
+- GIAC GCTI or equivalent certification preferred
+- CISSP or Security+ certification required
+- Scripting skills (Python) for automation
+- Familiarity with STIX/TAXII and threat intel platforms

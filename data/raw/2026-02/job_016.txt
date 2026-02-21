@@ -1,0 +1,24 @@
+Title: Senior Red Team Operator
+Company: OffSec Consulting
+Location: Remote - United States
+Salary: USD 130,000 - 160,000 annually
+
+Job Description:
+OffSec Consulting is seeking a Senior Red Team Operator to lead advanced adversary simulation engagements for Fortune 500 clients.
+
+Responsibilities:
+- Plan and execute full-scope red team operations simulating APT tradecraft
+- Develop custom tooling and C2 infrastructure using Cobalt Strike
+- Perform Active Directory attacks including Kerberoasting and lateral movement
+- Conduct physical and social engineering components
+- Write detailed adversary simulation reports with MITRE ATT&CK mappings
+- Mentor junior red team members
+
+Requirements:
+- 6+ years experience in offensive security or red teaming
+- OSCP required; OSEP or CRTO strongly preferred
+- Deep expertise with Cobalt Strike, BloodHound, Impacket, Responder
+- Strong knowledge of Active Directory attack paths
+- Experience with custom malware development (C, C++, or Go)
+- Scripting in Python and PowerShell
+- PNPT or GPEN certification a plus

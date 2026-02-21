@@ -1,25 +1,31 @@
-# Cybersecurity Skill Inflation Index — Monthly Report
+# CSII Monthly Report — 2026-02
 
-**Month:** 2026-02
+## Signal: 🔴 **HIGH INFLATION**
 
-## Key Metrics
-
+## Global Metrics
 | Metric | Value |
 |--------|-------|
-| Average Years Required | 4.17 |
-| Average Certifications | 3.42 |
-| Average Tools | 1.42 |
-| Average Frameworks | 3.58 |
-| **Skill Inflation Score** | **3.12** |
-| Jobs Analyzed | 12 |
+| Avg Years Required | 4.16 |
+| Avg Certifications | 3.11 |
+| Avg Tools | 2.42 |
+| **Skill Inflation Score** | **3.32** |
+| Avg Salary (USD) | $67,147.0 |
+| Exploitation Rate | 52.6% |
+| Jobs Analyzed | 19 |
 
-## Signal
-
-🔴 HIGH INFLATION — Requirements significantly outpacing market value.
+## Domain Breakdown
+| Domain | Avg Years | Avg Certs | Score | Signal | Jobs |
+|--------|-----------|-----------|-------|--------|------|
+| AppSec | 5.0 | 4.0 | 4.70 | 🔴 | 1 |
+| Cloud Security | 4.0 | 5.0 | 4.60 | 🔴 | 1 |
+| Penetration Testing | 4.5 | 3.5 | 4.20 | 🔴 | 2 |
+| IAM | 4.0 | 3.0 | 4.00 | 🔴 | 1 |
+| SOC | 3.5 | 3.5 | 3.20 | 🔴 | 2 |
+| GRC | 4.2 | 2.8 | 2.92 | 🟡 | 12 |
 
 ## Charts
-
-![Trend](skill_trend.png)
-![Certs](cert_demand.png)
-![Tools](tool_demand.png)
-![Experience](experience_distribution.png)
+![Global Trend](skill_trend.png) ![Domains](domain_comparison.png)
+![Domain Donut](domain_donut.png) ![Exploitation](exploitation_by_domain.png)
+![Seniority](seniority_by_domain.png) ![Country](country_comparison.png)
+![Certs](cert_demand.png) ![Tools](tool_demand.png)
+![Anomalies](anomaly_flags.png) ![Salary](salary_vs_experience.png)

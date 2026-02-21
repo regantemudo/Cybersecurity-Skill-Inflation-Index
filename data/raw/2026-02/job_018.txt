@@ -1,0 +1,25 @@
+Title: Application Security Engineer
+Company: SecureCode Labs
+Location: Hong Kong
+Salary: HKD 45,000 - 60,000 per month
+
+Job Description:
+SecureCode Labs is hiring an Application Security Engineer to embed security into the SDLC for a leading digital banking platform.
+
+Responsibilities:
+- Perform secure code reviews and threat modeling for new features
+- Integrate SAST tools (Checkmarx, Semgrep) and DAST (Burp Suite) into CI/CD pipelines
+- Conduct web application penetration testing aligned with OWASP Top 10
+- Lead security champions program across engineering teams
+- Define secure coding standards and developer training
+- Perform SCA using Black Duck and Snyk
+- Manage vulnerability triage and remediation SLAs
+
+Requirements:
+- 5+ years experience in application security
+- Strong knowledge of OWASP Top 10 and OWASP SAMM
+- Experience with Checkmarx, Semgrep, Burp Suite, Snyk
+- CSSLP or GWEB certification preferred
+- Understanding of GDPR and PCI-DSS requirements for application security
+- Proficiency in at least one programming language (Java, Python, or JavaScript)
+- OSWE or GWAPT certification a strong advantage

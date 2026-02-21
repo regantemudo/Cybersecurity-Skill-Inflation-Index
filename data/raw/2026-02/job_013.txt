@@ -1,0 +1,24 @@
+Title: SOC Analyst Level 2
+Company: ThreatGuard Security
+Location: Dubai, UAE
+Salary: AED 16,000 - 20,000 per month
+
+Job Description:
+ThreatGuard is hiring a SOC Analyst L2 to monitor, detect, and respond to cybersecurity incidents across enterprise clients using a 24x7 security operations center.
+
+Responsibilities:
+- Monitor and triage alerts from Splunk SIEM and Microsoft Sentinel
+- Investigate security incidents using CrowdStrike Falcon EDR
+- Perform threat hunting and IOC analysis
+- Develop and tune detection rules and playbooks
+- Escalate P1/P2 incidents and lead initial response
+- Produce shift handover and incident reports
+
+Requirements:
+- 3+ years experience in SOC or incident response
+- Hands-on experience with Splunk and Microsoft Sentinel
+- Familiarity with MITRE ATT&CK framework
+- CrowdStrike Falcon proficiency required
+- CompTIA CySA+ or GIAC GCIH certification preferred
+- Security+ certification required
+- Understanding of NIST incident response lifecycle
