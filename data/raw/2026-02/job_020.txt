@@ -1,0 +1,21 @@
+Title: SOC Analyst (Incident Management)
+Company: Knack Consulting Services Pvt Ltd
+Location: Mohali, Punjab, India
+Salary: Not Specified
+
+Job Description:
+SOC Analyst responsible for incident management and day-to-day SOC operations. Role involves acting as a key contributor in resolving cybersecurity incidents, coordinating with IT infrastructure and application teams, performing first and second-level triage, and escalating incidents when required.
+
+Responsibilities include active incident tracking using ticket management systems, frontline alert analysis on SOC platforms, coordinating remediation with IT teams, and maintaining daily security incident reports. The role also involves improving SOC operational efficiency and creating security dashboards and presentations for management.
+
+Requirements:
+- 4+ years of experience
+- Familiarity with Incident Management frameworks
+- Knowledge of SIEM, AV, EDR, Next-Gen Firewalls, Cloud Platforms
+- Basic IT networking knowledge
+- Strong documentation and communication skills
+- Stakeholder management capability
+- Experience working in complex matrix environments
+- Ability to operate in multicultural international teams
+
+Domain: SOC
