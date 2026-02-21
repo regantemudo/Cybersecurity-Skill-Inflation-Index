@@ -1,72 +1,45 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
+import os
 
-# Load processed data
-df = pd.read_csv("data/processed/extracted_data.csv")
-history = pd.read_csv("data/processed/index_history.csv")
+def generate():
+    file_path = "data/processed/monthly_index.csv"
 
-# ---------------------------
-# 1. Skill Inflation Trend
-# ---------------------------
-plt.figure()
-plt.fill_between(history["date"], history["skill_score"])
-plt.xticks(rotation=45)
-plt.title("Cybersecurity Skill Inflation Trend")
-plt.xlabel("Date")
-plt.ylabel("Skill Inflation Score")
-plt.tight_layout()
-plt.savefig("reports/skill_trend.png")
-plt.close()
+    if not os.path.exists(file_path):
+        print("No index data available.")
+        return
 
-# ---------------------------
-# 2. Certification Demand
-# ---------------------------
-cert_counts = df["certification"].value_counts().head(10)
+    df = pd.read_csv(file_path)
 
-plt.figure()
-cert_counts.plot(kind="bar")
-plt.title("Top Certifications in Demand")
-plt.xlabel("Certification")
-plt.ylabel("Frequency")
-plt.tight_layout()
-plt.savefig("reports/cert_demand.png")
-plt.close()
+    os.makedirs("reports", exist_ok=True)
 
-# ---------------------------
-# 3. Tool Demand
-# ---------------------------
-tool_counts = df["tool"].value_counts().head(10)
-
-plt.figure()
-tool_counts.plot(kind="barh")
-plt.title("Top Tools in Demand")
-plt.xlabel("Frequency")
-plt.tight_layout()
-plt.savefig("reports/tool_demand.png")
-plt.close()
-
-# ---------------------------
-# 4. Experience Distribution
-# ---------------------------
-plt.figure()
-plt.hist(df["years_required"], bins=10)
-plt.title("Experience Requirement Distribution")
-plt.xlabel("Years Required")
-plt.ylabel("Number of Jobs")
-plt.tight_layout()
-plt.savefig("reports/experience_distribution.png")
-plt.close()
-
-# ---------------------------
-# 5. Salary vs Experience
-# ---------------------------
-if "salary_mean" in df.columns:
     plt.figure()
-    plt.scatter(df["years_required"], df["salary_mean"])
-    plt.title("Salary vs Experience")
-    plt.xlabel("Years Required")
-    plt.ylabel("Salary")
+    plt.plot(df["month"], df["skill_score"])
+    plt.xticks(rotation=45)
+    plt.title("Cybersecurity Skill Inflation Trend")
     plt.tight_layout()
-    plt.savefig("reports/salary_vs_experience.png")
+    plt.savefig("reports/skill_trend.png")
     plt.close()
+
+    latest = df.iloc[-1]
+
+    report = f"""
+# Cybersecurity Skill Inflation Index Report
+
+## Latest Month: {latest['month']}
+
+- Average Years Required: {latest['avg_years']:.2f}
+- Average Certifications Required: {latest['avg_certs']:.2f}
+- Average Tools Required: {latest['avg_tools']:.2f}
+- Skill Inflation Score: {latest['skill_score']:.2f}
+
+See skill_trend.png for visualization.
+"""
+
+    with open("reports/Monthly-CSII-Report.md", "w") as f:
+        f.write(report)
+
+    print("Report generated.")
+
+if __name__ == "__main__":
+    generate()
