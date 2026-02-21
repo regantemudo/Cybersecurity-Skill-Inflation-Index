@@ -1,4 +1,2 @@
-month,avg_years,avg_certs,avg_tools,skill_score
-2026-02,3.2,2.2,1.4,2.3600000000000003
-2026-02,3.0,1.5714285714285714,1.0,1.971428571428572
-2026-02,3.0,1.5714285714285714,1.0,1.9714285714285718
+month,avg_years,avg_certs,avg_tools,avg_frameworks,skill_score,job_count
+2026-02,4.17,3.42,1.42,3.58,3.12,12

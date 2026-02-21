@@ -1,11 +1,25 @@
+# Cybersecurity Skill Inflation Index — Monthly Report
 
-# Cybersecurity Skill Inflation Index Report
+**Month:** 2026-02
 
-## Latest Month: 2026-02
+## Key Metrics
 
-- Average Years Required: 3.00
-- Average Certifications Required: 1.57
-- Average Tools Required: 1.00
-- Skill Inflation Score: 1.97
+| Metric | Value |
+|--------|-------|
+| Average Years Required | 4.17 |
+| Average Certifications | 3.42 |
+| Average Tools | 1.42 |
+| Average Frameworks | 3.58 |
+| **Skill Inflation Score** | **3.12** |
+| Jobs Analyzed | 12 |
 
-See skill_trend.png for visualization.
+## Signal
+
+🔴 HIGH INFLATION — Requirements significantly outpacing market value.
+
+## Charts
+
+![Trend](skill_trend.png)
+![Certs](cert_demand.png)
+![Tools](tool_demand.png)
+![Experience](experience_distribution.png)

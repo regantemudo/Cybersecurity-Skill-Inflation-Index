@@ -1,0 +1,23 @@
+Title: Cybersecurity Compliance Manager
+Company: Emirates NBD
+Location: Dubai, UAE
+Salary: AED 22,000 - 28,000 per month
+
+Job Description:
+Emirates NBD is seeking a Cybersecurity Compliance Manager to oversee all compliance activities for the bank's information security program in line with UAE CBUAE regulations and international standards.
+
+Responsibilities:
+- Manage ISO 27001 certification program and annual surveillance audits
+- Ensure compliance with GDPR, NIST, PCI-DSS, and CBUAE cybersecurity regulations
+- Lead third-party vendor risk assessments using Archer
+- Oversee security awareness and training program
+- Report compliance posture to CISO and board-level committees
+- Coordinate with external auditors and regulators
+
+Requirements:
+- 5+ years experience in cybersecurity compliance or information security management
+- CISA certification required
+- CISSP or ISO 27001 Lead Auditor certification preferred
+- Strong knowledge of PCI-DSS, GDPR, NIST CSF, and UAE banking regulations
+- Experience with Archer or ServiceNow GRC modules
+- Proven team leadership experience

@@ -1,0 +1,22 @@
+Title: GRC Analyst - Entry Level
+Company: Deloitte Advisory
+Location: London, United Kingdom
+Salary: GBP 35,000 - 42,000 annually
+
+Job Description:
+Deloitte Advisory is seeking an Entry Level GRC Analyst to join our growing cybersecurity consulting practice. You will support client engagements across risk, governance, and compliance.
+
+Responsibilities:
+- Support ISO 27001 gap assessments and implementation projects
+- Assist with NIST CSF maturity assessments for financial sector clients
+- Maintain client risk registers and prepare compliance status reports
+- Contribute to SOC 2 readiness engagements
+- Document policies, procedures, and control frameworks
+
+Requirements:
+- 1+ years experience in information security or IT audit
+- Understanding of ISO 27001, NIST CSF, and SOC 2
+- CompTIA Security+ or CEH certification preferred
+- Strong documentation and analytical skills
+- Willingness to travel to client sites when required
+- CISA certification a strong advantage

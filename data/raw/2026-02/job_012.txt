@@ -1,0 +1,25 @@
+Title: Chief Information Security Officer (CISO)
+Company: FinSecure Asia
+Location: Hong Kong
+Salary: HKD 80,000 - 110,000 per month
+
+Job Description:
+FinSecure Asia is seeking a strategic CISO to lead the enterprise cybersecurity function across Asia-Pacific operations, driving risk strategy, regulatory compliance, and security culture.
+
+Responsibilities:
+- Define and execute enterprise cybersecurity strategy across APAC
+- Own ISO 27001, SOC 2, MAS TRM, and HKMA cybersecurity compliance programs
+- Lead enterprise risk management framework using ServiceNow and Archer
+- Oversee GDPR and PDPO data privacy compliance
+- Manage relationships with regulators, auditors, and board-level stakeholders
+- Lead a team of 12 security professionals across 4 countries
+- Drive security culture through executive-level awareness programs
+
+Requirements:
+- 12+ years experience in information security leadership
+- CISSP certification required
+- CISA and CRISC certifications required
+- Deep expertise in ISO 27001, NIST CSF, SOC 2, GDPR, MAS TRM, and HKMA guidelines
+- Proven experience with ServiceNow GRC, Archer, and OneTrust
+- Track record of leading regulatory examinations and board-level reporting
+- MBA or equivalent senior leadership qualification preferred
