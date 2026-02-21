@@ -242,18 +242,6 @@ Optionally add: Domain: SOC  (to override auto-detection)
 
 ---
 
-## 🤖 Automated Job Collection
-
-The repo collects real cybersecurity job listings automatically every Monday.
-
-### Data Sources
-
-| Source | Coverage | Key Required |
-|--------|----------|-------------|
-| **Adzuna API** | US, UK, India, Singapore, Australia | Yes — free at [developer.adzuna.com](https://developer.adzuna.com) |
-| **JSearch** | Google Jobs worldwide | Yes — free 200/month at [RapidAPI](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) |
-| **USAJobs.gov** | US Government roles | Optional — [usajobs.gov/api](https://developer.usajobs.gov/) |
-
 **3. Trigger first run:**
 ```
 Actions tab → CSII Automated Intelligence Engine → Run workflow
