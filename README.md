@@ -254,24 +254,6 @@ The repo collects real cybersecurity job listings automatically every Monday.
 | **JSearch** | Google Jobs worldwide | Yes — free 200/month at [RapidAPI](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) |
 | **USAJobs.gov** | US Government roles | Optional — [usajobs.gov/api](https://developer.usajobs.gov/) |
 
-### Setup (One Time)
-
-**1. Get your free Adzuna keys** (takes 2 minutes):
-```
-→ Go to developer.adzuna.com
-→ Register → Dashboard → copy App ID + App Key
-```
-
-**2. Add secrets to your GitHub repo:**
-```
-Repo → Settings → Secrets and variables → Actions → New repository secret
-
-ADZUNA_APP_ID     ← your Adzuna App ID
-ADZUNA_APP_KEY    ← your Adzuna App Key
-JSEARCH_API_KEY   ← optional, from RapidAPI
-USAJOBS_API_KEY   ← optional, from usajobs.gov
-```
-
 **3. Trigger first run:**
 ```
 Actions tab → CSII Automated Intelligence Engine → Run workflow
