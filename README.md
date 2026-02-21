@@ -242,3 +242,58 @@ Optionally add: Domain: SOC  (to override auto-detection)
 ---
 
 *Tracking the full cybersecurity job market. Auto-updated via GitHub Actions.*
+
+---
+
+## 🤖 Automated Job Collection
+
+The repo collects real cybersecurity job listings automatically every Monday.
+
+### Data Sources
+
+| Source | Coverage | Key Required |
+|--------|----------|-------------|
+| **Adzuna API** | US, UK, India, Singapore, Australia | Yes — free at [developer.adzuna.com](https://developer.adzuna.com) |
+| **JSearch** | Google Jobs worldwide | Yes — free 200/month at [RapidAPI](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch) |
+| **USAJobs.gov** | US Government roles | Optional — [usajobs.gov/api](https://developer.usajobs.gov/) |
+
+### Setup (One Time)
+
+**1. Get your free Adzuna keys** (takes 2 minutes):
+```
+→ Go to developer.adzuna.com
+→ Register → Dashboard → copy App ID + App Key
+```
+
+**2. Add secrets to your GitHub repo:**
+```
+Repo → Settings → Secrets and variables → Actions → New repository secret
+
+ADZUNA_APP_ID     ← your Adzuna App ID
+ADZUNA_APP_KEY    ← your Adzuna App Key
+JSEARCH_API_KEY   ← optional, from RapidAPI
+USAJOBS_API_KEY   ← optional, from usajobs.gov
+```
+
+**3. Trigger first run:**
+```
+Actions tab → CSII Automated Intelligence Engine → Run workflow
+```
+
+That's it. Every Monday the workflow will:
+1. Pull fresh cybersecurity job listings from all sources
+2. Auto-detect domain (GRC / SOC / Pentest / Cloud / AppSec / IAM)
+3. Extract metrics and calculate inflation scores
+4. Regenerate all 12 charts
+5. Update README badges
+6. Commit everything back to the repo
+
+### Manual Collection (No API)
+
+You can still add jobs manually alongside automated collection:
+```
+data/raw/YYYY-MM/job_XXX.txt
+```
+Manual files are processed identically to automated ones.
+
+---
