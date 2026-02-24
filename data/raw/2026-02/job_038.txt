@@ -1,0 +1,20 @@
+Title: IAM Consultant
+Company: IBM
+Location: New York, USA
+Salary: USD 130,000 annually
+
+Job Description:
+We are looking for an IAM Consultant to lead complex Identity and Access Management deployments for enterprise clients.
+
+Qualifications:
+
+5+ years of dedicated IAM experience.
+
+Hands-on expertise with SailPoint IdentityIQ or CyberArk PAM.
+
+Strong understanding of RBAC, SAML, OAuth, and OIDC protocols.
+
+Certifications: CISM or vendor-specific IAM certifications (SailPoint, CyberArk).
+
+Previous consulting experience is preferred.
+Domain: IAM
