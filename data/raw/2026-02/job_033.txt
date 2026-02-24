@@ -1,0 +1,100 @@
+IAM Engineer - job post
+American Express Global Business Travel
+3.73.7 out of 5 stars
+Remote
+American Express Global Business Travel
+Remote
+Profile insights
+Here’s how the job qualifications align with your profile.
+Skills
+
+Do you have experience in Shell Scripting?
+&nbsp;
+Job details
+Here’s how the job details align with your profile.
+Job type
+
+&nbsp;
+Full job description
+
+Amex GBT is a place where colleagues find inspiration in travel as a force for good and – through their work – can make an impact on our industry. We’re here to help our colleagues achieve success and offer an inclusive and collaborative culture where your voice is valued.
+
+The Identity & Access Management (IAM) Engineer’s primary responsibilities are to implement security principles to the IAM IGA(Identity Governance & Administration) platform, performs daily functions required to maintain the rules and controls, maintain security and least privileged safeguards and support align GBT IAM policies to protect data and reduce risk.
+
+
+What You’ll Do
+
+    Design, implement, and handle Saviynt IAM solutions to ensure effective access controls, identity lifecycle management, and compliance. Handle user provisioning, de-provisioning, and account modifications.
+
+    Work closely with customers to understand business requirements and translate them into IAM solutions.
+
+    Design, implement, and maintain identity and access management solutions for non-human identities (service accounts, applications, and systems) to ensure secure authentication and authorization across the organization's infrastructure and applications.
+
+    Configure and deploy Saviynt modules and connectors for various applications, platforms, and systems.
+
+    Identify and assess potential security risks related to identity and access management. Implement risk mitigation strategies and ensure compliance with industry regulations.
+
+    Establish monitoring mechanisms for IAM activities and generate regular reports for audit and compliance purposes.
+
+    Investigate and respond to security incidents related to identity and access management.
+
+    Collaborate with other IAM team members seeking guidance on IAM related matters and contributing to system support.
+
+    Execute reports and capture data for metrics. Assist with tracking and producing IAM metrics including key performance indicators (KPIs).
+
+What We’re Looking For
+
+    Minimum 5 years of professional/hands on experience and knowledge in IAM
+
+    Minimum 3 years of professional/hands on experience with Saviynt including understanding of security system, endpoint, entitlements, workflows, email template, analytics, certificates and connections etc.
+
+        Minimum 6 years of experience in leading the design, implementation, and maintenance of any IGA Product (i.e. Identity Now, IdentityIQ, OIM, etc..) solutions if Saviynt skills is not found.
+
+    Hands on experience in connected and disconnected application onboarding including request form, dynamic attributes, mapping and data types etc.
+
+    Demonstrated expertise in non-human identity management platforms and technologies, strong understanding of IAM principles and security guidelines, proficiency with identity governance tools, and proven track record to handle service accounts, API credentials, and application identities in enterprise environments.
+
+    Hands on experience in REST & SOAP connector including - JSON building, mapping, reconciliation and provisioning use cases etc.
+
+    Hands on experience in SOD, technical/update rules
+
+    Experience creating static and actionable analytical reports based on complex SQL queries.
+
+    Experienced knowledge of identity management principles, access controls, and security guidelines.
+
+    Proficiency with Postman, Java Scripting and Power Shell scripting.
+
+    General understanding of Single Sign-On, Multi-Factory Authentications (MFA), and Authentication, Privileged Access Management (PAM) & Cloud technologies.
+
+        Experience or deep understanding CyberArk( or any other Privileged Access Management solution), Azure, AWS, Active Directory, Okta and various multi-factor authentication services is preferred.
+
+    Familiarity with industry regulations and standards (e.g. SOC2, ISO, SOX, PCI).
+
+    Excellent analytical and problem-solving skills.
+
+
+Location
+India
+
+
+The #TeamGBT Experience
+
+Work and life: Find your happy medium at Amex GBT.
+
+    Flexible benefits are tailored to each country and start the day you do. These include health and welfare insurance plans, retirement programs, parental leave, adoption assistance, and wellbeing resources to support you and your immediate family.
+
+    Travel perks: get a choice of deals each week from major travel providers on everything from flights to hotels to cruises and car rentals.
+
+    Develop the skills you want when the time is right for you, with access to over 20,000 courses on our learning platform, leadership courses, and new job openings available to internal candidates first.
+
+    We strive to champion Inclusion in every aspect of our business at Amex GBT. You can connect with colleagues through our global INclusion Groups, centered around common identities or initiatives, to discuss challenges, obstacles, achievements, and drive company awareness and action.
+
+    And much more!
+
+All applicants will receive equal consideration for employment without regard to age, sex, gender (and characteristics related to sex and gender), pregnancy (and related medical conditions), race, color, citizenship, religion, disability, or any other class or characteristic protected by law.
+
+Click Here for Additional Disclosures in Accordance with the LA County Fair Chance Ordinance.
+
+Furthermore, we are committed to providing reasonable accommodation to qualified individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the hiring process. For details regarding how we protect your data, please consult the Amex GBT Recruitment Privacy Statement.
+
+What if I don’t meet every requirement? If you’re passionate about our mission and believe you’d be a phenomenal addition to our team, don’t worry about “checking every box;" please apply anyway. You may be exactly the person we’re looking for!
