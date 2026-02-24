@@ -5,13 +5,13 @@
 ## Global Metrics
 | Metric | Value |
 |--------|-------|
-| Avg Years Required | 4.14 |
-| Avg Certifications | 3.00 |
-| Avg Tools | 2.52 |
-| **Skill Inflation Score** | **3.31** |
+| Avg Years Required | 3.78 |
+| Avg Certifications | 2.74 |
+| Avg Tools | 2.30 |
+| **Skill Inflation Score** | **3.03** |
 | Avg Salary (USD) | $67,147.0 |
-| Exploitation Rate | 52.4% |
-| Jobs Analyzed | 21 |
+| Exploitation Rate | 47.8% |
+| Jobs Analyzed | 23 |
 
 ## Domain Breakdown
 | Domain | Avg Years | Avg Certs | Score | Signal | Jobs |
@@ -20,8 +20,8 @@
 | Cloud Security | 4.0 | 5.0 | 4.60 | 🔴 | 1 |
 | Penetration Testing | 4.5 | 3.5 | 4.20 | 🔴 | 2 |
 | IAM | 4.0 | 3.0 | 4.00 | 🔴 | 1 |
-| SOC | 3.8 | 2.8 | 3.23 | 🔴 | 4 |
-| GRC | 4.2 | 2.8 | 2.92 | 🟡 | 12 |
+| GRC | 3.9 | 2.5 | 2.69 | 🟡 | 13 |
+| SOC | 3.0 | 2.2 | 2.58 | 🟡 | 5 |
 
 ## Charts
 ![Global Trend](skill_trend.png) ![Domains](domain_comparison.png)
