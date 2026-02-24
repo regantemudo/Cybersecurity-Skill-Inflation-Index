@@ -32,3 +32,8 @@ job_030.txt,Unknown,Unknown,Unknown,Other,IAM,Mid,4,1,0,0,Unknown,,CLEAN
 job_031.txt,Unknown,Unknown,Unknown,Other,GRC,Mid,5,1,0,2,Unknown,,CLEAN
 job_032.txt,Unknown,Unknown,Bengaluru,India,GRC,Junior,0,1,0,3,Unknown,,CLEAN
 job_033.txt,Unknown,Unknown,Unknown,Other,IAM,Senior,6,0,4,1,Unknown,,TOOL_STACK_ABUSE
+job_034.txt,Senior SOC Analyst,Tech Mahindra,"Bengaluru, India",India,SOC,Senior,4,2,2,1,"INR 1,800,000 annually (Normalized to USD: $21,600)",10930.0,UNDERPAID_EXPERIENCED
+job_035.txt,Penetration Tester,TCS (Tata Consultancy Services),"Pune, India",India,Penetration Testing,Mid,5,3,3,1,"INR 1,500,000 annually (Normalized to USD: $18,000)",9108.0,UNDERPAID_EXPERIENCED
+job_036.txt,Cloud Security Engineer,Amazon Web Services (AWS),"London, UK",UK,Cloud Security,Mid,5,2,1,0,"GBP 80,000 annually (Normalized to USD: $100,800)",114808.0,CLEAN
+job_037.txt,Application Security Engineer,Grab,Singapore,Singapore,AppSec,Mid,4,2,2,2,"SGD 120,000 annually (Normalized to USD: $88,000)",77168.0,CLEAN
+job_038.txt,IAM Consultant,IBM,"New York, USA",USA,IAM,Mid,5,1,2,0,"USD 130,000 annually",130000.0,CLEAN

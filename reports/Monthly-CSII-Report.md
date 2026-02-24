@@ -5,22 +5,22 @@
 ## Global Metrics
 | Metric | Value |
 |--------|-------|
-| Avg Years Required | 3.76 |
-| Avg Certifications | 2.15 |
-| Avg Tools | 1.82 |
-| **Skill Inflation Score** | **2.69** |
-| Avg Salary (USD) | $67,147.0 |
-| Exploitation Rate | 36.4% |
-| Jobs Analyzed | 33 |
+| Avg Years Required | 3.87 |
+| Avg Certifications | 2.13 |
+| Avg Tools | 1.84 |
+| **Skill Inflation Score** | **2.74** |
+| Avg Salary (USD) | $67,446.0 |
+| Exploitation Rate | 36.8% |
+| Jobs Analyzed | 38 |
 
 ## Domain Breakdown
 | Domain | Avg Years | Avg Certs | Score | Signal | Jobs |
 |--------|-----------|-----------|-------|--------|------|
-| Cloud Security | 4.0 | 5.0 | 4.60 | 🔴 | 1 |
-| IAM | 4.7 | 1.3 | 3.17 | 🔴 | 3 |
-| AppSec | 4.0 | 2.0 | 2.95 | 🟡 | 2 |
-| Penetration Testing | 4.0 | 2.0 | 2.92 | 🟡 | 5 |
-| SOC | 3.3 | 2.2 | 2.58 | 🟡 | 6 |
+| Cloud Security | 4.5 | 3.5 | 3.75 | 🔴 | 2 |
+| IAM | 4.8 | 1.2 | 3.10 | 🔴 | 4 |
+| Penetration Testing | 4.2 | 2.2 | 3.07 | 🔴 | 6 |
+| AppSec | 4.0 | 2.0 | 2.90 | 🟡 | 3 |
+| SOC | 3.4 | 2.1 | 2.61 | 🟡 | 7 |
 | GRC | 3.6 | 2.2 | 2.42 | 🟡 | 16 |
 
 ## Charts
