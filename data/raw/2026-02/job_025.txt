@@ -1,0 +1,155 @@
+Cyber Security Specialist - job post
+Tech Vistar IT Solutions Private Limited
+Goregaon, Mumbai, Maharashtra
+₹40,000 - ₹75,000 a month
+Tech Vistar IT Solutions Private Limited
+Goregaon, Mumbai, Maharashtra
+₹40,000 - ₹75,000 a month
+Profile insights
+Here’s how the job qualifications align with your profile.
+Certifications
+
+Do you have a valid CEH certification?
+Skills
+
+Do you have experience in Azure?
+Education
+
+&nbsp;
+Job details
+Here’s how the job details align with your profile.
+Pay
+
+Job type
+
+&nbsp;
+Location
+Goregaon, Mumbai, Maharashtra
+&nbsp;
+Benefits
+Pulled from the full job description
+
+    Health insurance
+    Provident Fund
+
+&nbsp;
+Full job description
+
+Job Description: Cyber Security Specialist (Incident Response, Threat Hunting & Vulnerability Management)
+
+Reporting to: Manager – Cyber Security
+
+Department: Information Security
+
+Location: [Mumbai, Goregaon West]-On-Site
+
+Role Type: Full-Time
+
+1. Role Overview
+
+The Cyber Security Specialist will support day-to-day security operations by managing incident response, performing proactive
+
+threat hunting, monitoring endpoint and email security, and driving vulnerability and patch management activities across the
+
+organisation. The role involves close coordination with the outsourced SOC/SOAR partner and internal IT teams to maintain a
+
+strong security posture across 2500+ endpoints, servers, and cloud environments (AWS & Azure).
+
+2. Key Responsibilities
+
+A. Security Incident Response
+
+    Triage, analyse, and respond to security alerts (P1–P4) escalated by the SOC.
+    Perform full incident lifecycle activities: investigation, containment, mitigation, and recovery.
+    Validate alerts, eliminate false positives, and correlate telemetry across multiple tools.
+    Maintain incident logs, RCA documents, evidence, and audit compliance artefacts.
+    Escalate critical incidents as per defined SLAs.
+
+B. Threat Hunting (Proactive Security Defence)
+
+    Conduct proactive threat hunting across endpoints, servers, email, and logs to detect early-stage or hidden threats.
+    Use Trend Micro XDR telemetry, EDR behavioural indicators, IOC/IOA patterns, and threat intel feeds to identify
+
+suspicious activity.
+
+    Build and execute hypothesis-driven hunting queries to identify anomalies (e.g., lateral movement, privilege misuse,
+
+persistence mechanisms, suspicious PowerShell activity).
+
+    Develop and refine detection rules, alert logic, and hunting playbooks.
+    Perform retrospective analysis on historical logs to uncover missed detections.
+    Document hunting findings and recommend security control improvements.
+
+C. Endpoint Security (Trend Micro XDR)
+
+    Investigate and remediate detections from 2500+ endpoints and server nodes.
+    Ensure agent health, policy enforcement, and up-to-date signatures.
+    Assist in system isolation and coordinated remediation actions with IT Infra teams.
+    Prepare weekly and monthly endpoint threat analytics and reports.
+
+D. Email Security Gateway
+
+    Monitor and respond to phishing, spoofing, malware, and URL-based threats.
+    Review quarantined messages, manage blocklists/allowlists, and investigate suspicious email campaigns.
+    Analyse email logs and generate periodic summaries for the security team.
+
+E. Vulnerability & Patch Management (SecPod)
+
+    Perform continuous vulnerability scanning and patching cycles for endpoints and servers.
+    Validate scan results, remove false positives, and coordinate remediation with relevant teams.
+    Track patch compliance, non-compliant assets, and SLA deviations.
+    Maintain dashboards and documentation for audit closure.
+
+F. Coordination with SOC/SOAR & OEM Partners
+
+    Serve as the internal escalation point for SOC alerts, investigations, and SLA tracking.
+    Coordinate with Trend Micro, SecPod, and Email Gateway OEMs for technical support and issue resolution.
+    Collaborate with IT Infra, Cloud, Network and Application teams for cross-functional remediation.
+
+G. Security Governance & Reporting
+
+    Maintain dashboards for Incident Response, Threat Hunting outcomes, Patch Compliance, and Vulnerability KPIs.
+    Support external/internal security audits, compliance frameworks, and policy implementations.
+    Prepare MIS reports for senior management.
+
+3. Required Skills & Experience
+
+    Preferred bachelor’s degree in computer science / IT / Cyber Security or Any Graduate.
+    CEH Certificate, CompTIA CySA+ (Cybersecurity Analyst)
+    4–5 years hands-on experience in security operations, EDR/XDR, vulnerability management, or SOC environments.
+    Practical knowledge of:
+
+o Incident Response methodologies
+
+o Threat hunting techniques (IOC/IOA analysis, memory forensics basics, log pattern analysis)
+
+o Trend Micro XDR or similar EDR/XDR tools
+
+o Email Security Gateway tools
+
+o Vulnerability management and patch compliance platforms (SecPod or equivalents)
+
+o Basic AWS/Azure security concepts
+
+    Strong analytical, documentation, and problem-solving skills.
+    Ability to work under pressure and manage high alert volumes.
+    Good communication and coordination skills.
+
+4. Core Competencies
+
+    High urgency mindset
+    Analytical thinking and attention to detail
+    Proactive security approach (not just alert-driven)
+    Strong ownership
+    Ability to handle 500+ alerts/month environment
+
+Job Type: Full-time
+
+Pay: ₹40,000.00 - ₹75,000.00 per month
+
+Benefits:
+
+    Health insurance
+    Provident Fund
+
+Work Location: In person
