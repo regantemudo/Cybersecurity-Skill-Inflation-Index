@@ -1,0 +1,20 @@
+Title: Application Security Engineer
+Company: Grab
+Location: Singapore
+Salary: SGD 120,000 annually (Normalized to USD: $88,000)
+
+Job Description:
+Join our AppSec team to secure the code that powers millions of daily transactions. You will work closely with developers to implement secure SDLC practices.
+
+Requirements:
+
+4+ years in application security or software development.
+
+Strong proficiency in Java, Go, or Node.js.
+
+Experience setting up and managing SAST (Checkmarx/SonarQube) and DAST pipelines in CI/CD.
+
+Excellent understanding of microservices architecture security.
+
+Relevant certifications (GWAPT, CSSLP) are highly desired.
+Domain: AppSec
