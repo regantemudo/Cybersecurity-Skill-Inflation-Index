@@ -1,0 +1,142 @@
+SOC Analyst - job post
+Protera
+3.03.0 out of 5 stars
+Remote
+Protera
+Remote
+Profile insights
+Here’s how the job qualifications align with your profile.
+Certifications
+
+Do you have a valid CompTIA Security+ certification?
+Skills
+
+Do you have experience in Splunk?
+Education
+
+&nbsp;
+Job details
+Here’s how the job details align with your profile.
+Job type
+
+Shift and schedule
+
+&nbsp;
+Benefits
+Pulled from the full job description
+
+    Health insurance
+    Provident Fund
+    Work from home
+
+&nbsp;
+Full job description
+
+About Protera
+
+Welcome to Protera Technologies, where we’re reimagining how SAP-centric organizations work in the cloud. Since 1998, we’ve been pioneers in bringing SAP and related applications to the cloud—think Microsoft Azure and AWS. Our global crew, spanning the US with offices in Chicago (HQ), Athens, Greece, and Mumbai, India, is on a mission to make IT smoother, faster, and more fun for our clients.
+
+But here’s the thing: we’re not your typical “serious tech company.” While we’re obsessed with delivering top-notch IT solutions, we’re all about keeping it real, approachable, and enjoyable. We work hard, but we also play hard—whether we’re collaborating on cloud optimizations, enhancing security, or just hanging out as a team.
+
+At Protera, we believe in empowering SAP-centric organizations with the best tools and tech to drive growth, and we love what we do. Our values? Simple: stay curious, stay authentic, and make meaningful connections. We celebrate wins big and small, whether it's a successful project or a fun team event.
+
+If you’re looking for a place where tech and fun collide, come join us and see what makes Protera a great place to work.
+
+Shift Timing- Rotational (24*7)
+
+Work mode- Remote
+
+What You’ll Do
+
+The SOC Analyst is responsible for maintaining the organization’s cybersecurity posture through continuous monitoring, detection, and incident response. Using advanced technologies such as Endpoint Detection and Response (EDR), Security Information and Event Management (SIEM), Network Detection and Response (NDR), File Integrity Monitoring (FIM), and Next-Gen Antivirus (NGAV), the analyst identifies and mitigates security threats in real time. This role also contributes to the design and development of automated playbooks using Security Orchestration, Automation, and Response (SOAR) platforms to streamline response workflows and improve SOC efficiency. The analyst collaborates across teams to strengthen detection logic, enhance processes, and ensure proactive defense against evolving cyber threats.
+Threat Monitoring & Detection
+
+    Monitor and analyze security alerts from SIEM, EDR, NDR, FIM, and Antivirus platforms to detect potential threats.
+    Perform correlation and pattern analysis across multiple data sources to identify anomalies and sophisticated attack behaviors.
+    Continuously tune and optimize detection rules to reduce false positives and improve fidelity.
+
+Incident Response & Management
+
+    Execute incident response lifecycle activities including triage, containment, eradication, and recovery following NIST standards.
+    Document incidents thoroughly, providing root cause analysis, attack vectors, and corrective actions.
+    Support post-incident reviews to identify control gaps and recommend security improvements.
+
+Playbook Development & Automation
+
+    Develop, maintain, and enhance incident response playbooks and runbooks to ensure standardized handling of recurring alerts and use cases.
+    Collaborate with senior analysts to build SOAR playbooks for automated enrichment, containment, and notification workflows.
+    Align playbooks with MITRE ATT&CK and Cyber Kill Chain frameworks to ensure comprehensive coverage of adversarial tactics.
+
+Vulnerability & Risk Management
+
+    Conduct regular vulnerability assessments and coordinate with IT teams for timely remediation.
+    Evaluate system configurations and network architecture for potential risks and ensure secure baselines.
+    Track and report on vulnerability remediation metrics.
+
+Security Tooling & Integration
+
+    Manage and optimize EDR, SIEM, SOAR, FIM, NDR, and Antivirus tools to ensure operational readiness.
+    Integrate data sources and automate workflows between platforms for improved incident visibility and response time.
+    Provide input on the design and deployment of new security solutions.
+
+File Integrity & Endpoint Protection
+
+    Monitor File Integrity Monitoring (FIM) systems to detect unauthorized modifications in critical files and directories.
+    Analyze and respond to Antivirus/NGAV alerts to prevent and contain endpoint infections.
+    Validate cleanup and verify systems post-remediation.
+
+Network Detection & Threat Intelligence
+
+    Leverage NDR tools to identify lateral movement, command-and-control (C2) traffic, and exfiltration attempts.
+    Incorporate Threat Intelligence Feeds (STIX/TAXII) for enhanced situational awareness and detection context.
+    Conduct proactive threat hunting based on known TTPs (Tactics, Techniques, and Procedures).
+
+Reporting & Compliance
+
+    Generate detailed reports and dashboards highlighting incident metrics, trends, and SOC performance (MTTD, MTTR, volume by category).
+    Ensure compliance with standards like ISO 27001, SOC 2, GDPR, HIPAA, and NIST CSF.
+    Support audits and assist in evidence gathering for compliance activities.
+
+Requirements
+
+What You Bring
+
+Skills & Qualifications
+
+    Experience: 4+ years in SOC operations, cybersecurity, or incident response.
+
+Technical Expertise:
+
+    Strong knowledge of EDR, SIEM, SOAR, NDR, FIM, and Antivirus/NGAV platforms.
+    Experience in writing playbooks, automating responses, and tuning detection logic.
+    Familiarity with incident handling frameworks, threat hunting, and digital forensics.
+    Framework Knowledge: MITRE ATT&CK, Cyber Kill Chain, NIST IR, ISO 27001.
+    Certifications (Preferred): CompTIA Security+, CySA+, CEH, Microsoft SC-200, or equivalent.
+
+Tools Exposure (Preferred):
+
+    SIEM: Splunk, Microsoft Sentinel, QRadar, Elastic.
+    EDR/NDR: CrowdStrike Falcon, Defender for Endpoint, SentinelOne, Darktrace, Corelight.
+    FIM/AV: Tripwire, Qualys FIM, Trellix/McAfee, Sophos, Bitdefender.
+    SOAR: Cortex XSOAR, Splunk SOAR, Microsoft Sentinel Automation.
+
+Desired Candidate Profile
+
+    Experience creating and maintaining incident response playbooks and runbooks.
+    Ability to perform threat hunting and deep-dive investigation using EDR, NDR, and SIEM telemetry.
+    Knowledge of security automation, cloud-native security, and network forensics.
+    Strong communication and documentation skills for both technical and executive audiences.
+    Works effectively in high-pressure, time-sensitive environments while maintaining precision and accuracy.
+
+Benefits
+
+    Work from Home set-up
+    Comprehensive medical benefits
+    Gratuity, PF, EPS and Bonus, NPS
+    Shift Allowances
+    On-call Allowance
+    Health and wellness Allowances
+    Learning and Development Allowances
+    No question asked certification policy.
+    Certification Bounty Bonus
+
