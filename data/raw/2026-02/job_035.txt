@@ -1,0 +1,20 @@
+Title: Penetration Tester
+Company: TCS (Tata Consultancy Services)
+Location: Pune, India
+Salary: INR 1,500,000 annually (Normalized to USD: $18,000)
+
+Job Description:
+TCS is hiring an experienced Penetration Tester to conduct vulnerability assessments and penetration testing on web applications, mobile applications, and internal networks.
+
+Key Responsibilities:
+
+Perform manual and automated testing using Burp Suite, Nessus, and Metasploit.
+
+Write detailed technical reports outlining vulnerabilities and remediation steps.
+
+3 to 5 years of dedicated penetration testing experience.
+
+Mandatory Certifications: OSCP is strictly required. CEH or CPENT is a plus.
+
+Strong understanding of OWASP Top 10 and secure coding practices.
+Domain: Penetration Testing
