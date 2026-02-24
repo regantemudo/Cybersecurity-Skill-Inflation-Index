@@ -1,0 +1,20 @@
+Title: Senior SOC Analyst
+Company: Tech Mahindra
+Location: Bengaluru, India
+Salary: INR 1,800,000 annually (Normalized to USD: $21,600)
+
+Job Description:
+We are looking for a Senior SOC Analyst to join our 24/7 security operations center. The ideal candidate must have 4+ years of hands-on experience in incident response and threat hunting. You will be responsible for analyzing alerts from our SIEM (Splunk) and EDR (CrowdStrike) solutions.
+
+Requirements:
+
+Minimum 4 years experience in a SOC environment.
+
+Certifications: CompTIA CySA+, GCIH, or equivalent.
+
+Strong knowledge of MITRE ATT&CK framework.
+
+Experience with SIEM, SOAR, and EDR tools.
+
+Ability to mentor L1 analysts.
+Domain: SOC
