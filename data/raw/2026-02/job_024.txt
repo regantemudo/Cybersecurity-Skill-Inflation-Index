@@ -1,0 +1,89 @@
+
+Banyan Cloud logo
+Banyan Cloud
+Associate Cyber Security Analyst
+Bengaluru, Karnataka, India · 6 days ago · Over 100 applicants
+
+Promoted by hirer · Actively reviewing applicants
+Associate Cyber Security Analyst
+Banyan Cloud · Bengaluru, Karnataka, India (On-site)
+How your profile and resume fit this job
+
+Get AI-powered advice on this job and more exclusive features with Premium. Try Premium for ₹0
+
+Meet the hiring team
+Harrish Raj A
+Harrish Raj A 
+2nd
+Senior Information Security Engineer @Banyan Cloud | Cybersecurity
+36 mutual connections
+About the job
+
+About US:
+
+
+Banyan Cloud is a U.S.-based cybersecurity product development company headquartered in San Jose, California. We are the creators of Banyan Cloud, a first-of-its-kind cybersecurity SaaS platform that simplifies code-to-cloud security across multi-cloud environments and diverse technologies.
+
+
+This is a once-in-a-lifetime opportunity to join a fast-growing, rocket-ship startup led by a world-class executive team. We are looking for individuals who aspire to be part of cutting-edge solutions and services that address next-generation data and security challenges.
+
+
+Role Overview:
+
+
+We are looking for an Associate Cyber security Analyst (Entry Level) to join our security team based out of Bangalore, which is working on next-generation SaaS applications on the Hybrid Cloud platform, who are passionate about solving real business problems through innovation and engineering practices.
+
+
+You'll be required to apply your depth of knowledge and expertise to all aspects of Cybersecurity, Penetration Testing etc., Have a thirst to learn new technologies and update themselves to find new solutions to meet the needs of our constantly growing business.
+
+
+This role is open to both freshers and individuals with 1-2 years of experience in the field, offering a unique opportunity for professional growth and contribution to our organization's security posture. 
+
+
+What You Will Do (But not limited):
+
+
+Vulnerability Assessment:
+
+    Conduct vulnerability assessments on systems and networks. 
+    Identify and prioritize security vulnerabilities based on risk. 
+
+Penetration Testing (for Experienced Candidates): 
+
+    Conduct penetration testing on web applications, networks, and systems. 
+    Utilize ethical hacking techniques to simulate real-world cyber-attacks. (Freshers also can apply but need a strong knowledge in the penetrating testing side).
+
+Documentation: 
+
+    Document findings, procedures, and recommendations for technical and non-technical audiences. 
+    Develop comprehensive reports on assessment results. 
+
+Security Best Practices:
+
+    Stay abreast of the latest cybersecurity trends, vulnerabilities, and best practices. 
+
+Enhancement with hands-on:
+
+    hands-on experience in cybersecurity fundamentals, penetration testing, and vulnerability assessment.
+    Collaborate with senior team members to enhance skills and knowledge in real-world scenarios
+
+
+What You Will Need:
+
+
+    Demonstrated knowledge in security domain.
+    At least 1+ years of experience in penetration testing environment
+    Strong understanding of cybersecurity principles and best practices. 
+    Strong understanding of public Clouds like AWS, GCP, AZURE etc.,
+    Familiarity with penetration testing tools and techniques (e.g., Metasploit, Burp Suite, Nmap). Bug Bounty experience is a plus.
+    Knowledge of vulnerability assessment tools and methodologies. Experience with common cybersecurity frameworks and standards (e.g., NIST, ISO 27001) for candidates with 1-2 years of experience. 
+    Excellent communication and documentation skills. 
+    Freshers can apply with specialization in cyber security
+
+
+Qualifications: 
+
+    Bachelor's degree in computer science, Information Technology, or a related field.
+
+
+Banyan Cloud provides equal employment opportunity (EEO)Banyan cloud provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at career@banyancloud.io.
