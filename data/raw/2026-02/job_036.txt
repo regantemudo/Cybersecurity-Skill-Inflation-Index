@@ -1,0 +1,20 @@
+Title: Cloud Security Engineer
+Company: Amazon Web Services (AWS)
+Location: London, UK
+Salary: GBP 80,000 annually (Normalized to USD: $100,800)
+
+Job Description:
+AWS is seeking a Cloud Security Engineer to design and implement security controls across our rapidly expanding infrastructure.
+
+Requirements:
+
+5+ years of experience in cloud security engineering.
+
+Deep expertise in AWS native security tools (GuardDuty, Security Hub, AWS WAF).
+
+Experience with Infrastructure as Code (Terraform, CloudFormation).
+
+Certifications: AWS Certified Security - Specialty, CISSP.
+
+Must have experience with container security (Docker/Kubernetes).
+Domain: Cloud Security
