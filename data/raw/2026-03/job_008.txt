@@ -1,0 +1,29 @@
+Title: Senior AppSec Engineer - Mobile
+Company: Grab
+Location: Singapore
+Salary: SGD 11,000 - 15,000 per month
+Domain: AppSec
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+Grab is seeking a Senior Application Security Engineer with deep mobile security expertise to secure its super-app serving 35 million users across Southeast Asia on iOS and Android platforms.
+
+Responsibilities:
+- Perform iOS and Android mobile application security assessments
+- Conduct static analysis using MobSF and dynamic analysis using Frida and Objection
+- Perform backend API security testing alongside mobile assessments
+- Develop and maintain mobile security standards and secure coding guidelines
+- Integrate mobile security scanning into mobile CI/CD pipelines
+- Run threat modelling sessions for new Grab app features
+- Manage mobile security findings through the bug bounty program
+
+Requirements:
+- 5+ years experience in application security with strong mobile focus
+- GMOB or eMAPT certification required
+- Expert knowledge of iOS internals, jailbreak techniques, and Android reverse engineering
+- Proficiency with Frida, Objection, MobSF, Jadx, and Burp Suite
+- OSWE or OSCP certification preferred
+- Experience with Flutter or React Native security testing
+- Scripting in Python and JavaScript for mobile security automation
+- CSSLP certification preferred

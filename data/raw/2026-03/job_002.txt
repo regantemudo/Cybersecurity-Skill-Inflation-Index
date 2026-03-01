@@ -1,0 +1,28 @@
+Title: Incident Response Analyst
+Company: Palo Alto Networks - Unit 42
+Location: Singapore
+Salary: SGD 9,500 - 13,500 per month
+Domain: SOC
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+Palo Alto Networks Unit 42 is seeking an Incident Response Analyst to join their global consulting team, responding to active breaches and conducting forensic investigations for clients in financial services, healthcare, and critical infrastructure sectors.
+
+Responsibilities:
+- Lead incident response engagements including triage, containment, and eradication
+- Perform host-based and network forensics to determine scope and root cause
+- Conduct malware triage and reverse engineering of threat artifacts
+- Develop detailed incident timelines and executive-ready reports
+- Provide expert witness support for legal proceedings when required
+- Develop and deliver IR retainer services for proactive clients
+- Contribute to Unit 42 threat intelligence publications
+
+Requirements:
+- 4+ years experience in incident response or digital forensics
+- GCFE, GCFA, or GCFR certification required
+- Hands-on experience with Cortex XDR, Volatility, and Autopsy
+- Strong knowledge of Windows and Linux forensic artifacts
+- Familiarity with cloud forensics on AWS, Azure, and GCP
+- OSCP or CEH preferred
+- Scripting skills in Python for forensics automation

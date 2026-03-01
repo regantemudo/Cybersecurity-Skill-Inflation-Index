@@ -1,0 +1,28 @@
+Title: SOC Analyst - Tier 2
+Company: Secureworks
+Location: Bengaluru, Karnataka, India
+Salary: INR 14,00,000 - 20,00,000 annually
+Domain: SOC
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+Secureworks is seeking a Tier 2 SOC Analyst to investigate escalated alerts, perform in-depth threat analysis, and support incident response operations for enterprise clients across the APAC region.
+
+Responsibilities:
+- Investigate and triage security alerts escalated from Tier 1 analysts
+- Perform deep-dive analysis using SIEM, EDR, and network telemetry
+- Develop and tune detection rules in Splunk and Microsoft Sentinel
+- Conduct threat hunting using MITRE ATT&CK TTPs
+- Produce detailed incident reports and post-incident reviews
+- Mentor Tier 1 analysts and review their investigation outputs
+- Coordinate with client security teams during active incidents
+
+Requirements:
+- 3+ years experience in SOC, incident response, or threat analysis
+- Strong hands-on knowledge of Splunk and Microsoft Sentinel
+- Experience with CrowdStrike Falcon or SentinelOne EDR platforms
+- Familiarity with MITRE ATT&CK, Cyber Kill Chain, and NIST IR
+- CompTIA CySA+ or Microsoft SC-200 required
+- CEH or GCIA certification preferred
+- Python or PowerShell scripting for log analysis and automation

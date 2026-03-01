@@ -1,0 +1,29 @@
+Title: Cloud Security Architect
+Company: HSBC Global Technology
+Location: Hong Kong
+Salary: HKD 80,000 - 110,000 per month
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+HSBC Global Technology is seeking a Cloud Security Architect to lead the design and implementation of enterprise cloud security frameworks across AWS and Azure, supporting HSBC's multi-cloud transformation across 60+ countries.
+
+Responsibilities:
+- Design enterprise-scale cloud security architectures for AWS and Azure environments
+- Define and enforce cloud security standards, guardrails, and policy-as-code using Terraform
+- Lead CSPM implementation using Wiz and Microsoft Defender for Cloud
+- Conduct cloud security architecture reviews for new platforms and services
+- Drive Zero Trust network segmentation across hybrid cloud environments
+- Ensure alignment with HKMA TM-E-1 and MAS TRM regulatory requirements
+- Mentor cloud security engineers and lead a team of 5 across the APAC region
+
+Requirements:
+- 7+ years experience in cloud or information security with 4+ years in cloud architecture
+- AWS Certified Security Specialty and Azure Security Engineer (AZ-500) required
+- CCSP certification required
+- Expert knowledge of Terraform, Azure Policy, and AWS Config
+- Hands-on experience with Wiz or Prisma Cloud CSPM
+- CISSP required
+- Knowledge of Zero Trust architecture and NIST SP 800-207
+- Financial services regulatory knowledge (HKMA, MAS, PRA) preferred

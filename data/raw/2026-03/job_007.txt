@@ -1,0 +1,29 @@
+Title: Application Security Engineer - Payments
+Company: PayPal
+Location: Chennai, Tamil Nadu, India
+Salary: INR 32,00,000 - 48,00,000 annually
+Domain: AppSec
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+PayPal is seeking an Application Security Engineer to secure its global payments platform, owning vulnerability management and secure SDLC practices across Java and Node.js microservices processing billions of transactions annually.
+
+Responsibilities:
+- Perform manual and automated security code reviews across Java and Node.js services
+- Conduct threat modelling for new payment features and third-party integrations
+- Integrate and manage SAST tools (Checkmarx, Semgrep) and SCA (Snyk) in CI/CD
+- Run DAST assessments using Burp Suite Enterprise against payment APIs
+- Manage the vulnerability disclosure and bug bounty triage process
+- Deliver developer security training and security champions workshops
+- Ensure PCI-DSS compliance across application security controls
+
+Requirements:
+- 4+ years experience in application security
+- Deep knowledge of OWASP Top 10 and OWASP API Security Top 10
+- Hands-on experience with Checkmarx, Burp Suite Pro, and Snyk
+- Proficiency in Java or Node.js for security testing and code review
+- CSSLP or GWEB certification preferred
+- OSWE strongly preferred
+- PCI-DSS Level 1 compliance experience required
+- Scripting in Python for automation and tooling

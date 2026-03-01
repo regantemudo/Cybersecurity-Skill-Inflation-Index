@@ -1,0 +1,28 @@
+Title: DevSecOps Engineer - Platform Security
+Company: Flipkart
+Location: Bengaluru, Karnataka, India
+Salary: INR 28,00,000 - 40,00,000 annually
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+Flipkart is seeking a DevSecOps Engineer to embed security into its engineering platform, securing one of India's largest e-commerce infrastructures running on Kubernetes at scale across private and public cloud.
+
+Responsibilities:
+- Integrate SAST, DAST, and SCA tools into CI/CD pipelines across 500+ microservices
+- Manage Kubernetes security using Falco, OPA Gatekeeper, and Kyverno
+- Implement secrets management using HashiCorp Vault across engineering teams
+- Define and enforce IaC security policies using Checkov and Terraform Sentinel
+- Conduct container image scanning with Trivy and Snyk across container registries
+- Build and maintain CSPM alerting using AWS Security Hub and custom tooling
+- Drive security champions program across Flipkart engineering teams
+
+Requirements:
+- 4+ years experience in DevSecOps or cloud security engineering
+- Strong hands-on Kubernetes and container security experience
+- Proficiency with Snyk, Semgrep, Checkov, and Trivy
+- AWS Certified Security Specialty or GCP Professional Cloud Security Engineer preferred
+- CCSP or CKS (Certified Kubernetes Security Specialist) preferred
+- Scripting in Python and Go for security automation
+- Knowledge of OWASP SAMM and supply chain security (SLSA framework)

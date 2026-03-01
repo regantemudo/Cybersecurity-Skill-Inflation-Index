@@ -1,0 +1,29 @@
+Title: Privileged Access Management Consultant
+Company: Accenture Security
+Location: Dubai, UAE
+Salary: AED 28,000 - 40,000 per month
+Domain: IAM
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+Accenture Security is seeking a PAM Consultant to deliver CyberArk and BeyondTrust implementations for enterprise clients across the Middle East, supporting large-scale privileged access transformation programs in banking, energy, and government sectors.
+
+Responsibilities:
+- Lead end-to-end CyberArk PAM deployments including Vault, PVWA, CPM, PSM, and PSMP
+- Design and implement BeyondTrust Password Safe and Endpoint Privilege Management
+- Conduct PAM maturity assessments and develop roadmap recommendations
+- Define least-privilege policies and just-in-time access workflows
+- Integrate PAM solutions with Active Directory, Azure AD, and LDAP
+- Support regulatory compliance for NCA ECC, SAMA CSF, and ADGM requirements
+- Train client administrators and produce platform documentation
+
+Requirements:
+- 5+ years experience in PAM or identity security
+- CyberArk Defender and Sentry certifications required
+- CyberArk Guardian or Trustee preferred
+- Experience with BeyondTrust Password Safe or Delinea Secret Server
+- CISSP or CISM required
+- Knowledge of NCA ECC, SAMA CSF, or UAE IA Standards a strong advantage
+- PowerShell and Python scripting for PAM automation
+- Strong client-facing communication and consulting skills

@@ -1,0 +1,28 @@
+Title: Bug Bounty Hunter - Security Researcher
+Company: HackerOne
+Location: Remote - Global
+Salary: USD 80,000 - 120,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+HackerOne is seeking a Security Researcher to join their internal red team, triaging and validating vulnerability reports submitted through their platform while also conducting internal security assessments for the HackerOne product.
+
+Responsibilities:
+- Triage and validate vulnerability reports across web, API, and mobile attack surfaces
+- Reproduce reported vulnerabilities and assess severity using CVSS scoring
+- Conduct internal penetration tests on HackerOne's own infrastructure
+- Develop proof-of-concept exploits to validate report impact
+- Communicate technical findings to both security and non-technical audiences
+- Build automation to improve triage speed and consistency
+- Contribute to public security research and CVE disclosures
+
+Requirements:
+- 3+ years experience in penetration testing or bug bounty research
+- Strong knowledge of OWASP Top 10 and OWASP API Security Top 10
+- Proficiency with Burp Suite Pro, ffuf, Nuclei, and custom tooling
+- Experience with web, API, and mobile application security testing
+- OSCP or OSWE preferred
+- Active bug bounty track record on HackerOne or Bugcrowd a strong advantage
+- Scripting in Python or JavaScript for automation

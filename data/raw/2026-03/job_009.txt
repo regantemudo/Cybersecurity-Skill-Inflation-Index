@@ -1,0 +1,29 @@
+Title: IAM Security Engineer - Okta Specialist
+Company: Wipro Cybersecurity
+Location: Hyderabad, India
+Salary: INR 20,00,000 - 30,00,000 annually
+Domain: IAM
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+Wipro Cybersecurity is seeking an IAM Security Engineer with deep Okta expertise to design and manage enterprise identity solutions for a large BFSI client, supporting SSO, MFA, and lifecycle management for 50,000+ employees globally.
+
+Responsibilities:
+- Design and implement Okta Workforce Identity and Customer Identity solutions
+- Configure Okta Universal Directory, SSO, Adaptive MFA, and Lifecycle Management
+- Integrate Okta with HR systems (Workday) for automated joiner/mover/leaver workflows
+- Implement Okta Privileged Access for privileged session management
+- Configure SAML, OAuth 2.0, and OIDC integrations with 100+ enterprise applications
+- Develop Okta Workflows automations for identity lifecycle processes
+- Troubleshoot authentication issues and manage Okta tenant health
+
+Requirements:
+- 4+ years experience in IAM with minimum 2 years hands-on Okta
+- Okta Certified Professional and Okta Certified Administrator required
+- Okta Certified Consultant strongly preferred
+- Strong knowledge of SAML 2.0, OAuth 2.0, OIDC, and SCIM protocols
+- Experience integrating Okta with Active Directory and Azure AD
+- CISSP or SC-300 certification preferred
+- JavaScript or Python for Okta Workflows and API automation
+- Knowledge of Zero Trust architecture and NIST SP 800-63 guidelines

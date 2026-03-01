@@ -1,0 +1,28 @@
+Title: Penetration Tester - Cloud and Infrastructure
+Company: WithSecure (formerly F-Secure)
+Location: London, United Kingdom
+Salary: GBP 65,000 - 85,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-03-01
+
+Job Description:
+WithSecure is looking for a Penetration Tester specialising in cloud and infrastructure security to conduct technical assessments for enterprise clients across the UK and Europe, covering AWS, Azure, GCP, and hybrid on-premise environments.
+
+Responsibilities:
+- Conduct infrastructure and cloud penetration tests across AWS, Azure, and GCP
+- Perform Active Directory and Azure AD attack path assessments
+- Execute internal and external network penetration tests
+- Assess cloud misconfigurations using ScoutSuite, Prowler, and Pacu
+- Produce high-quality technical and executive-level reports
+- Present findings and remediation guidance to client stakeholders
+- Contribute to methodology development and internal tooling
+
+Requirements:
+- 3+ years experience in infrastructure or cloud penetration testing
+- OSCP required; OSEP or CRTO strongly preferred
+- Hands-on experience with BloodHound, Impacket, Responder, and Cobalt Strike
+- Knowledge of cloud-specific attack techniques in AWS and Azure
+- Familiarity with OWASP, PTES, and CHECK methodologies
+- Python scripting for custom tooling and automation
+- AWS Security Specialty or Azure Security Engineer certification preferred
