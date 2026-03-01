@@ -2,6 +2,9 @@ Title: IT Auditor Apprentice
 Company: HSBC Global Technology Audit
 Location: Pune, Maharashtra, India
 Salary: Not Listed
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 HSBC is seeking an IT Auditor Apprentice to join the Global Technology Audit team. This 1-year apprenticeship offers hands-on exposure to IT audit, risk assessment, and compliance activities across the HSBC Group.

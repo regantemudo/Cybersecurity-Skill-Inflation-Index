@@ -2,6 +2,9 @@ Title: Information Security Analyst - Mid Level
 Company: Infosys Cyber Defense
 Location: Hyderabad, India
 Salary: INR 12,00,000 - 16,00,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 Infosys Cyber Defense is hiring a mid-level Information Security Analyst to support client security operations, risk management, and compliance programs.

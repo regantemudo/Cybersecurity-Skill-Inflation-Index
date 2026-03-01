@@ -1,0 +1,28 @@
+Title: Application Security Consultant
+Company: Trustwave
+Location: Remote, Australia
+Salary: AUD 130,000 - 160,000 annually
+Domain: AppSec
+Source: Manual
+Collected: 2026-02-24
+
+Job Description:
+Trustwave is seeking an Application Security Consultant to deliver high-quality web and API penetration testing and secure code review engagements for clients across financial services and government sectors in the APAC region.
+
+Responsibilities:
+- Conduct web application and REST/GraphQL API penetration testing
+- Perform SAST and manual secure code reviews across multiple languages
+- Assess mobile applications for OWASP Mobile Top 10 vulnerabilities
+- Produce detailed technical reports and executive summaries
+- Present findings and remediation guidance to client stakeholders
+- Contribute to development of internal testing methodologies
+- Support pre-sales activities including scoping and proposal writing
+
+Requirements:
+- 4+ years experience in application security or penetration testing
+- OSCP or OSWE required
+- Expert knowledge of OWASP Top 10 and OWASP API Security Top 10
+- Proficiency with Burp Suite Pro, Semgrep, and SAST tooling
+- Programming knowledge in Python, Java, or JavaScript
+- CISSP or CISM preferred
+- Familiarity with Australian ISM and APRA CPS 234 compliance frameworks

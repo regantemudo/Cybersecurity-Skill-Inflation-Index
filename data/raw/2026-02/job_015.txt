@@ -2,6 +2,9 @@ Title: Penetration Tester - Web & Network
 Company: RedCell Security
 Location: London, United Kingdom
 Salary: GBP 55,000 - 70,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 RedCell Security is hiring a Penetration Tester to conduct web application and network penetration tests for clients across financial services and government sectors.

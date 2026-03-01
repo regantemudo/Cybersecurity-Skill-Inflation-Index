@@ -1,27 +1,27 @@
 # CSII Monthly Report — 2026-02
 
-## Signal: 🟡 **MODERATE INFLATION**
+## Signal: 🔴 **HIGH INFLATION**
 
 ## Global Metrics
 | Metric | Value |
 |--------|-------|
-| Avg Years Required | 3.87 |
-| Avg Certifications | 2.13 |
-| Avg Tools | 1.84 |
-| **Skill Inflation Score** | **2.74** |
-| Avg Salary (USD) | $67,446.0 |
-| Exploitation Rate | 36.8% |
-| Jobs Analyzed | 38 |
+| Avg Years Required | 4.15 |
+| Avg Certifications | 2.59 |
+| Avg Tools | 2.37 |
+| **Skill Inflation Score** | **3.14** |
+| Avg Salary (USD) | $71,134.0 |
+| Exploitation Rate | 48.8% |
+| Jobs Analyzed | 41 |
 
 ## Domain Breakdown
 | Domain | Avg Years | Avg Certs | Score | Signal | Jobs |
 |--------|-----------|-----------|-------|--------|------|
-| Cloud Security | 4.5 | 3.5 | 3.75 | 🔴 | 2 |
-| IAM | 4.8 | 1.2 | 3.10 | 🔴 | 4 |
-| Penetration Testing | 4.2 | 2.2 | 3.07 | 🔴 | 6 |
-| AppSec | 4.0 | 2.0 | 2.90 | 🟡 | 3 |
-| SOC | 3.4 | 2.1 | 2.61 | 🟡 | 7 |
-| GRC | 3.6 | 2.2 | 2.42 | 🟡 | 16 |
+| IAM | 4.7 | 2.2 | 3.57 | 🔴 | 6 |
+| SOC | 4.1 | 2.8 | 3.26 | 🔴 | 8 |
+| AppSec | 4.0 | 2.5 | 3.17 | 🔴 | 4 |
+| Penetration Testing | 4.3 | 2.1 | 3.09 | 🔴 | 7 |
+| Cloud Security | 3.2 | 3.2 | 3.02 | 🔴 | 4 |
+| GRC | 4.2 | 2.8 | 2.92 | 🟡 | 12 |
 
 ## Charts
 ![Global Trend](skill_trend.png) ![Domains](domain_comparison.png)

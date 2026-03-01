@@ -1,44 +1,28 @@
-VA/PT Tester (Appsec And Network) - job post
-CODEC Networks
-3.63.6 out of 5 stars
-Delhi, Delhi
-CODEC Networks
-Delhi, Delhi
-Profile insights
-Here’s how the job qualifications align with your profile.
-Certifications
+Title: VA/PT Tester - AppSec and Network
+Company: CODEC Networks
+Location: Delhi, India
+Salary: Not Listed
+Domain: Penetration Testing
+Source: LinkedIn
+Collected: 2026-02-20
 
-Do you have a valid CISSP certification?
-Skills
+Job Description:
+CODEC Networks is seeking an experienced VA/PT Tester with strong skills in network, infrastructure, web application, and mobile penetration testing along with secure code review.
 
-Do you have experience in Time management?
-Education
+Responsibilities:
+- Conduct Network and Infrastructure Vulnerability Assessment and Penetration Testing
+- Perform Application Security Testing including web and mobile applications
+- Execute Wireless Security Testing
+- Perform Secure Code Review
+- Interact with multi-disciplinary teams to meet project milestones
+- Create reusable components and document key project learnings
+- Manage hardening, patch management, and configuration review activities
 
-&nbsp;
-Location
-Delhi, Delhi
-&nbsp;
-Full job description
-
-Location : Delhi, NCR
-
-Educational Background: MCA, BCA , B.Tech ( CSC or ECE)
-
-Certifications : CEH/CSSLP/CISSP
-
-Experience : 3-6 years
-
-Operational Roles and Responsibilities :
-
-Sound Knowledge in conducting Network/ Infrastructure Vulnerability Assessment and Penetration Testing, Application security testing, Wireless security testing, Code review with at least 2 year experience in information security.
-
-Technical Skills Required :
-
-    Good knowledge on the Java, .Net based web technologies.
-    Should posses sound understanding in information security fundamentals, systems security and controls such as Vulnerability Assessment and Penetration Testing for Infrastructure / network / web application / databases and Secure Code Review.
-    Proven experience of penetration testing for web based application and use of backtrack based tools and other open source / commercial tools.
-    Excellent project, time management and prioritization skills
-    Interaction with multi-disciplinary teams for timely meeting of key project milestones and checkpoints
-    Should posses sound knowledge of hardening, patch management, VA/PT and configuration review.
-    Contribute to practice development by creating reusable components and document key project-learning within the consulting practice
-
+Requirements:
+- 3-6 years experience in information security with minimum 2 years in penetration testing
+- Certifications: CEH, CSSLP, or CISSP required
+- Education: MCA, BCA, or B.Tech (CSE or ECE)
+- Good knowledge of Java and .NET web technologies
+- Strong understanding of web application and infrastructure penetration testing
+- Experience with Backtrack-based and open source security tools
+- Excellent project and time management skills

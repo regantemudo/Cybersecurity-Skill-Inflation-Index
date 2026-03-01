@@ -2,6 +2,9 @@ Title: Senior Information Security Risk Manager
 Company: Standard Chartered Bank
 Location: Singapore
 Salary: SGD 10,000 - 14,000 per month
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 Standard Chartered is hiring a Senior Information Security Risk Manager to lead enterprise-wide risk management programs aligned with global regulatory standards.

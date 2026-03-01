@@ -1,0 +1,29 @@
+Title: Identity Governance Engineer
+Company: Infosys
+Location: Hyderabad, India
+Salary: INR 18,00,000 - 26,00,000 annually
+Domain: IAM
+Source: Manual
+Collected: 2026-02-24
+
+Job Description:
+Infosys is seeking an Identity Governance Engineer to implement and manage SailPoint IdentityNow for a large financial services client, enabling automated joiner/mover/leaver processes and access certification campaigns.
+
+Responsibilities:
+- Implement and configure SailPoint IdentityNow including sources, roles, and policies
+- Develop and maintain provisioning workflows and access request processes
+- Build and manage access certification campaigns for SOX and ISO 27001 compliance
+- Integrate IdentityNow with HR systems (Workday, SAP HCM) for lifecycle automation
+- Design role-based access control (RBAC) and segregation of duties (SoD) policies
+- Perform identity analytics and build dashboards for access governance reporting
+- Troubleshoot provisioning failures and maintain SailPoint connectors
+
+Requirements:
+- 3+ years experience with SailPoint IdentityNow or IdentityIQ
+- SailPoint Certified IdentityNow Engineer preferred
+- Experience integrating IGA with Active Directory, Azure AD, and cloud applications
+- Knowledge of SAML, OAuth 2.0, SCIM, and OIDC protocols
+- CISSP, CISM, or SC-300 certification preferred
+- Strong scripting in BeanShell, Java, or PowerShell
+- Understanding of SOX, ISO 27001, and GDPR compliance requirements
+- Experience with Workday or SAP HCM integration

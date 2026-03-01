@@ -2,6 +2,9 @@ Title: Junior GRC Consultant
 Company: Apex Compliance Advisory
 Location: Remote - United States
 Salary: $70,000 - $85,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 We are looking for a junior GRC consultant with 1+ years of cybersecurity experience.

@@ -1,112 +1,29 @@
-Cloud Security Professional - job post
-L&T Technology Services Limited.
-3.93.9 out of 5 stars
-Mumbai, Maharashtra
-Profile insights
-Here’s how the job qualifications align with your profile.
-Certifications
+Title: Cloud Security Professional
+Company: L&T Technology Services Limited
+Location: Mumbai, Maharashtra, India
+Salary: Not Listed
+Domain: Cloud Security
+Source: LinkedIn
+Collected: 2026-02-20
 
-Do you have a valid CCSP certification?
-Skills
+Job Description:
+L&T Technology Services is seeking an experienced Cloud Security Professional to design, implement, and maintain secure cloud architectures across AWS, Azure, GCP, and hybrid environments for enterprise clients.
 
-Do you have experience in VPN?
-Education
+Responsibilities:
+- Design and manage secure cloud architectures across AWS, Azure, GCP, and hybrid environments
+- Deploy and manage cloud security tools including CSPM, CWPP, IAM, encryption, and firewalls
+- Lead cloud-specific incident response: detection, containment, eradication, and recovery
+- Ensure compliance with NIST, ISO 27001, and CIS Benchmarks in cloud environments
+- Configure VPC Service Controls, firewall rules, and boundary protections
+- Implement data protection strategies: encryption, key management, and DLP
+- Monitor environments for threats and conduct forensic investigations
+- Develop security best-practice guides and technical documentation
 
-&nbsp;
-Job details
-Here’s how the job details align with your profile.
-Job type
-
-&nbsp;
-Location
-Mumbai, Maharashtra
-&nbsp;
-Full job description
-
-LTTS India
-Mumbai
-
-Job Description
-Key Responsibilities
-1. Cloud Architecture & Design
-
-    Design and manage secure cloud architectures across AWS, Azure, GCP, or hybrid environments.
-    Collaborate with DevOps and Infrastructure teams to embed security into cloud-native applications and services.
-
-
-2. Security Controls Implementation
-
-    Deploy and manage cloud security tools (e.g., CSPM, CWPP, IAM, encryption, firewalls).
-    Define and enforce policies for identity and access management, data protection, and network security.
-    Conduct regular security assessments and audits of cloud environments.
-
-
-3. Incident Response & Threat Management
-
-    Lead cloud-specific incident response efforts including detection, containment, eradication, and recovery.
-    Develop and maintain playbooks for cloud security incidents.
-    Perform forensic analysis and root cause investigations for cloud-based breaches or anomalies.
-
-4. Compliance & Governance
-
-    Ensure alignment with security frameworks (e.g., NIST, ISO 27001, CIS Benchmarks).
-    Support regulatory compliance efforts in cloud environments.
-    Maintain documentation and reporting for audits and risk assessments.
-
-5. Miscellaneous
-
-    Architect secure foundational cloud implementations and cloud-ready application designs
-    Configure network security defences, including VPC Service Controls, firewall rules, and boundary protections
-    Implement data protection strategies: encryption, key management, and Data Loss Prevention (DLP) over cloud
-    Monitor environments for threats and lead incident response and forensic investigations
-    Draft and deliver security best-practice guides, tutorials, and technical presentations
-
-________________________________________
-Required Skills and Expertise
-
-    Cloud Platforms Expertise
-
- Deep hands-on experience with at least one major cloud provider: AWS, Azure, or Google Cloud Platform (GCP)
- Understanding of cloud-native services (e.g., EC2, S3, IAM, Azure AD, GCP IAM)
-
-    Cloud Architecture & Design
-
- Ability to design secure, scalable, and resilient cloud architectures
- Knowledge of multi-cloud and hybrid cloud environments
-
-    Security Controls Implementation
-
- Proficiency in configuring and managing:
- Identity and Access Management (IAM)
- Encryption (at rest and in transit)
- Firewalls and security groups
- Cloud Security Posture Management (CSPM)
- Cloud Workload Protection Platforms (CWPP)
-
-    Incident Response & Threat Detection
-
- Experience with cloud-specific incident response and forensic investigation
- Familiarity with SIEM and SOAR platforms (e.g., Splunk, Sentinel, Chronicle)
- Threat modelling and vulnerability management in cloud environments
-
-This role also demands proficiency in logging and monitoring tools, scripting for automation (Python, Bash), and a solid grasp of networking fundamentals (TCP/IP, routing, VPNs).
-________________________________________
-Qualifications
-
-    Bachelor's degree in computer science, Information Security, or equivalent practical experience
-    5+ years of experience architecting, developing, or maintaining secure cloud solutions, with at least 3 years focused on Cloud Platform security (GCP/ Azure/ AWS etc)
-    Proven track record in customer-facing roles, managing cross-functional security projects from inception to completion
-    Hands-on experience with cloud services: Cloud IAM, VPC, Cloud KMS, Security Command Center, Cloud Armor and beyond
-    Strong understanding of attack vectors and mitigation methods across various domains (network security, application security, cryptography, monitoring, forensics)
-    Excellent written and verbal communication skills, including the ability to engage with senior stakeholders and technical teams alike
-
-Preferred Certifications
-
-    - AWS Certified Security - Specialty / Azure Security Engineer Associate / Google Professional Cloud Security Engineer
-    Certified Cloud Security Professional (CCSP) or equivalent
-    Offensive Security Certified Professional
-
-Job Requirement
-
-    Incident Response & Threat Detection,Security Controls Implementation,Cloud Architecture & Design, Cloud Platforms Expertise,
-
+Requirements:
+- 5+ years experience in cloud security with at least 3 years focused on cloud platform security
+- Deep hands-on experience with AWS, Azure, or GCP
+- Proficiency in IAM, encryption, CSPM, CWPP, and cloud security controls
+- Familiarity with SIEM and SOAR platforms: Splunk, Sentinel, Chronicle
+- Scripting skills: Python and Bash
+- Strong networking fundamentals: TCP/IP, routing, VPNs
+- Certifications preferred: AWS Security Specialty, Azure Security Engineer, CCSP, or OSCP

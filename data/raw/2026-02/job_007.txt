@@ -2,6 +2,9 @@ Title: Cyber Security GRC Analyst
 Company: OneAdvanced
 Location: Bengaluru, Karnataka, India
 Salary: Not Listed
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 OneAdvanced is seeking a Cyber Security GRC Analyst to support governance, risk, and compliance activities with a focus on cyber security metrics, reporting, policy management, and framework-aligned compliance.

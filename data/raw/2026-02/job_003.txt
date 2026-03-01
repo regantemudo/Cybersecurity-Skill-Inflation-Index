@@ -2,6 +2,9 @@ Title: IT Risk Analyst
 Company: Horizon Financial Group
 Location: Hong Kong
 Salary: HKD 28,000 - 35,000 per month
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 Seeking an IT Risk Analyst with 4+ years of experience in enterprise risk management.

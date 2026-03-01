@@ -1,20 +1,29 @@
-Title: IAM Consultant
-Company: IBM
-Location: New York, USA
-Salary: USD 130,000 annually
+Title: DevSecOps Engineer
+Company: Grab
+Location: Singapore
+Salary: SGD 10,000 - 14,000 per month
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-02-24
 
 Job Description:
-We are looking for an IAM Consultant to lead complex Identity and Access Management deployments for enterprise clients.
+Grab is seeking a DevSecOps Engineer to embed security into CI/CD pipelines and cloud-native infrastructure across AWS and GCP, supporting one of Southeast Asia's largest technology platforms.
 
-Qualifications:
+Responsibilities:
+- Design and implement security controls within CI/CD pipelines using GitHub Actions and Jenkins
+- Integrate SAST, DAST, and SCA tools including Snyk, Semgrep, and Checkmarx
+- Manage CSPM across AWS and GCP using Wiz and Prisma Cloud
+- Define and enforce IaC security policies using Terraform and Checkov
+- Conduct cloud security architecture reviews and threat modelling
+- Monitor cloud environments for misconfigurations and vulnerabilities
+- Collaborate with platform engineering teams to implement security guardrails
 
-5+ years of dedicated IAM experience.
-
-Hands-on expertise with SailPoint IdentityIQ or CyberArk PAM.
-
-Strong understanding of RBAC, SAML, OAuth, and OIDC protocols.
-
-Certifications: CISM or vendor-specific IAM certifications (SailPoint, CyberArk).
-
-Previous consulting experience is preferred.
-Domain: IAM
+Requirements:
+- 4+ years experience in DevSecOps or cloud security
+- AWS Certified Security Specialty or GCP Professional Cloud Security Engineer required
+- Hands-on experience with Wiz or Prisma Cloud
+- Proficiency with Terraform, Kubernetes, and container security
+- Experience integrating Snyk, Checkmarx, or Semgrep into CI/CD pipelines
+- CCSP or CISSP certification preferred
+- Scripting in Python or Go
+- Knowledge of CIS Benchmarks and SOC 2 compliance

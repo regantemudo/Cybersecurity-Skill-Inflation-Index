@@ -1,20 +1,28 @@
-Title: Application Security Engineer
-Company: Grab
-Location: Singapore
-Salary: SGD 120,000 annually (Normalized to USD: $88,000)
+Title: Red Team Lead
+Company: KPMG Cyber Security
+Location: Dubai, UAE
+Salary: AED 35,000 - 50,000 per month
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-02-24
 
 Job Description:
-Join our AppSec team to secure the code that powers millions of daily transactions. You will work closely with developers to implement secure SDLC practices.
+KPMG Cyber Security UAE is looking for a Red Team Lead to plan and execute sophisticated adversary simulation engagements for large enterprise and government clients across the Middle East.
+
+Responsibilities:
+- Design and lead full-scope red team operations simulating nation-state and cybercrime TTPs
+- Develop custom C2 infrastructure and evasive tooling using Cobalt Strike and Havoc
+- Conduct Active Directory attack chains including Kerberoasting, DCSync, and lateral movement
+- Perform physical intrusion and social engineering components
+- Write detailed red team operation reports with full MITRE ATT&CK mapping
+- Manage client communication throughout the engagement lifecycle
+- Mentor junior red team operators and review their technical output
 
 Requirements:
-
-4+ years in application security or software development.
-
-Strong proficiency in Java, Go, or Node.js.
-
-Experience setting up and managing SAST (Checkmarx/SonarQube) and DAST pipelines in CI/CD.
-
-Excellent understanding of microservices architecture security.
-
-Relevant certifications (GWAPT, CSSLP) are highly desired.
-Domain: AppSec
+- 7+ years experience in offensive security or red teaming
+- OSCP required; OSEP, CRTO, or CRTE strongly preferred
+- Expert knowledge of Active Directory attack paths and Windows internals
+- Proficiency with Cobalt Strike, BloodHound, Impacket, Responder, and Havoc
+- Experience developing custom malware in C, C++, or Go
+- Strong scripting in Python and PowerShell
+- CISSP or CISM certification preferred
