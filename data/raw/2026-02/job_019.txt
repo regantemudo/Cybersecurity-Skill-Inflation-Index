@@ -2,6 +2,9 @@ Title: Identity & Access Management Engineer
 Company: GlobalTrust Financial
 Location: Mumbai, India
 Salary: INR 16,00,000 - 22,00,000 annually
+Domain: IAM
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 GlobalTrust Financial is seeking an IAM Engineer to design and manage identity governance solutions for a 15,000-person enterprise.

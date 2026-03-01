@@ -2,6 +2,9 @@ Title: Chief Information Security Officer (CISO)
 Company: FinSecure Asia
 Location: Hong Kong
 Salary: HKD 80,000 - 110,000 per month
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 FinSecure Asia is seeking a strategic CISO to lead the enterprise cybersecurity function across Asia-Pacific operations, driving risk strategy, regulatory compliance, and security culture.

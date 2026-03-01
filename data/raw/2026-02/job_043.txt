@@ -1,0 +1,29 @@
+Title: Cloud Identity Security Architect
+Company: Deloitte Cyber Risk
+Location: London, United Kingdom
+Salary: GBP 90,000 - 120,000 annually
+Domain: IAM
+Source: Manual
+Collected: 2026-02-24
+
+Job Description:
+Deloitte Cyber Risk is seeking a Cloud Identity Security Architect to lead Zero Trust identity transformation programs for global enterprise clients, designing next-generation IAM architectures across hybrid and multi-cloud environments.
+
+Responsibilities:
+- Design and implement Zero Trust identity architectures across Azure AD, AWS IAM, and GCP IAM
+- Lead Entra ID (Azure AD) deployments including Conditional Access, PIM, and Privileged Identity Management
+- Architect SSO and MFA strategies across 200+ enterprise applications
+- Define identity security roadmaps aligned with NIST Zero Trust Architecture framework
+- Conduct IAM maturity assessments and produce executive-level recommendations
+- Manage delivery teams of junior architects and consultants
+- Engage with C-suite stakeholders on identity risk and strategy
+
+Requirements:
+- 8+ years experience in IAM with at least 3 years in cloud identity architecture
+- Microsoft SC-300 and AZ-500 certifications required
+- Expert knowledge of Azure AD, Entra ID, AWS IAM, and GCP IAM
+- Deep understanding of SAML, OAuth 2.0, OIDC, and SCIM protocols
+- Experience with Okta, Ping Identity, or SailPoint at enterprise scale
+- CISSP required; CCSP preferred
+- Knowledge of NIST Zero Trust, ISO 27001, and GDPR
+- Strong executive communication and consulting skills

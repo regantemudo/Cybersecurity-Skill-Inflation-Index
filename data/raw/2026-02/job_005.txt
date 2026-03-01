@@ -2,6 +2,9 @@ Title: Senior Cybersecurity Governance Specialist
 Company: NovaTrust Global
 Location: Singapore
 Salary: SGD 7,500 - 9,500 per month
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 Seeking a cybersecurity governance specialist with 6+ years of experience.

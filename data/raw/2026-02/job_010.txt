@@ -2,6 +2,9 @@ Title: Cybersecurity Compliance Manager
 Company: Emirates NBD
 Location: Dubai, UAE
 Salary: AED 22,000 - 28,000 per month
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 Emirates NBD is seeking a Cybersecurity Compliance Manager to oversee all compliance activities for the bank's information security program in line with UAE CBUAE regulations and international standards.

@@ -2,6 +2,9 @@ Title: Threat Intelligence Analyst
 Company: CyberEdge Asia
 Location: Singapore
 Salary: SGD 7,000 - 9,000 per month
+Domain: SOC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 CyberEdge Asia is seeking a Threat Intelligence Analyst to deliver actionable threat intelligence for financial sector clients across APAC.

@@ -2,6 +2,9 @@ Title: GRC Analyst - Entry Level
 Company: Deloitte Advisory
 Location: London, United Kingdom
 Salary: GBP 35,000 - 42,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 Deloitte Advisory is seeking an Entry Level GRC Analyst to join our growing cybersecurity consulting practice. You will support client engagements across risk, governance, and compliance.

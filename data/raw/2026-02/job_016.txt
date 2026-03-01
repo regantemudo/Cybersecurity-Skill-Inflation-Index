@@ -2,6 +2,9 @@ Title: Senior Red Team Operator
 Company: OffSec Consulting
 Location: Remote - United States
 Salary: USD 130,000 - 160,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 OffSec Consulting is seeking a Senior Red Team Operator to lead advanced adversary simulation engagements for Fortune 500 clients.

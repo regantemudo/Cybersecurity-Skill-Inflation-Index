@@ -1,20 +1,29 @@
-Title: Senior SOC Analyst
-Company: Tech Mahindra
-Location: Bengaluru, India
-Salary: INR 1,800,000 annually (Normalized to USD: $21,600)
+Title: Threat Intelligence Analyst
+Company: Mandiant (Google Cloud)
+Location: Bengaluru, Karnataka, India
+Salary: Not Listed
+Domain: SOC
+Source: Manual
+Collected: 2026-02-24
 
 Job Description:
-We are looking for a Senior SOC Analyst to join our 24/7 security operations center. The ideal candidate must have 4+ years of hands-on experience in incident response and threat hunting. You will be responsible for analyzing alerts from our SIEM (Splunk) and EDR (CrowdStrike) solutions.
+Mandiant, part of Google Cloud, is seeking a Threat Intelligence Analyst to track advanced persistent threat (APT) groups and produce finished intelligence products for enterprise and government clients across the APAC region.
+
+Responsibilities:
+- Track and profile APT groups targeting financial, government, and critical infrastructure sectors
+- Produce tactical, operational, and strategic threat intelligence reports
+- Develop threat actor profiles using MITRE ATT&CK TTP mappings
+- Monitor dark web forums, paste sites, and underground markets for threat signals
+- Integrate threat intelligence into SIEM and SOAR platforms
+- Brief executive and technical audiences on emerging threat landscape
+- Collaborate with incident response teams to provide adversary context during active investigations
 
 Requirements:
-
-Minimum 4 years experience in a SOC environment.
-
-Certifications: CompTIA CySA+, GCIH, or equivalent.
-
-Strong knowledge of MITRE ATT&CK framework.
-
-Experience with SIEM, SOAR, and EDR tools.
-
-Ability to mentor L1 analysts.
-Domain: SOC
+- 4+ years experience in cyber threat intelligence or security operations
+- Strong knowledge of MITRE ATT&CK, Diamond Model, and Kill Chain frameworks
+- Experience with threat intelligence platforms: Recorded Future, MISP, or OpenCTI
+- Proficiency with Splunk or Microsoft Sentinel
+- GIAC GCTI or equivalent certification preferred
+- CISSP or Security+ certification required
+- Python scripting for automation and data enrichment
+- Familiarity with STIX/TAXII protocols

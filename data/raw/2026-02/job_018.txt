@@ -2,6 +2,9 @@ Title: Application Security Engineer
 Company: SecureCode Labs
 Location: Hong Kong
 Salary: HKD 45,000 - 60,000 per month
+Domain: AppSec
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 SecureCode Labs is hiring an Application Security Engineer to embed security into the SDLC for a leading digital banking platform.

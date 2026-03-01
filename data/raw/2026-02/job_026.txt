@@ -1,127 +1,27 @@
-Security Analyst - VAPT - job post
-Soffit IT Infrastructure Private Limited
-Kochi, Kerala
-Up to ₹7,00,000 a year
-Soffit IT Infrastructure Private Limited
-Kochi, Kerala
-Up to ₹7,00,000 a year
-Profile insights
-Here’s how the job qualifications align with your profile.
-Certifications
+Title: Security Analyst - VAPT
+Company: Soffit IT Infrastructure Private Limited
+Location: Kochi, Kerala, India
+Salary: INR 700,000 per year
+Domain: Penetration Testing
+Source: LinkedIn
+Collected: 2026-02-20
 
-Do you have a valid CEH certification?
-Skills
+Job Description:
+Soffit IT Infrastructure is seeking a Security Analyst specializing in Vulnerability Assessment and Penetration Testing (VAPT) to execute security testing services including web, network, mobile, and cloud assessments.
 
-Do you have experience in PHP?
-&nbsp;
-Job details
-Here’s how the job details align with your profile.
-Pay
+Responsibilities:
+- Execute Vulnerability Assessment and Penetration Testing for systems, networks, web, and mobile applications
+- Perform Secure Code Review using SAST and DAST methodologies
+- Conduct Secure Configuration Review for cloud and on-premise environments
+- Review technical findings and produce detailed security testing reports
+- Resolve client issues and provide remediation recommendations
+- Develop automation frameworks to enhance testing efficiency
+- Learn new tools, attacks, vulnerabilities, and exploits continuously
 
-Job type
-
-&nbsp;
-Location
-Kochi, Kerala
-&nbsp;
-Benefits
-Pulled from the full job description
-
-    Health insurance
-    Provident Fund
-
-&nbsp;
-Full job description
-
-Job Title: Security Analyst
-
-Location: Kochi
-
-Major Objectives of the Job:
-
-    Execute Security Testing Services delivery
-
-o Vulnerability Assessment and Penetration Testing ( systems, networks, web-based and mobile)
-
-o Secure Code Review (SAST, DAST)
-
-o Secure Config Review (Cloud, On-Premise)
-
-    Review technical findings, test cases, test plan and security testing reports
-
-    Timeliness of Report Delivery, ensures timely distribution of reports
-
-    Resolve client issues and escalations
-
-    Provide recommendations/solution/remediation for security improvements to Customers
-
-Main Responsibilities:
-
-1. Quality of Service Delivery
-
-    Accuracy of Project Scope and Deliverables
-
-    Quality of Security Testing Process
-
-    Quality of Report Delivery
-
-2. Customer relation
-
-    Communication skills (oral, written)
-
-    On-time delivery
-
-    Client Issue Resolution Rate
-
-3. Security Testing Process Efficiency
-
-    Developing/following process
-
-    Develop automation frameworks to enhance efficiency
-
-    Using tools/scripts efficiently
-
-4. Continuous Improvement & Innovation
-
-    Implement innovative ideas and approaches to security testing
-
-    Learning new tools, attacks, vulnerabilities, exploits
-
-Competencies Required:
-
-    Exp VA/PT – 1 – 3 years
-
-Skills:
-
-    Scripting & Programming skills Java, php, python, Javascript or Net technologies
-
-    Database concepts and query execution
-
-    Good understanding of network protocols
-
-Certifications:
-
-    CEH, eJPT, CRTP, OSCP or similar.
-
-Job Types: Full-time, Permanent
-
-Pay: Up to ₹700,000.00 per year
-
-Benefits:
-
-    Health insurance
-    Provident Fund
-
-Application Question(s):
-
-    How many years of experience you have in VAPT ?
-    Do you have any experience in Systems, Networks, Web-based and Mobile based testing ?
-
-    What about your experience in Secure Code Review (SAST, DAST) and Secure Config Review (Cloud, On-Premise) ?
-    Are you an Immediate Joiner ?
-
-Experience:
-
-    minimum: 3 years (Required)
-
-Work Location: In person
+Requirements:
+- 1-3 years experience in VA/PT (minimum 3 years required)
+- Scripting and programming skills: Java, PHP, Python, JavaScript or .NET
+- Good understanding of network protocols and database concepts
+- Certifications: CEH, eJPT, CRTP, or OSCP preferred
+- Experience in systems, networks, web-based, and mobile-based testing
+- Knowledge of SAST, DAST, and secure config review

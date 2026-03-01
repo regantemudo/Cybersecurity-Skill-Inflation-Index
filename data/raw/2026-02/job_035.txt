@@ -1,20 +1,29 @@
-Title: Penetration Tester
-Company: TCS (Tata Consultancy Services)
-Location: Pune, India
-Salary: INR 1,500,000 annually (Normalized to USD: $18,000)
+Title: Senior SOC Analyst - L3
+Company: CrowdStrike
+Location: Singapore
+Salary: SGD 9,000 - 13,000 per month
+Domain: SOC
+Source: Manual
+Collected: 2026-02-24
 
 Job Description:
-TCS is hiring an experienced Penetration Tester to conduct vulnerability assessments and penetration testing on web applications, mobile applications, and internal networks.
+CrowdStrike is seeking a Senior SOC Analyst at the L3 level to lead complex threat investigations and mentor junior analysts across a global 24x7 security operations function focused on OverWatch managed threat hunting.
 
-Key Responsibilities:
+Responsibilities:
+- Lead complex incident investigations using CrowdStrike Falcon platform
+- Perform advanced threat hunting across enterprise customer environments
+- Develop custom detection logic and correlation rules in Splunk and Falcon
+- Mentor L1 and L2 analysts and review their triage outputs
+- Produce detailed adversary simulation reports with MITRE ATT&CK mappings
+- Respond to P1 critical incidents and lead client communication
+- Build and maintain SOAR playbooks for automated response workflows
 
-Perform manual and automated testing using Burp Suite, Nessus, and Metasploit.
-
-Write detailed technical reports outlining vulnerabilities and remediation steps.
-
-3 to 5 years of dedicated penetration testing experience.
-
-Mandatory Certifications: OSCP is strictly required. CEH or CPENT is a plus.
-
-Strong understanding of OWASP Top 10 and secure coding practices.
-Domain: Penetration Testing
+Requirements:
+- 6+ years experience in SOC, incident response, or threat hunting
+- Expert-level CrowdStrike Falcon proficiency required
+- Strong knowledge of MITRE ATT&CK, Cyber Kill Chain, and NIST IR
+- Experience with Splunk, Microsoft Sentinel, or QRadar
+- GCIH or GCFE certification required
+- CISSP certification strongly preferred
+- Microsoft SC-200 or CrowdStrike CCFA certification a plus
+- Scripting in Python or PowerShell for automation

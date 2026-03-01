@@ -2,6 +2,9 @@ Title: Information Security Compliance Analyst
 Company: BlueFort Cyber Solutions
 Location: Mumbai, India
 Salary: INR 8,00,000 - 11,00,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 We are hiring a compliance analyst with 3+ years of experience in cybersecurity risk and compliance.

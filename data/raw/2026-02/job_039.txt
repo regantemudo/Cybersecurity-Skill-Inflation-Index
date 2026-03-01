@@ -1,0 +1,28 @@
+Title: Product Security Engineer
+Company: Razorpay
+Location: Bengaluru, Karnataka, India
+Salary: INR 30,00,000 - 45,00,000 annually
+Domain: AppSec
+Source: Manual
+Collected: 2026-02-24
+
+Job Description:
+Razorpay is seeking a Product Security Engineer to build and scale application security programs across its payment infrastructure, ensuring secure-by-design principles are embedded throughout the SDLC.
+
+Responsibilities:
+- Perform security design reviews and threat modelling for new product features
+- Conduct manual and automated code reviews across Java, Go, and Node.js codebases
+- Integrate and manage SAST tools (Semgrep, Checkmarx) and DAST (Burp Suite) in CI/CD
+- Build and maintain SCA pipeline using Snyk for open source vulnerability management
+- Develop and deliver developer security training and secure coding guidelines
+- Run bug bounty program triage and coordinate researcher communications
+- Define and track vulnerability remediation SLAs across engineering teams
+
+Requirements:
+- 4+ years experience in application security or product security
+- Strong knowledge of OWASP Top 10, OWASP SAMM, and threat modelling (STRIDE)
+- Experience with Semgrep, Checkmarx, Burp Suite, and Snyk
+- Proficiency in at least one programming language: Java, Go, Python, or Node.js
+- CSSLP or GWEB certification preferred
+- PCI-DSS knowledge required (payment industry)
+- OSWE or GWAPT certification a strong advantage

@@ -2,6 +2,9 @@ Title: SOC Analyst Level 2
 Company: ThreatGuard Security
 Location: Dubai, UAE
 Salary: AED 16,000 - 20,000 per month
+Domain: SOC
+Source: Manual
+Collected: 2026-02-01
 
 Job Description:
 ThreatGuard is hiring a SOC Analyst L2 to monitor, detect, and respond to cybersecurity incidents across enterprise clients using a 24x7 security operations center.

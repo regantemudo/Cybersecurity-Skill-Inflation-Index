@@ -1,20 +1,28 @@
-Title: Cloud Security Engineer
-Company: Amazon Web Services (AWS)
-Location: London, UK
-Salary: GBP 80,000 annually (Normalized to USD: $100,800)
+Title: Mobile Application Penetration Tester
+Company: NCC Group
+Location: London, United Kingdom
+Salary: GBP 60,000 - 78,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-02-24
 
 Job Description:
-AWS is seeking a Cloud Security Engineer to design and implement security controls across our rapidly expanding infrastructure.
+NCC Group is seeking a Mobile Application Penetration Tester to conduct in-depth security assessments of iOS and Android applications for clients across financial services, healthcare, and government sectors.
+
+Responsibilities:
+- Perform iOS and Android mobile application penetration testing
+- Conduct static and dynamic analysis of mobile applications
+- Test for OWASP Mobile Top 10 vulnerabilities
+- Assess backend API security alongside mobile app testing
+- Write detailed technical and executive-level penetration test reports
+- Assist in developing new mobile testing methodologies and tooling
+- Present findings to technical and non-technical client stakeholders
 
 Requirements:
-
-5+ years of experience in cloud security engineering.
-
-Deep expertise in AWS native security tools (GuardDuty, Security Hub, AWS WAF).
-
-Experience with Infrastructure as Code (Terraform, CloudFormation).
-
-Certifications: AWS Certified Security - Specialty, CISSP.
-
-Must have experience with container security (Docker/Kubernetes).
-Domain: Cloud Security
+- 3+ years experience in mobile or web application penetration testing
+- OSCP required; GMOB or eMAPT certification strongly preferred
+- Proficiency with tools: Frida, Objection, MobSF, Jadx, Burp Suite
+- Strong knowledge of OWASP Mobile Top 10 and PTES methodology
+- Experience with iOS jailbreaking and Android rooting for testing purposes
+- Scripting skills in Python or JavaScript
+- CEH or GWAPT certification a plus

@@ -1,84 +1,29 @@
-Security Engineer, Application Security - job post
-ADCI - Karnataka
-3.53.5 out of 5 stars
-Bengaluru, Karnataka
-ADCI - Karnataka
-Bengaluru, Karnataka
-Profile insights
-Here’s how the job qualifications align with your profile.
-Skills
+Title: Security Engineer - Application Security
+Company: Amazon (ADCI - Karnataka)
+Location: Bengaluru, Karnataka, India
+Salary: Not Listed
+Domain: AppSec
+Source: LinkedIn
+Collected: 2026-02-20
 
-Do you have experience in Ruby?
-Education
+Job Description:
+Amazon Stores Security is hiring an Application Security Engineer to collaborate with software development teams to ensure customer safety across a wide range of novel services and platforms, from e-commerce to machine learning pipelines and digital healthcare.
 
-&nbsp;
-Job details
-Here’s how the job details align with your profile.
-Job type
+Responsibilities:
+- Perform manual and automated secure code reviews primarily in Java, Python, and JavaScript
+- Create, update, and maintain threat models for diverse software projects
+- Provide security architecture and design guidance to development teams
+- Develop security automation tools and adversarial security analysis
+- Conduct security training and outreach for internal development teams
+- Identify and resolve security problems using novel methods
+- Influence team processes, priorities, and technical decisions to improve security outcomes
 
-&nbsp;
-Location
-Bengaluru, Karnataka
-&nbsp;
-Benefits
-Pulled from the full job description
-
-    Flexible schedule
-
-&nbsp;
-Full job description
-DESCRIPTION
-In Amazon Stores, we ship some of the widest arrays of technology found at any company. From amazon.com to world class machine learning pipelines, from Innovative digital healthcare to no-checkout retail, we push the boundaries of technology in every direction using the globe’s largest AWS deployment.
-
-As an AppSec engineer, you will collaborate with software development teams to ensure we keep our customers safe while developing these novel services. In a given day, you might be inspecting an application’s code for security issues, building a new framework to help our software developers build faster and more securely, or fine-tuning the design for a new service alongside its software developers.
-
-The ideal candidate combines technical acumen with an ability to lead by influence and communicate clearly. Technically, this person will be a security generalist with one or more areas of deep expertise. In their communication, they will clearly articulate risks to technical and non-technical audiences alike. Interpersonally, successful candidates will effectively harmonize disparate opinions while effectively prioritizing risks to guide their partners towards secure solutions.
-
-Our organization prizes its employees, and we show it through investing in work-life harmony. We have dedicated resources that consistently innovate in reducing on-call time and ensuring the team spend their time on the highest-value tasks. Join the stores AppSec organization to work hard, have fun, and make history!
-
-Our team puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. Instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
-
-Key job responsibilities
-
-    Creating, updating, and maintaining threat models for a wide variety of software projects
-    Security architecture and design guidance
-    Manual and Automated Secure Code Review, primarily in Java, Python and Javascript
-    Development of security automation tools
-    Adversarial security analysis using innovative tools to augment manual effort
-    Security training and outreach for internal development teams
-    Independently solve security problems that require novel methods or approaches
-    Influence your team’s and partners’ process, priorities, and choices to improve outcomes
-
-
-About the team
-Diverse Experiences
-Amazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
-
-Why Amazon Security
-At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon’s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores.
-
-Work/Life Balance
-We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.
-
-Inclusive Team Culture
-In Amazon Security, it’s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices.
-
-Mentorship and Career growth
-We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional.
-
-#Joinstoresappsec
-BASIC QUALIFICATIONS
-
-    BS in Computer Science, Information Security, 3+ years of demonstrated experience of comprehensive application security assessments, including both automated and manual assessment.
-    Hands on experience in threat modelling, architecture review, manual source code review, attacker exploit techniques, and methods for their remediation.
-    Have good understanding of network architecture, enterprise IT systems and cloud such as AWS and programming or Scripting skills (E.g: Java, Python, Perl, Bash, Ruby, PowerShell, etc.) and can explain complex technical risks in simple, clear language that non-technical stakeholders can easily understand and act upon.
-
-PREFERRED QUALIFICATIONS
-
-    You demonstrate excellent judgement in assessing and prioritizing technical risk and You have a strong application security background with a focus on scalable solutions
-    You have experience building and securing cloud infrastructure such as AWS and work to identify and remove bottlenecks for your teammates, both in process and technology
-    You create and maintain security documentation, including architecture designs, implementation guides, and best practices to promote secure development practices
-    Identify security risks and drive continuous improvement in security controls and practices and collaborate with security stakeholders to develop security strategies
-
-
-Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. 
+Requirements:
+- BS in Computer Science or Information Security
+- 3+ years of comprehensive application security assessment experience (automated and manual)
+- Hands-on experience with threat modelling, architecture review, and manual source code review
+- Knowledge of attacker exploit techniques and remediation methods
+- Understanding of network architecture, enterprise IT, and cloud (AWS)
+- Programming/scripting skills: Java, Python, Perl, Bash, Ruby, or PowerShell
+- Strong ability to explain complex technical risks to non-technical stakeholders
+- Preferred: experience building and securing AWS cloud infrastructure

@@ -339,7 +339,10 @@ def chart_salary_scatter(month):
 def update_readme(df, month):
     readme = "README.md"
     if not os.path.exists(readme): return
-    latest = df[df["month"]==month].iloc[-1]
+    rows_for_month = df[df["month"]==month]
+    if rows_for_month.empty:
+        rows_for_month = df[df["month"]==df["month"].max()]
+    latest = rows_for_month.iloc[-1]
     with open(readme,"r",encoding="utf-8") as f: content = f.read()
 
     def rb(content, label, value, color):
@@ -371,7 +374,10 @@ def update_readme(df, month):
 
 # ── Monthly Report ────────────────────────────────────────────────────────────
 def write_report(gdf, ddf, month):
-    latest = gdf[gdf["month"]==month].iloc[-1]
+    rows_for_month = gdf[gdf["month"]==month]
+    if rows_for_month.empty:
+        rows_for_month = gdf[gdf["month"]==gdf["month"].max()]
+    latest = rows_for_month.iloc[-1]
     score  = float(latest["skill_score"])
     sig    = ("🔴 **HIGH INFLATION**" if score>3.0 else
               "🟡 **MODERATE INFLATION**" if score>2.0 else "🟢 **HEALTHY**")
@@ -421,7 +427,15 @@ def generate():
 
     gdf   = pd.read_csv(gpath)
     ddf   = pd.read_csv(dpath) if os.path.exists(dpath) else None
-    month = pd.Timestamp.now().strftime("%Y-%m")
+
+    current_month = pd.Timestamp.now().strftime("%Y-%m")
+    # Fall back to latest available month if current month has no data yet
+    if current_month in gdf["month"].values:
+        month = current_month
+    else:
+        month = gdf["month"].max()
+        print(f"  ℹ  No data for {current_month} yet — using latest available month: {month}")
+
     os.makedirs("reports", exist_ok=True)
     print("Generating charts...")
 
