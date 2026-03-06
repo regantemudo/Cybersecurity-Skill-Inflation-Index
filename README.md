@@ -4,12 +4,12 @@
 
 [![CSII Automation](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml/badge.svg)](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03-blue?style=flat)
-![Skill Score](https://img.shields.io/badge/Skill%20Score-3.33-red?style=flat)
-![Avg Years](https://img.shields.io/badge/Avg%20Years-4.2-blue?style=flat)
-![Avg Certs](https://img.shields.io/badge/Avg%20Certs-2.7-green?style=flat)
-![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.8-yellow?style=flat)
-![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-51-brightgreen?style=flat)
-![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-50%25-orange?style=flat)
+![Skill Score](https://img.shields.io/badge/Skill%20Score-3.05-red?style=flat)
+![Avg Years](https://img.shields.io/badge/Avg%20Years-3.8-blue?style=flat)
+![Avg Certs](https://img.shields.io/badge/Avg%20Certs-2.5-green?style=flat)
+![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.6-yellow?style=flat)
+![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-52-brightgreen?style=flat)
+![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-46%25-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 > Scores measure industry-wide requirement trends from public job data. No editorial judgement is made about any individual employer.
@@ -124,7 +124,7 @@
 | Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |
 |-------|-----------|-----------|-----------|-------------|------|
 | 2026-02 | 4.15 | 2.59 | 2.37 | **3.14** | 41 |
-| 2026-03 | 4.20 | 2.70 | 2.80 | **3.33** | 10 |
+| 2026-03 | 3.82 | 2.45 | 2.64 | **3.05** | 11 |
 ## 🔍 What Is CSII?
 
 The **Cybersecurity Skill Inflation Index** measures whether employers across cybersecurity domains are raising job requirements faster than compensation — a structural market trend that affects career planning, hiring, and salary benchmarking.

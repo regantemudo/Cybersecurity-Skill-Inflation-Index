@@ -9,4 +9,4 @@ month,domain,job_count,avg_years,avg_certs,avg_tools,skill_score,avg_salary_usd,
 2026-03,Cloud Security,2,5.5,4.0,3.0,4.3,93360.0,50.0
 2026-03,IAM,2,4.5,2.0,4.0,3.6,70488.0,50.0
 2026-03,Penetration Testing,2,3.0,2.0,3.0,2.7,97625.0,50.0
-2026-03,SOC,2,3.5,3.0,1.5,2.75,61398.0,50.0
+2026-03,SOC,3,2.33,2.0,1.33,1.9333,61398.0,33.3
