@@ -1,0 +1,28 @@
+Title: Cybersecurity Risk Analyst
+Company: Deloitte Risk Advisory
+Location: Mumbai, Maharashtra, India
+Salary: INR 12,00,000 - 18,00,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Deloitte Risk Advisory is seeking a Cybersecurity Risk Analyst to support GRC engagements for large financial services and manufacturing clients, delivering risk assessments, control framework implementations, and regulatory compliance programs.
+
+Responsibilities:
+- Conduct cybersecurity risk assessments aligned with ISO 27001, NIST CSF, and RBI guidelines
+- Perform gap assessments against regulatory frameworks including SEBI, IRDAI, and RBI IT Framework
+- Develop and maintain information security policies, standards, and procedures
+- Support third-party vendor risk assessments and supply chain security reviews
+- Assist in internal audit readiness and evidence collection for ISO 27001 certification
+- Prepare risk dashboards and board-level reporting for client CISOs
+- Coordinate with IT and business teams during control implementation
+
+Requirements:
+- 2-4 years experience in cybersecurity GRC, risk management, or IT audit
+- ISO 27001 Lead Implementer or Lead Auditor certification required
+- Familiarity with NIST CSF, CIS Controls, and RBI IT Framework
+- CISA or CRISC certification preferred
+- Knowledge of SEBI Cybersecurity and Cyber Resilience Framework
+- Strong documentation and report writing skills
+- Proficiency with GRC tools: Archer, MetricStream, or ServiceNow GRC

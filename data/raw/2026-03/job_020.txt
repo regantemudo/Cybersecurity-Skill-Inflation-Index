@@ -1,0 +1,29 @@
+Title: Identity Security Analyst - CyberArk
+Company: HDFC Bank
+Location: Mumbai, Maharashtra, India
+Salary: INR 15,00,000 - 22,00,000 annually
+Domain: IAM
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+HDFC Bank is seeking an Identity Security Analyst with CyberArk expertise to manage privileged access governance across one of India's largest private banks, supporting 80,000+ employees and 5,000+ privileged accounts across hybrid infrastructure.
+
+Responsibilities:
+- Manage CyberArk PAS suite including Vault, PVWA, CPM, PSM, and PSMP
+- Onboard privileged accounts for Windows servers, Linux, network devices, databases, and cloud platforms
+- Conduct quarterly privileged access certification campaigns and generate audit reports
+- Implement just-in-time (JIT) access provisioning workflows
+- Support RBI IT Framework, ISO 27001, and internal audit requirements
+- Prepare monthly PAM metrics dashboards for CISO reporting
+- Troubleshoot CyberArk platform incidents and coordinate with vendor support
+
+Requirements:
+- 3+ years experience in PAM administration or identity security
+- CyberArk Defender certification required
+- CyberArk Sentry or Guardian preferred
+- Working knowledge of Active Directory, Windows Server, and Linux
+- CISSP or SC-300 certification preferred
+- PowerShell scripting for CyberArk automation and reporting
+- Understanding of RBI IT Framework and SEBI cybersecurity guidelines
+- Familiarity with ISO 27001 audit requirements

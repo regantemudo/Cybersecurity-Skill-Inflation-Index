@@ -1,0 +1,29 @@
+Title: API Security Engineer
+Company: Zomato
+Location: Gurugram, Haryana, India
+Salary: INR 22,00,000 - 32,00,000 annually
+Domain: AppSec
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Zomato is seeking an API Security Engineer to secure the company's extensive microservices API layer serving 100 million+ users, focusing on authentication, authorisation, and API abuse prevention across public and internal APIs.
+
+Responsibilities:
+- Perform REST and GraphQL API penetration testing across Zomato's platform
+- Assess and remediate OWASP API Security Top 10 vulnerabilities
+- Design and implement API gateway security controls using Kong and AWS API Gateway
+- Build rate limiting, bot detection, and API abuse prevention mechanisms
+- Conduct OAuth 2.0 and JWT implementation security reviews
+- Integrate API security scanning into CI/CD pipelines using 42Crunch and OWASP ZAP
+- Monitor API traffic for anomalous patterns using SIEM and API analytics
+
+Requirements:
+- 3+ years experience in API security or application security
+- Deep knowledge of OWASP API Security Top 10 and REST/GraphQL security
+- Hands-on experience with Burp Suite Pro, Postman, and 42Crunch
+- Understanding of OAuth 2.0, JWT, and OpenID Connect security
+- OSCP or OSWE preferred
+- Python scripting for API fuzzing and custom tooling
+- Experience with Kong, AWS API Gateway, or Apigee
+- GWAPT or eWPTX certification a strong advantage

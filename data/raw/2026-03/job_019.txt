@@ -1,0 +1,29 @@
+Title: Zero Trust Architect
+Company: Tata Consultancy Services
+Location: Mumbai, Maharashtra, India
+Salary: INR 30,00,000 - 50,00,000 annually
+Domain: IAM
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+TCS is seeking a Zero Trust Architect to design and deliver enterprise Zero Trust transformation programs for large banking and insurance clients, covering identity, device, network, and application security across hybrid cloud environments.
+
+Responsibilities:
+- Design Zero Trust architecture aligned with NIST SP 800-207 and Microsoft Zero Trust framework
+- Lead Microsoft Entra ID deployments including Conditional Access, PIM, and Identity Protection
+- Architect Zscaler ZIA and ZPA for ZTNA and SWG replacement
+- Design MFA and passwordless authentication strategies across 100,000+ user organizations
+- Integrate MDM (Intune) with Conditional Access for device compliance enforcement
+- Conduct Zero Trust maturity assessments and produce executive roadmaps
+- Present architecture proposals to CISO and CTO level stakeholders
+
+Requirements:
+- 8+ years experience in identity or network security with 3+ years in Zero Trust
+- Microsoft SC-300 and AZ-500 certifications required
+- Expert knowledge of Microsoft Entra ID, Zscaler, and Palo Alto Prisma Access
+- CISSP required; CCSP strongly preferred
+- Deep understanding of NIST SP 800-207 and CISA Zero Trust Maturity Model
+- Experience with SailPoint or Saviynt for IGA integration
+- Strong consulting and executive stakeholder engagement skills
+- Microsoft SC-100 (Cybersecurity Architect) preferred

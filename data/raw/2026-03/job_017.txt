@@ -1,0 +1,29 @@
+Title: AppSec Lead - Secure SDLC
+Company: Infosys Cyber Next
+Location: Hyderabad, India
+Salary: INR 28,00,000 - 42,00,000 annually
+Domain: AppSec
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Infosys Cyber Next is seeking an Application Security Lead to build and scale a Secure SDLC program for a large US banking client, embedding security across development teams working on microservices in Java, Node.js, and Python.
+
+Responsibilities:
+- Lead threat modelling sessions using STRIDE and PASTA methodologies for critical banking features
+- Define and implement SAST, DAST, and SCA toolchain standards across 400+ developers
+- Conduct manual code reviews for high-risk components across Java and Node.js microservices
+- Build and manage vulnerability management program with SLA-driven remediation tracking
+- Develop and deliver secure coding training and security champions program
+- Manage bug bounty program triage and coordinate external researcher disclosures
+- Report AppSec program metrics to CISO and engineering leadership quarterly
+
+Requirements:
+- 6+ years experience in application security with at least 2 years in a lead role
+- CSSLP required
+- Expert knowledge of OWASP Top 10, OWASP SAMM, and BSIMM framework
+- Hands-on experience with Checkmarx, Snyk, and Burp Suite Enterprise
+- OSWE or GWEB certification strongly preferred
+- PCI-DSS and SOX application security compliance experience
+- Proficiency in Java or Node.js for security code review
+- Strong stakeholder management and executive communication skills

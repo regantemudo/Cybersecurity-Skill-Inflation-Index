@@ -1,0 +1,29 @@
+Title: Senior IT Auditor - Cybersecurity
+Company: PwC India
+Location: Hyderabad, India
+Salary: INR 15,00,000 - 22,00,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+PwC India is seeking a Senior IT Auditor with cybersecurity focus to conduct IT general controls reviews, cybersecurity audits, and SOX IT compliance assessments for large listed companies and financial institutions across India.
+
+Responsibilities:
+- Plan and execute IT general controls (ITGC) audits covering access management, change management, and operations
+- Conduct cybersecurity maturity assessments aligned with NIST CSF and ISO 27001
+- Perform SOX IT compliance testing for publicly listed clients and US cross-listed entities
+- Assess cybersecurity controls in ERP environments including SAP and Oracle
+- Identify control gaps and develop practical remediation recommendations
+- Prepare audit reports and present findings to audit committees and senior management
+- Supervise junior auditors and review their workpapers and deliverables
+
+Requirements:
+- 4-6 years experience in IT audit, cybersecurity audit, or risk advisory
+- CISA certification required
+- CRISC or CISSP preferred
+- Knowledge of SOX IT compliance requirements and PCAOB standards
+- Experience auditing SAP or Oracle ERP environments preferred
+- ISO 27001 Lead Auditor certification a strong advantage
+- Strong analytical, report writing, and presentation skills
+- Familiarity with SEBI LODR and RBI regulatory audit requirements

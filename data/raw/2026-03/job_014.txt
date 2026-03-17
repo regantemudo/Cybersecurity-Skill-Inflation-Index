@@ -1,0 +1,28 @@
+Title: Offensive Security Engineer - Red Team
+Company: Paytm (One97 Communications)
+Location: Noida, Uttar Pradesh, India
+Salary: INR 25,00,000 - 40,00,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Paytm is building an internal red team and is seeking an Offensive Security Engineer to conduct adversary simulation exercises and assess the resilience of India's largest payments platform across application, cloud, and infrastructure layers.
+
+Responsibilities:
+- Plan and execute red team operations simulating financially motivated threat actors targeting payments infrastructure
+- Perform web application, Android and iOS mobile, and API penetration testing
+- Assess AWS cloud environment for misconfigurations and privilege escalation paths
+- Conduct Active Directory and Azure AD attack path enumeration using BloodHound
+- Develop custom payloads and EDR/WAF bypass techniques
+- Produce full red team operation reports with MITRE ATT&CK TTP mappings
+- Provide findings to blue team for detection improvement
+
+Requirements:
+- 4+ years experience in penetration testing or offensive security
+- OSCP required; OSEP or CRTO preferred
+- Hands-on experience with Burp Suite, BloodHound, Impacket, Metasploit, and Cobalt Strike
+- Knowledge of Android and iOS mobile application security testing
+- Experience with AWS attack techniques using Pacu and ScoutSuite
+- Python scripting for custom exploit development
+- CEH or eJPT as baseline certification acceptable

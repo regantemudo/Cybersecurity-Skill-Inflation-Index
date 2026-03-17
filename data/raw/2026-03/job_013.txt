@@ -1,0 +1,27 @@
+Title: Web Application Penetration Tester
+Company: Synack Red Team
+Location: Remote - Global
+Salary: USD 90,000 - 130,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Synack is seeking experienced Web Application Penetration Testers to join its vetted Red Team and conduct continuous security testing across enterprise client attack surfaces including web applications, APIs, and mobile platforms.
+
+Responsibilities:
+- Perform black-box and grey-box web application and REST/GraphQL API penetration tests
+- Identify and exploit OWASP Top 10 and OWASP API Security Top 10 vulnerabilities
+- Conduct reconnaissance and subdomain enumeration to expand attack surface
+- Develop proof-of-concept exploits to validate vulnerability impact
+- Submit detailed vulnerability reports with CVSS scoring and remediation guidance
+- Test authentication mechanisms, authorisation logic, and business logic flaws
+
+Requirements:
+- 3+ years experience in web application or API penetration testing
+- OSCP required; OSWE strongly preferred
+- Expert knowledge of OWASP Top 10 and OWASP API Security Top 10
+- Proficiency with Burp Suite Pro, ffuf, Nuclei, and SQLmap
+- Active bug bounty track record on HackerOne, Bugcrowd, or Synack preferred
+- Python or JavaScript scripting for custom tooling
+- eWPTX or GWAPT certification a strong advantage

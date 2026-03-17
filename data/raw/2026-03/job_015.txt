@@ -1,0 +1,29 @@
+Title: Cloud Security Engineer - AWS Specialist
+Company: Razorpay
+Location: Bengaluru, Karnataka, India
+Salary: INR 26,00,000 - 38,00,000 annually
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Razorpay is seeking an AWS Cloud Security Engineer to harden and monitor cloud infrastructure supporting India's largest payment gateway, operating under PCI-DSS Level 1 and RBI compliance requirements across multi-account AWS environments.
+
+Responsibilities:
+- Design and implement security controls across 50+ AWS accounts using AWS Organizations and SCPs
+- Manage CSPM using AWS Security Hub, Wiz, and AWS Config
+- Implement and maintain GuardDuty, Macie, CloudTrail, and VPC Flow Logs
+- Define IAM least-privilege policies and manage cross-account roles
+- Automate security remediation using AWS Lambda and Python
+- Ensure PCI-DSS and RBI DPSS compliance across cloud environments
+- Conduct cloud security architecture reviews for new infrastructure
+
+Requirements:
+- 4+ years experience in AWS cloud security or DevSecOps
+- AWS Certified Security Specialty required
+- Hands-on experience with AWS Security Hub, GuardDuty, and Wiz or Prisma Cloud
+- Proficiency with Terraform for IaC security and policy enforcement
+- CCSP certification preferred
+- Python and Bash scripting for Lambda-based automation
+- PCI-DSS Level 1 compliance experience required
+- Knowledge of CIS AWS Foundations Benchmark

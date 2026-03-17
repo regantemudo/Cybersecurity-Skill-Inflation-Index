@@ -1,0 +1,29 @@
+Title: Container Security Engineer
+Company: Thoughtworks
+Location: Pune, Maharashtra, India
+Salary: INR 20,00,000 - 30,00,000 annually
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Thoughtworks is seeking a Container Security Engineer to embed security into Kubernetes-based delivery pipelines for enterprise clients across financial services and retail sectors, specialising in container and supply chain security.
+
+Responsibilities:
+- Implement Kubernetes security using OPA Gatekeeper, Kyverno, and Falco runtime protection
+- Conduct container image scanning with Trivy and Grype across multi-registry environments
+- Harden Kubernetes cluster configurations against CIS Kubernetes Benchmark
+- Implement supply chain security controls using Sigstore and SLSA framework
+- Integrate secrets management using HashiCorp Vault with Kubernetes workloads
+- Perform threat modelling for containerised microservices architectures
+- Train engineering teams on container security best practices
+
+Requirements:
+- 3+ years experience in Kubernetes security or DevSecOps
+- CKS (Certified Kubernetes Security Specialist) required
+- Hands-on experience with Falco, OPA Gatekeeper, Trivy, and HashiCorp Vault
+- AWS Certified Security Specialty or GCP Professional Cloud Security Engineer preferred
+- CCSP preferred
+- Proficiency with Terraform and Helm for secure infrastructure deployment
+- Python and Go scripting for security automation
+- Knowledge of SLSA, SBOM, and software supply chain security

@@ -1,0 +1,29 @@
+Title: Security Operations Engineer - SIEM
+Company: DXC Technology
+Location: Bengaluru, Karnataka, India
+Salary: INR 16,00,000 - 24,00,000 annually
+Domain: SOC
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+DXC Technology is seeking a Security Operations Engineer specialising in SIEM administration and detection engineering to support a global financial services client's security operations across the Asia Pacific region.
+
+Responsibilities:
+- Administer, tune, and optimise Microsoft Sentinel and Splunk SIEM platforms
+- Develop and maintain detection rules, analytics, and watchlists
+- Build KQL queries and Splunk SPL searches for threat detection use cases
+- Manage SOAR playbook development in Sentinel Automation and Cortex XSOAR
+- Onboard new data sources and ensure log ingestion quality
+- Perform use case lifecycle management from requirements to deployment
+- Produce weekly detection effectiveness reports for client stakeholders
+
+Requirements:
+- 3+ years experience in SOC engineering or SIEM administration
+- Microsoft Sentinel and Splunk hands-on experience required
+- Microsoft SC-200 certification required
+- Proficiency in KQL and Splunk SPL for detection logic
+- Experience with SOAR platforms: Sentinel Automation or Cortex XSOAR
+- CompTIA CySA+ or GCIA certification preferred
+- Python scripting for log parsing and automation
+- Knowledge of MITRE ATT&CK for detection mapping
