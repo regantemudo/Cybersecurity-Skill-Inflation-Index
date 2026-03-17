@@ -16,20 +16,19 @@
 
 ---
 
-## ⚠️ Industry Signal — February 2026
+## ⚠️ Industry Signal — March 2026
 
-> 🔴 **HIGH INFLATION** — Global score **3.14**, above the 3.0 threshold. IAM and SOC are the highest-scoring domains. **49% of all listings** flagged for requirement signals.
+> 🔴 **HIGH INFLATION** — Global score **3.28**, above the 3.0 threshold. **58% of all listings** flagged for requirement signals.
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| 📈 Global Skill Inflation Score | **3.14** | 🔴 High — above threshold |
+| 📈 Global Skill Inflation Score | **3.28** | 🔴 High — above threshold |
 | 📅 Avg Years Required | **4.2 yrs** | 🔴 Rising across all domains |
-| 🧠 Avg Certifications Demanded | **2.6** | 🟡 Cert creep industry-wide |
-| 🛠️ Avg Tools Required | **2.4** | 🔴 High tool complexity |
-| ⚠️ Requirement Signal Rate | **49%** | 🟡 Nearly half of listings flagged |
-| 💰 Avg Salary (USD) | **~$71,134** | 🟡 Varies significantly by market |
-| 💼 Total Jobs Analyzed | **41** | ✅ 6 domains · 6 countries |
-
+| 🧠 Avg Certifications Demanded | **3.0** | 🟡 Cert creep industry-wide |
+| 🛠️ Avg Tools Required | **2.3** | 🔴 High tool complexity |
+| ⚠️ Requirement Signal Rate | **58%** | 🔴 Majority of listings flagged |
+| 💰 Avg Salary (USD) | **~$55,708** | 🟡 Varies significantly by market |
+| 💼 Total Jobs Analyzed | **65** | ✅ 6 domains · 6 countries |
 ---
 
 ## 📈 Global Inflation Trend
@@ -46,12 +45,12 @@
 
 | Domain | Avg Years | Avg Certs | Score | Signal | Jobs |
 |--------|-----------|-----------|-------|--------|------|
-| IAM | 4.7 | 2.2 | 🔴 **3.57** | Identity platform complexity rising | 6 |
-| SOC | 4.1 | 2.8 | 🔴 **3.26** | SIEM + EDR + SOAR now baseline | 8 |
-| AppSec | 4.0 | 2.5 | 🔴 **3.17** | Secure SDLC ownership expanding | 4 |
-| Penetration Testing | 4.3 | 2.1 | 🔴 **3.09** | OSCP alone no longer sufficient | 7 |
-| Cloud Security | 3.2 | 3.2 | 🔴 **3.02** | Multi-cloud cert stacking | 4 |
-| GRC | 4.2 | 2.8 | 🟡 **2.92** | High experience, lower tool demand | 12 |
+| Cloud Security | 4.5 | 3.5 | 🔴 **3.67** | Multi-cloud cert stacking rising | 4 |
+| GRC | 4.5 | 5.0 | 🔴 **3.60** | High cert demand, lower tool requirement | 4 |
+| IAM | 5.0 | 2.2 | 🔴 **3.58** | Identity platform complexity rising | 4 |
+| AppSec | 4.5 | 2.5 | 🔴 **3.23** | Secure SDLC ownership expanding | 4 |
+| Penetration Testing | 3.2 | 2.5 | 🔴 **3.02** | OSCP alone no longer sufficient | 4 |
+| SOC | 3.2 | 2.5 | 🟡 **2.58** | SIEM + EDR + SOAR now baseline | 4 |
 
 ---
 

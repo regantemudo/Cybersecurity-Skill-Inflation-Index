@@ -345,6 +345,7 @@ def update_readme(df, month):
     latest = rows_for_month.iloc[-1]
     with open(readme,"r",encoding="utf-8") as f: content = f.read()
 
+    # ── Badges ────────────────────────────────────────────────────────────────
     def rb(content, label, value, color):
         pat = rf'!\[{re.escape(label)}\]\(https://img\.shields\.io/badge/[^)]*\)'
         v = str(value).replace("-","--").replace(" ","%20")
@@ -360,14 +361,87 @@ def update_readme(df, month):
     if pd.notna(latest.get("exploitation_rate")):
         content = rb(content, "Exploitation Rate", f"{latest['exploitation_rate']:.0f}%25", "orange")
 
-    rows = "".join(
+    # ── Industry Signal section ───────────────────────────────────────────────
+    score     = float(latest["skill_score"])
+    sig_emoji = "🔴 **HIGH INFLATION**" if score > 3.0 else "🟡 **MODERATE INFLATION**" if score > 2.0 else "🟢 **HEALTHY**"
+    exploit   = float(latest.get("exploitation_rate", 0))
+    sal       = latest.get("avg_salary_usd", 0)
+    sal_str   = f"~${float(sal):,.0f}" if pd.notna(sal) and sal else "N/A"
+    jobs_total= int(df["job_count"].sum())
+
+    signal_block = f"""## ⚠️ Industry Signal — {pd.to_datetime(month+'-01').strftime('%B %Y')}
+
+> {sig_emoji} — Global score **{score:.2f}**, {'above' if score > 3.0 else 'below'} the 3.0 threshold. **{exploit:.0f}% of all listings** flagged for requirement signals.
+
+| Metric | Value | Signal |
+|--------|-------|--------|
+| 📈 Global Skill Inflation Score | **{score:.2f}** | {'🔴 High — above threshold' if score > 3.0 else '🟡 Moderate'} |
+| 📅 Avg Years Required | **{float(latest['avg_years']):.1f} yrs** | 🔴 Rising across all domains |
+| 🧠 Avg Certifications Demanded | **{float(latest['avg_certs']):.1f}** | 🟡 Cert creep industry-wide |
+| 🛠️ Avg Tools Required | **{float(latest['avg_tools']):.1f}** | 🔴 High tool complexity |
+| ⚠️ Requirement Signal Rate | **{exploit:.0f}%** | {'🔴 Majority of listings flagged' if exploit > 50 else '🟡 Nearly half of listings flagged'} |
+| 💰 Avg Salary (USD) | **{sal_str}** | 🟡 Varies significantly by market |
+| 💼 Total Jobs Analyzed | **{jobs_total}** | ✅ 6 domains · 6 countries |"""
+
+    content = re.sub(
+        r'## ⚠️ Industry Signal.*?(?=\n---\n)',
+        signal_block,
+        content, flags=re.DOTALL
+    )
+
+    # ── Domain Intelligence table ─────────────────────────────────────────────
+    dpath = "data/processed/domain_index.csv"
+    if os.path.exists(dpath):
+        ddf = pd.read_csv(dpath)
+        dm  = ddf[ddf["month"]==month]
+        if dm.empty:
+            dm = ddf[ddf["month"]==ddf["month"].max()]
+        dm = dm.sort_values("skill_score", ascending=False)
+
+        DOMAIN_INSIGHTS = {
+            "GRC":                 "High cert demand, lower tool requirement",
+            "SOC":                 "SIEM + EDR + SOAR now baseline",
+            "Penetration Testing": "OSCP alone no longer sufficient",
+            "Cloud Security":      "Multi-cloud cert stacking rising",
+            "AppSec":              "Secure SDLC ownership expanding",
+            "IAM":                 "Identity platform complexity rising",
+        }
+
+        domain_rows = ""
+        for _, r in dm.iterrows():
+            icon = "🔴" if r["skill_score"] >= 3.0 else "🟡" if r["skill_score"] >= 2.0 else "🟢"
+            insight = DOMAIN_INSIGHTS.get(r["domain"], "Tracking...")
+            domain_rows += (
+                f"| {r['domain']} | {r['avg_years']:.1f} | {r['avg_certs']:.1f} | "
+                f"{icon} **{r['skill_score']:.2f}** | {insight} | {int(r['job_count'])} |\n"
+            )
+
+        domain_table = (
+            "| Domain | Avg Years | Avg Certs | Score | Signal | Jobs |\n"
+            "|--------|-----------|-----------|-------|--------|------|\n"
+            + domain_rows
+        )
+        content = re.sub(
+            r'\| Domain \| Avg Years \| Avg Certs \| Score \| Signal \| Jobs \|.*?(?=\n---\n|\n\n---)',
+            domain_table.rstrip(),
+            content, flags=re.DOTALL
+        )
+
+    # ── Historical index table ────────────────────────────────────────────────
+    hist_rows = "".join(
         f"| {r['month']} | {r['avg_years']:.2f} | {r['avg_certs']:.2f} | "
         f"{r['avg_tools']:.2f} | **{r['skill_score']:.2f}** | {int(r.get('job_count',0))} |\n"
         for _, r in df.iterrows()
     )
-    block = ("| Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |\n"
-             "|-------|-----------|-----------|-----------|-------------|------|\n" + rows)
-    content = re.sub(r'\| Month \| Avg Years.*?(?=\n##|\Z)', block.rstrip(), content, flags=re.DOTALL)
+    hist_block = (
+        "| Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |\n"
+        "|-------|-----------|-----------|-----------|-------------|------|\n"
+        + hist_rows
+    )
+    content = re.sub(
+        r'\| Month \| Avg Years.*?(?=\n##|\Z)',
+        hist_block.rstrip(), content, flags=re.DOTALL
+    )
 
     with open(readme,"w",encoding="utf-8") as f: f.write(content)
     print("  ✓ README.md updated")
