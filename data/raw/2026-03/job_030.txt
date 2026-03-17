@@ -1,0 +1,27 @@
+Title: ICS Cybersecurity Consultant
+Company: Dragos Inc.
+Location: Remote - Singapore
+Salary: SGD 10,000 - 15,000 per month
+Domain: OT/ICS Security
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+Dragos is seeking an ICS Cybersecurity Consultant to deliver OT security assessments and architecture reviews for critical infrastructure clients across oil and gas, utilities, and manufacturing sectors in Asia Pacific.
+
+Responsibilities:
+- Conduct OT/ICS security architecture assessments using IEC 62443 and NERC CIP frameworks
+- Perform passive network monitoring and asset inventory in live OT environments using Dragos Platform
+- Execute OT-specific penetration testing and vulnerability assessments
+- Lead ICS incident response engagements including forensics on industrial endpoints
+- Develop OT security roadmaps and control implementation plans for client CISOs
+- Deliver tabletop exercises simulating industrial cyber attacks
+
+Requirements:
+- 5+ years experience in OT/ICS security or critical infrastructure protection
+- GICSP certification required
+- CSSA (Certified SCADA Security Architect) preferred
+- Expert knowledge of IEC 62443, NERC CIP, and NIST SP 800-82
+- Hands-on experience with Dragos Platform, Claroty, or Nozomi
+- Deep understanding of industrial protocols: Modbus, DNP3, EtherNet/IP, OPC-UA
+- OSCP preferred for penetration testing component

@@ -1,0 +1,26 @@
+Title: Data Protection Officer (DPO)
+Company: HDFC Life Insurance
+Location: Mumbai, Maharashtra, India
+Salary: INR 28,00,000 - 45,00,000 annually
+Domain: Data Privacy
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+HDFC Life Insurance is seeking a Data Protection Officer to lead the company's data privacy program covering 50 million+ policyholders, ensuring full compliance with India's DPDP Act and IRDAI guidelines.
+
+Responsibilities:
+- Serve as primary contact for the Data Protection Board of India under DPDP Act
+- Lead enterprise data protection program including policies, procedures, and control framework
+- Manage data breach notification process and coordinate with regulators within statutory timelines
+- Conduct annual privacy audits and oversee third-party data processor assessments
+- Review and approve Data Processing Agreements with vendors
+- Deliver privacy awareness training across HDFC Life's 15,000+ workforce
+
+Requirements:
+- 7+ years experience in data privacy, legal, or compliance roles
+- CIPP/E required; CIPP/US and CIPM preferred
+- Law degree preferred with data privacy specialisation
+- Deep expertise in India DPDP Act 2023, IRDAI cybersecurity framework, and GDPR
+- Experience with OneTrust or TrustArc privacy management platforms
+- CISSP or CISM certification preferred

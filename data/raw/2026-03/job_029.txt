@@ -1,0 +1,27 @@
+Title: OT/ICS Security Engineer
+Company: Siemens Energy
+Location: Mumbai, Maharashtra, India
+Salary: INR 20,00,000 - 32,00,000 annually
+Domain: OT/ICS Security
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+Siemens Energy is seeking an OT/ICS Security Engineer to protect industrial control systems and SCADA infrastructure across power generation and transmission facilities in India.
+
+Responsibilities:
+- Conduct OT/ICS security assessments across SCADA and DCS environments at energy facilities
+- Implement network segmentation between IT and OT networks using Purdue Model architecture
+- Deploy and manage Claroty and Nozomi OT security monitoring platforms
+- Perform vulnerability assessments of PLCs, HMIs, and SCADA systems
+- Develop and maintain OT-specific incident response playbooks
+- Support IEC 62443 compliance assessments and NERC CIP control implementations
+
+Requirements:
+- 4+ years experience in OT/ICS security or industrial control systems
+- GICSP (Global Industrial Cyber Security Professional) required
+- IEC 62443 certification or training preferred
+- Hands-on experience with Claroty, Nozomi, or Dragos OT security platforms
+- Understanding of Modbus, DNP3, Profinet, and OPC-UA protocols
+- CISSP or CISM preferred for senior candidates
+- Electrical or electronics engineering background preferred

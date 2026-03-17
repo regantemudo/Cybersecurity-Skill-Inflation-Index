@@ -1,0 +1,27 @@
+Title: Senior Incident Response Consultant
+Company: Secureworks Incident Response
+Location: Dubai, UAE
+Salary: AED 30,000 - 45,000 per month
+Domain: DFIR
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+Secureworks is seeking a Senior Incident Response Consultant to lead breach investigations, ransomware recoveries, and nation-state intrusion investigations for enterprise and government clients across the Middle East and Africa region.
+
+Responsibilities:
+- Lead end-to-end incident response engagements from initial triage through remediation
+- Perform advanced host-based and network forensics across Windows, Linux, and cloud environments
+- Investigate ransomware attacks including encryption analysis and data exfiltration assessment
+- Conduct Active Directory and Azure AD compromise investigations
+- Perform cloud forensics on AWS, Azure, and GCP during cloud-based incidents
+- Deliver executive briefings and detailed technical investigation reports
+
+Requirements:
+- 6+ years experience in incident response or digital forensics
+- GCFA and GCIH certifications required
+- GCFE or GCFR preferred
+- CISSP or CISM preferred
+- Expert knowledge of Windows forensic artifacts and Active Directory attack paths
+- Hands-on experience with Velociraptor, Axiom, and EnCase or FTK
+- Cloud forensics experience on AWS, Azure, and GCP

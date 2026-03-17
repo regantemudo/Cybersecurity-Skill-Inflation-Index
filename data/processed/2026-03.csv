@@ -23,3 +23,11 @@ job_021.txt,Cybersecurity Risk Analyst,Deloitte Risk Advisory,"Mumbai, Maharasht
 job_022.txt,Information Security Compliance Manager,EY (Ernst & Young),"Bengaluru, Karnataka, India",India,GRC,Senior,5,6,0,4,"INR 18,00,000 - 28,00,000 annually",27600.0,CERT_OVERLOAD|UNDERPAID_EXPERIENCED
 job_023.txt,Senior IT Auditor - Cybersecurity,PwC India,"Hyderabad, India",India,GRC,Senior,6,5,1,2,"INR 15,00,000 - 22,00,000 annually",22200.0,CERT_OVERLOAD|UNDERPAID_EXPERIENCED
 job_024.txt,GRC Analyst - Cloud Security Compliance,Cognizant Technology Solutions,"Chennai, Tamil Nadu, India",India,GRC,Mid,3,4,0,2,"INR 12,00,000 - 18,00,000 annually",18000.0,UNDERPAID_EXPERIENCED
+job_025.txt,Network Security Engineer - NGFW,Palo Alto Networks MSSP,Singapore,Singapore,Network Security,Mid,4,3,6,2,"SGD 8,500 - 12,000 per month",91266.0,TOOL_STACK_ABUSE
+job_026.txt,Senior Network Security Architect,Standard Chartered Bank,"London, United Kingdom",UK,Network Security,Senior,8,3,3,2,"GBP 85,000 - 115,000 annually",127000.0,SENIOR_EXPLOITATION
+job_027.txt,DFIR Analyst - Malware and Threat Intelligence,KPMG Cyber Response,"Bengaluru, Karnataka, India",India,DFIR,Mid,3,3,5,2,"INR 18,00,000 - 28,00,000 annually",27600.0,TOOL_STACK_ABUSE|UNDERPAID_EXPERIENCED
+job_028.txt,Senior Incident Response Consultant,Secureworks Incident Response,"Dubai, UAE",UAE,DFIR,Senior,6,5,4,0,"AED 30,000 - 45,000 per month",122400.0,CERT_OVERLOAD|TOOL_STACK_ABUSE
+job_029.txt,OT/ICS Security Engineer,Siemens Energy,"Mumbai, Maharashtra, India",India,OT/ICS Security,Mid,4,5,3,3,"INR 20,00,000 - 32,00,000 annually",31200.0,CERT_OVERLOAD
+job_030.txt,ICS Cybersecurity Consultant,Dragos Inc.,Remote - Singapore,Singapore,OT/ICS Security,Mid,5,4,3,3,"SGD 10,000 - 15,000 per month",111300.0,CLEAN
+job_031.txt,Data Privacy Engineer,Flipkart,"Bengaluru, Karnataka, India",India,Data Privacy,Mid,3,4,3,2,"INR 22,00,000 - 35,00,000 annually",34200.0,CLEAN
+job_032.txt,Data Protection Officer (DPO),HDFC Life Insurance,"Mumbai, Maharashtra, India",India,Data Privacy,Senior,7,6,2,2,"INR 28,00,000 - 45,00,000 annually",43800.0,CERT_OVERLOAD

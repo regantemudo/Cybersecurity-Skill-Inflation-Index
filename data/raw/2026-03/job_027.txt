@@ -1,0 +1,27 @@
+Title: DFIR Analyst - Malware and Threat Intelligence
+Company: KPMG Cyber Response
+Location: Bengaluru, Karnataka, India
+Salary: INR 18,00,000 - 28,00,000 annually
+Domain: DFIR
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+KPMG Cyber Response is seeking a DFIR Analyst specialising in malware analysis and threat intelligence to support incident response engagements and managed detection services for enterprise clients.
+
+Responsibilities:
+- Perform static and dynamic malware analysis using Ghidra, IDA Pro, and Any.run sandbox
+- Conduct host-based forensics on Windows and Linux using Volatility and Autopsy
+- Analyse memory dumps, disk images, and network captures for forensic artifacts
+- Develop threat actor profiles and IOC sets using MITRE ATT&CK TTP mapping
+- Support active incident response engagements including triage, containment, and remediation
+- Produce forensic investigation reports suitable for legal proceedings
+
+Requirements:
+- 3+ years experience in DFIR, malware analysis, or threat intelligence
+- GCFA or GCFE certification required
+- GREM (malware reverse engineering) preferred
+- Proficiency with Volatility, Autopsy, Ghidra, and IDA Pro
+- Experience with sandbox platforms: Any.run, Cuckoo, or Joe Sandbox
+- Python scripting for forensic automation and IOC extraction
+- Knowledge of MITRE ATT&CK, Diamond Model, and STIX/TAXII

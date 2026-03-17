@@ -1,0 +1,30 @@
+Title: Network Security Engineer - NGFW
+Company: Palo Alto Networks MSSP
+Location: Singapore
+Salary: SGD 8,500 - 12,000 per month
+Domain: Network Security
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+Palo Alto Networks MSSP partner is seeking a Network Security Engineer to design, implement, and manage next-generation firewall infrastructure across enterprise clients in Singapore and Southeast Asia.
+
+Responsibilities:
+- Design and implement Palo Alto Networks NGFW policies across enterprise environments
+- Configure and manage SD-WAN security using Prisma SD-WAN
+- Implement network segmentation and microsegmentation using Zero Trust principles
+- Manage IDS/IPS rules and tune detection signatures across Palo Alto and Fortinet platforms
+- Conduct network traffic analysis using Wireshark and Zeek for anomaly detection
+- Perform firewall rule reviews and access control optimisation
+- Integrate network security telemetry into SIEM for correlated threat detection
+- Respond to network-layer security incidents and DDoS attacks
+
+Requirements:
+- 4+ years experience in network security engineering
+- PCNSE (Palo Alto Networks Certified Network Security Engineer) required
+- CCNP Security or Fortinet NSE 7 preferred
+- Hands-on experience with Palo Alto NGFW, Panorama, and Prisma Access
+- Knowledge of BGP, OSPF, and enterprise routing security
+- Experience with NAC platforms: Forescout or Aruba ClearPass
+- Familiarity with SASE and Zero Trust Network Access architecture
+- Wireshark and packet analysis proficiency

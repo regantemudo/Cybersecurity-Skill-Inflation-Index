@@ -1,0 +1,26 @@
+Title: Senior Network Security Architect
+Company: Standard Chartered Bank
+Location: London, United Kingdom
+Salary: GBP 85,000 - 115,000 annually
+Domain: Network Security
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+Standard Chartered Bank is seeking a Senior Network Security Architect to lead the design and transformation of global network security architecture across 60+ countries, driving Zero Trust adoption and SASE implementation at enterprise scale.
+
+Responsibilities:
+- Design and govern global network security architecture standards across SCB's international network
+- Lead SASE transformation replacing legacy MPLS with Zscaler and Palo Alto Prisma
+- Define microsegmentation strategy across data centres and cloud environments
+- Conduct threat modelling for network architecture changes and new platform onboarding
+- Drive DDoS protection strategy using Akamai and Cloudflare
+- Produce network security architecture documentation and present to CISO and CTO
+
+Requirements:
+- 8+ years experience in network security with 3+ years in architecture
+- CCIE Security or PCNSE required
+- CISSP required; CCSP preferred
+- Expert knowledge of Palo Alto, Checkpoint, and Fortinet platforms
+- Deep understanding of SASE, ZTNA, and SD-WAN security
+- Knowledge of PRA, FCA, and MAS regulatory network security requirements

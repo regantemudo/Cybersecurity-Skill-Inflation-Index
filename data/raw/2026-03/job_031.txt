@@ -1,0 +1,27 @@
+Title: Data Privacy Engineer
+Company: Flipkart
+Location: Bengaluru, Karnataka, India
+Salary: INR 22,00,000 - 35,00,000 annually
+Domain: Data Privacy
+Source: Manual
+Collected: 2026-03-15
+
+Job Description:
+Flipkart is seeking a Data Privacy Engineer to build privacy-by-design capabilities into its e-commerce platform serving 400 million+ users, ensuring compliance with India's DPDP Act and GDPR.
+
+Responsibilities:
+- Lead Privacy Impact Assessments and DPIAs for new product features
+- Implement data classification and tagging across Flipkart's data lake using Microsoft Purview and BigID
+- Design and build consent management infrastructure aligned with DPDP Act requirements
+- Deploy and manage DLP controls using Microsoft Purview DLP and Varonis
+- Define data minimisation, retention, and deletion policies
+- Collaborate with legal and product teams to embed privacy by design into SDLC
+
+Requirements:
+- 3+ years experience in data privacy engineering or data governance
+- CIPP/E or CIPP/US certification required
+- CIPM certification preferred
+- Hands-on experience with Microsoft Purview, BigID, or Varonis
+- Deep knowledge of India DPDP Act 2023 and GDPR requirements
+- Python or SQL scripting for data discovery and compliance automation
+- Privacy by Design and Privacy by Default principles expertise
