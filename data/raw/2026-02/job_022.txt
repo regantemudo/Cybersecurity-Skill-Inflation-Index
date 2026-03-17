@@ -1,57 +1,28 @@
-SOC Analyst - job post
-Knack Consulting Services Pvt Ltd
-Mohali, Punjab
-Knack Consulting Services Pvt Ltd
-Mohali, Punjab
-Profile insights
-Here’s how the job qualifications align with your profile.
-Skills
+Title: Information Security Risk Analyst
+Company: Wipro GRC Practice
+Location: Bengaluru, Karnataka, India
+Salary: INR 10,00,000 - 15,00,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-02-20
 
-Do you have experience in SIEM?
-&nbsp;
-Job details
-Here’s how the job details align with your profile.
-Job type
-
-&nbsp;
-Location
-Mohali, Punjab
-&nbsp;
-Full job description
-
-Job Title: SOC Analyst (Incident Management)
-
-Experience- 4+ yrs
-
-Location-Mohali
-
-Mode- Strictly Work from Office (5 Days working)
-
-Notice Period- 30 days
+Job Description:
+Wipro GRC Practice is seeking an Information Security Risk Analyst to support enterprise risk management and compliance engagements for banking and financial services clients across the APAC region.
 
 Responsibilities:
-
-    Act as a key role in the resolution of cyber security incidents.
-    Work with IT Infrastructure and application team to support every-day SOC operation.
-    Perform Incident Handling by effective communication and coordination of incident response efforts.
-    Act as a primary incident responder as well as an incident coordinator between other business units for effective incident resolution.
-    Perform the first/second level triage and escalate the security incidents to senior staffs for further investigations whenever necessary.
-    Perform active incident tracking using ticket management system and provide frontline analysis for all the newly generated alerts/incidents in SOC platform, also engage respective IT team for the remediation.
-    Plan and manage Incident response procedure. Document and maintain a daily report of security incidents.
-    Assist in improving overall operational efficiency of SOC platforms and creation of security dashboards/higher level security presentation for management.
-
+- Conduct information security risk assessments using ISO 27005 and NIST RMF methodologies
+- Perform vendor and third-party risk assessments against defined security control frameworks
+- Develop and maintain risk registers, risk treatment plans, and control evidence repositories
+- Support ISO 27001 ISMS implementation and internal audit activities
+- Assist in regulatory compliance gap analysis for RBI, MAS, and APRA requirements
+- Prepare risk dashboards and monthly status reports for client CISOs
+- Coordinate with IT and business teams on control implementation and remediation tracking
 
 Requirements:
-
-    Familiarity with principles of Incident Management, including common incident response frameworks.
-    Knowledge of SIEM, AV, EDR, Next-Gen Firewalls, Cloud Platforms etc.
-    Basic knowledge of IT Networking concepts.
-    Skills in monitoring/reporting security remediations and incident response activities.
-    Effective Documentation Skill.
-    Effective verbal and written communication skills.
-    Effective Stakeholder management.
-    Experience of working in a complex matrix environment with both internal and 3rd party resources.
-    Ability to rapidly and thoroughly understand the environment in which you will operate (people, applications, technology, process).
-    Ability to work in an international multicultural team.
-
-Skills: SOC Analyst , siem , av , edr , next-gen firewalls , cloud platforms , Incident Management , cyber security incidents
+- 2-4 years experience in information security risk management or IT audit
+- ISO 27001 Lead Implementer certification required
+- CISA or CRISC certification preferred
+- Knowledge of NIST RMF, ISO 27005, and RBI IT Framework
+- Experience with GRC tools: Archer, MetricStream, or ServiceNow GRC
+- Strong documentation and analytical skills
+- Understanding of financial sector regulatory requirements across APAC

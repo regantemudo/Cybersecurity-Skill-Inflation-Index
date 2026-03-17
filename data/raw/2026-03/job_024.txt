@@ -1,0 +1,29 @@
+Title: GRC Analyst - Cloud Security Compliance
+Company: Cognizant Technology Solutions
+Location: Chennai, Tamil Nadu, India
+Salary: INR 12,00,000 - 18,00,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-03-10
+
+Job Description:
+Cognizant Technology Solutions is seeking a GRC Analyst with cloud security compliance expertise to support a large US financial services client in maintaining SOC 2 Type II, ISO 27001, and CSA STAR certifications across AWS and Azure cloud environments.
+
+Responsibilities:
+- Manage continuous compliance monitoring for SOC 2 Type II controls across cloud infrastructure
+- Conduct evidence collection and control testing for ISO 27001 annual surveillance audits
+- Perform cloud security configuration reviews against CIS Benchmarks for AWS and Azure
+- Maintain the cloud risk register and track remediation of identified control gaps
+- Liaise with external auditors during SOC 2 and ISO 27001 audit cycles
+- Develop and maintain cloud security policies and standards aligned to CSA CCM
+- Prepare monthly compliance dashboards for client CISO and leadership reporting
+
+Requirements:
+- 3+ years experience in GRC, IT audit, or cloud security compliance
+- ISO 27001 Lead Implementer or Lead Auditor certification required
+- CISA certification required
+- Knowledge of SOC 2 Trust Service Criteria and AICPA audit standards
+- Familiarity with CSA Cloud Controls Matrix (CCM) and STAR certification
+- Experience with AWS Security Hub or Azure Security Center for compliance monitoring
+- CCSP or AWS Certified Cloud Practitioner preferred
+- Strong analytical and documentation skills

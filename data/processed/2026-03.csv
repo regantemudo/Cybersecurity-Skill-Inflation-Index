@@ -9,4 +9,17 @@ job_007.txt,Application Security Engineer - Payments,PayPal,"Chennai, Tamil Nadu
 job_008.txt,Senior AppSec Engineer - Mobile,Grab,Singapore,Singapore,AppSec,Senior,5,2,1,0,"SGD 11,000 - 15,000 per month",115752.0,CLEAN
 job_009.txt,IAM Security Engineer - Okta Specialist,Wipro Cybersecurity,"Hyderabad, India",India,IAM,Mid,4,2,3,2,"INR 20,00,000 - 30,00,000 annually",30000.0,CLEAN
 job_010.txt,Privileged Access Management Consultant,Accenture Security,"Dubai, UAE",UAE,IAM,Mid,5,2,5,1,"AED 28,000 - 40,000 per month",110976.0,TOOL_STACK_ABUSE
-job_011.txt,Unknown,Unknown,Unknown,Other,SOC,Junior,0,0,1,0,Unknown,,CLEAN
+job_011.txt,Security Operations Analyst,ZS Associates,"Pune, Maharashtra, India",India,SOC,Mid,3,1,1,0,Not Listed,,CLEAN
+job_012.txt,Security Operations Engineer - SIEM,DXC Technology,"Bengaluru, Karnataka, India",India,SOC,Mid,3,3,3,2,"INR 16,00,000 - 24,00,000 annually",24000.0,UNDERPAID_EXPERIENCED
+job_013.txt,Web Application Penetration Tester,Synack Red Team,Remote - Global,USA,Penetration Testing,Mid,3,3,2,1,"USD 90,000 - 130,000 annually",110000.0,CLEAN
+job_014.txt,Offensive Security Engineer - Red Team,Paytm (One97 Communications),"Noida, Uttar Pradesh, India",India,Penetration Testing,Mid,4,3,5,1,"INR 25,00,000 - 40,00,000 annually",39000.0,TOOL_STACK_ABUSE
+job_015.txt,Cloud Security Engineer - AWS Specialist,Razorpay,"Bengaluru, Karnataka, India",India,Cloud Security,Mid,4,3,4,0,"INR 26,00,000 - 38,00,000 annually",38400.0,TOOL_STACK_ABUSE
+job_016.txt,Container Security Engineer,Thoughtworks,"Pune, Maharashtra, India",India,Cloud Security,Mid,3,3,1,0,"INR 20,00,000 - 30,00,000 annually",30000.0,CLEAN
+job_017.txt,AppSec Lead - Secure SDLC,Infosys Cyber Next,"Hyderabad, India",India,AppSec,Senior,6,3,3,5,"INR 28,00,000 - 42,00,000 annually",42000.0,CLEAN
+job_018.txt,API Security Engineer,Zomato,"Gurugram, Haryana, India",India,AppSec,Mid,3,2,1,1,"INR 22,00,000 - 32,00,000 annually",32400.0,CLEAN
+job_019.txt,Zero Trust Architect,Tata Consultancy Services,"Mumbai, Maharashtra, India",India,IAM,Senior,8,3,2,2,"INR 30,00,000 - 50,00,000 annually",48000.0,SENIOR_EXPLOITATION
+job_020.txt,Identity Security Analyst - CyberArk,HDFC Bank,"Mumbai, Maharashtra, India",India,IAM,Mid,3,2,2,2,"INR 15,00,000 - 22,00,000 annually",22200.0,UNDERPAID_EXPERIENCED
+job_021.txt,Cybersecurity Risk Analyst,Deloitte Risk Advisory,"Mumbai, Maharashtra, India",India,GRC,Mid,4,5,3,3,"INR 12,00,000 - 18,00,000 annually",18000.0,CERT_OVERLOAD|UNDERPAID_EXPERIENCED
+job_022.txt,Information Security Compliance Manager,EY (Ernst & Young),"Bengaluru, Karnataka, India",India,GRC,Senior,5,6,0,4,"INR 18,00,000 - 28,00,000 annually",27600.0,CERT_OVERLOAD|UNDERPAID_EXPERIENCED
+job_023.txt,Senior IT Auditor - Cybersecurity,PwC India,"Hyderabad, India",India,GRC,Senior,6,5,1,2,"INR 15,00,000 - 22,00,000 annually",22200.0,CERT_OVERLOAD|UNDERPAID_EXPERIENCED
+job_024.txt,GRC Analyst - Cloud Security Compliance,Cognizant Technology Solutions,"Chennai, Tamil Nadu, India",India,GRC,Mid,3,4,0,2,"INR 12,00,000 - 18,00,000 annually",18000.0,UNDERPAID_EXPERIENCED
