@@ -398,19 +398,95 @@ def update_readme(df, month):
             dm = ddf[ddf["month"]==ddf["month"].max()]
         dm = dm.sort_values("skill_score", ascending=False)
 
-        DOMAIN_INSIGHTS = {
-            "GRC":                 "High cert demand, lower tool requirement",
-            "SOC":                 "SIEM + EDR + SOAR now baseline",
-            "Penetration Testing": "OSCP alone no longer sufficient",
-            "Cloud Security":      "Multi-cloud cert stacking rising",
-            "AppSec":              "Secure SDLC ownership expanding",
-            "IAM":                 "Identity platform complexity rising",
-        }
+        # ── Dynamic insight generator from actual job data ────────────────────
+        def derive_insight(row, job_df):
+            domain   = row["domain"]
+            score    = float(row["skill_score"])
+            years    = float(row["avg_years"])
+            certs    = float(row["avg_certs"])
+            tools    = float(row["avg_tools"])
+            exploit  = float(row.get("exploitation_rate", 0))
+            sal      = float(row["avg_salary_usd"]) if pd.notna(row.get("avg_salary_usd")) else 0
+            jobs_d   = job_df[job_df["domain"] == domain] if job_df is not None else pd.DataFrame()
+
+            parts = []
+
+            # ── Salary vs requirement pressure ────────────────────────────────
+            if sal > 0 and years >= 4:
+                # Only flag as underpaid if salary is genuinely low for the years demanded
+                # Use $50K USD as the "reasonable minimum" for 4+ years of specialized cyber work
+                threshold = 45000 + (years * 5000)   # scales with experience demanded
+                if sal < threshold * 0.55:
+                    parts.append(f"${sal:,.0f} avg salary for {years:.0f}+ yrs demanded — pay gap critical")
+                elif sal < threshold * 0.80:
+                    parts.append(f"${sal:,.0f} avg salary vs {years:.0f}+ yrs required — below market")
+
+            # ── Exploitation rate ─────────────────────────────────────────────
+            if exploit == 100:
+                parts.append("every listing flagged for requirement signals")
+            elif exploit >= 75:
+                parts.append(f"{exploit:.0f}% of listings flagged")
+
+            # ── Cert stacking ─────────────────────────────────────────────────
+            if certs >= 5:
+                parts.append(f"{certs:.1f} certs demanded on average — extreme stacking")
+            elif certs >= 4:
+                parts.append(f"{certs:.1f} avg certs per role — above market norm")
+
+            # ── Tool overload ─────────────────────────────────────────────────
+            if tools >= 5:
+                parts.append(f"{tools:.1f} tools required simultaneously")
+            elif tools >= 4:
+                parts.append(f"{tools:.1f} avg tools per listing")
+
+            # ── Seniority exploitation ────────────────────────────────────────
+            if not jobs_d.empty and "seniority" in jobs_d.columns:
+                senior_pct = (jobs_d["seniority"] == "Senior").mean() * 100
+                if senior_pct >= 50 and years >= 6:
+                    parts.append(f"{years:.0f}+ yrs avg for {senior_pct:.0f}% senior roles")
+
+            # ── Specific worst offender ───────────────────────────────────────
+            if not jobs_d.empty:
+                flagged = jobs_d[jobs_d["anomaly_flags"] != "CLEAN"]
+                if not flagged.empty:
+                    worst = flagged.sort_values(
+                        ["cert_count", "tool_count"], ascending=False
+                    ).iloc[0]
+                    flags = worst["anomaly_flags"]
+                    if "CERT_OVERLOAD" in flags and "TOOL_STACK_ABUSE" in flags:
+                        parts.append(
+                            f"{worst['company'].split()[0]} demands "
+                            f"{int(worst['cert_count'])} certs + {int(worst['tool_count'])} tools"
+                        )
+                    elif "UNDERPAID_EXPERIENCED" in flags and pd.notna(worst.get("salary_usd")) and worst["salary_usd"] > 0:
+                        parts.append(
+                            f"{worst['company'].split()[0]} pays "
+                            f"${worst['salary_usd']:,.0f} for {int(worst['years_required'])}+ yrs"
+                        )
+
+            # ── Fallback if no signals found ──────────────────────────────────
+            if not parts:
+                if score >= 4.0:
+                    parts.append(f"score {score:.2f} — highest requirement pressure")
+                elif score >= 3.0:
+                    parts.append(f"{years:.0f} yrs + {certs:.1f} certs now baseline expectation")
+                else:
+                    parts.append(f"most balanced domain — {years:.0f} yrs avg, {certs:.1f} certs")
+
+            return "; ".join(parts[:2])   # cap at 2 signals to keep table readable
+
+        # ── Load per-job data for insight derivation ──────────────────────────
+        job_csv = f"data/processed/{month}.csv"
+        if not os.path.exists(job_csv):
+            job_csv_path = f"data/processed/{ddf['month'].max()}.csv"
+        else:
+            job_csv_path = job_csv
+        per_job_df = pd.read_csv(job_csv_path) if os.path.exists(job_csv_path) else None
 
         domain_rows = ""
         for _, r in dm.iterrows():
-            icon = "🔴" if r["skill_score"] >= 3.0 else "🟡" if r["skill_score"] >= 2.0 else "🟢"
-            insight = DOMAIN_INSIGHTS.get(r["domain"], "Tracking...")
+            icon    = "🔴" if r["skill_score"] >= 3.0 else "🟡" if r["skill_score"] >= 2.0 else "🟢"
+            insight = derive_insight(r, per_job_df)
             domain_rows += (
                 f"| {r['domain']} | {r['avg_years']:.1f} | {r['avg_certs']:.1f} | "
                 f"{icon} **{r['skill_score']:.2f}** | {insight} | {int(r['job_count'])} |\n"

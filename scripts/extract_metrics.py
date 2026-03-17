@@ -40,6 +40,40 @@ DOMAIN_RULES = {
         "mfa", "zero trust", "identity governance", "sailpoint", "cyberark",
         "ldap", "oauth", "saml", "identity security"
     ],
+    "Network Security": [
+        "network security", "firewall", "ids", "ips", "intrusion detection",
+        "intrusion prevention", "network engineer", "palo alto", "fortinet",
+        "checkpoint", "cisco security", "ngfw", "network architect",
+        "sd-wan", "microsegmentation", "network monitoring", "ddos",
+        "network penetration", "packet analysis", "wireshark", "nac",
+        "network access control", "vpn", "bgp security"
+    ],
+    "DFIR": [
+        "digital forensics", "incident response", "dfir", "forensic investigator",
+        "forensic analyst", "malware analyst", "reverse engineering", "memory forensics",
+        "disk forensics", "threat intelligence", "threat intel", "gcfa", "gcfe",
+        "gcfr", "volatility", "autopsy", "encase", "ftk", "remnux",
+        "malware reverse", "binary analysis", "threat hunting",
+        "incident handler", "forensic examiner"
+    ],
+    "OT/ICS Security": [
+        "ot security", "ics security", "scada", "industrial control",
+        "operational technology", "plc security", "hmi security",
+        "critical infrastructure", "dragos", "claroty", "nozomi",
+        "gicsp", "cssa", "iec 62443", "nerc cip", "purdue model",
+        "industrial network", "process control", "dcs security",
+        "energy sector security", "manufacturing security", "modbus",
+        "dnp3", "profinet security"
+    ],
+    "Data Privacy": [
+        "data privacy", "privacy engineer", "dpo", "data protection officer",
+        "gdpr", "ccpa", "dpdp", "data classification", "dlp",
+        "data loss prevention", "privacy compliance", "privacy by design",
+        "data governance", "information governance", "privacy analyst",
+        "cipp", "cipm", "cipt", "privacy counsel", "consent management",
+        "data residency", "data sovereignty", "privacera", "bigid",
+        "varonis", "forcepoint dlp", "symantec dlp"
+    ],
 }
 
 def classify_domain(title, text):
@@ -63,6 +97,15 @@ CERTS_BY_DOMAIN = {
     "AppSec":             ["csslp", "gweb", "cissp", "gwapt", "oswe", "security+"],
     "IAM":                ["cissp", "sailpoint", "cyberark defender", "okta certified",
                            "microsoft sc-300", "ciam", "identity+"],
+    "Network Security":   ["ccna security", "ccnp security", "ccie security", "pcnse",
+                           "fortinet nse", "checkpoint ccsa", "checkpoint ccse",
+                           "juniper security", "cissp", "security+"],
+    "DFIR":               ["gcfa", "gcfe", "gcfr", "gcih", "grem", "gnfa",
+                           "cisa", "cfce", "ace", "cissp", "security+", "ceh"],
+    "OT/ICS Security":    ["gicsp", "cssa", "ics410", "cism", "cissp",
+                           "iec 62443", "nerc cip", "sans ics", "grid+"],
+    "Data Privacy":       ["cipp", "cipm", "cipt", "cipp/e", "cipp/us",
+                           "cipm certified", "privacy+", "cism", "cissp", "cdpo"],
 }
 
 TOOLS_BY_DOMAIN = {
@@ -78,6 +121,18 @@ TOOLS_BY_DOMAIN = {
                            "burp suite", "semgrep", "contrast security", "black duck"],
     "IAM":                ["okta", "cyberark", "sailpoint", "beyondtrust", "ping identity",
                            "azure ad", "active directory", "saviynt", "delinea"],
+    "Network Security":   ["palo alto", "fortinet", "checkpoint", "cisco asa", "juniper",
+                           "wireshark", "snort", "suricata", "zeek", "darktrace",
+                           "nmap", "netscout", "aruba", "forescout"],
+    "DFIR":               ["volatility", "autopsy", "encase", "ftk", "remnux",
+                           "x-ways", "axiom", "cellebrite", "velociraptor",
+                           "ghidra", "ida pro", "any.run", "cuckoo sandbox"],
+    "OT/ICS Security":    ["dragos", "claroty", "nozomi", "microsoft defender for iot",
+                           "tenable ot", "honeywell forge", "armis",
+                           "wireshark", "shodan", "greenbone"],
+    "Data Privacy":       ["bigid", "varonis", "forcepoint", "symantec dlp",
+                           "microsoft purview", "spirion", "privacera",
+                           "onetrust", "trustarc", "osano"],
 }
 
 FRAMEWORKS_BY_DOMAIN = {
@@ -90,6 +145,14 @@ FRAMEWORKS_BY_DOMAIN = {
                            "soc 2", "iso 27017", "gdpr"],
     "AppSec":             ["owasp", "samm", "bsimm", "nist", "sast", "dast"],
     "IAM":                ["nist", "zero trust", "iso 27001", "soc 2", "gdpr", "hipaa"],
+    "Network Security":   ["nist", "cis controls", "iso 27001", "pci-dss",
+                           "zero trust", "sase", "sdwan"],
+    "DFIR":               ["nist sp 800-61", "sans picerl", "mitre att&ck",
+                           "cyber kill chain", "diamond model", "iso 27035"],
+    "OT/ICS Security":    ["iec 62443", "nerc cip", "nist sp 800-82",
+                           "nist csf", "iso 27001", "purdue model", "iacs"],
+    "Data Privacy":       ["gdpr", "ccpa", "dpdp act", "iso 27701",
+                           "nist privacy framework", "apec cbpr", "pipeda"],
 }
 
 SENIORITY_SENIOR = ["senior", "lead", "principal", "manager", "director",
@@ -181,9 +244,9 @@ def process_month():
             domain = classify_domain(title, text)
 
         years      = extract_years(text)
-        certs      = count_keywords(text, CERTS_BY_DOMAIN.get(domain, CERTS_BY_DOMAIN["GRC"]))
-        tools      = count_keywords(text, TOOLS_BY_DOMAIN.get(domain, TOOLS_BY_DOMAIN["GRC"]))
-        frameworks = count_keywords(text, FRAMEWORKS_BY_DOMAIN.get(domain, FRAMEWORKS_BY_DOMAIN["GRC"]))
+        certs      = count_keywords(text, CERTS_BY_DOMAIN.get(domain, []))
+        tools      = count_keywords(text, TOOLS_BY_DOMAIN.get(domain, []))
+        frameworks = count_keywords(text, FRAMEWORKS_BY_DOMAIN.get(domain, []))
 
         salary_usd = normalize_salary(salary_raw)
         seniority  = classify_seniority(title, years)
