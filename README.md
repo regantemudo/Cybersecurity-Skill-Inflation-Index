@@ -4,12 +4,12 @@
 
 [![CSII Automation](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml/badge.svg)](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03-blue?style=flat)
-![Skill Score](https://img.shields.io/badge/Skill%20Score-3.54-red?style=flat)
-![Avg Years](https://img.shields.io/badge/Avg%20Years-4.4-blue?style=flat)
-![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.3-green?style=flat)
-![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.7-yellow?style=flat)
-![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-73-brightgreen?style=flat)
-![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-62%25-orange?style=flat)
+![Skill Score](https://img.shields.io/badge/Skill%20Score-3.28-red?style=flat)
+![Avg Years](https://img.shields.io/badge/Avg%20Years-4.2-blue?style=flat)
+![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.0-green?style=flat)
+![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.3-yellow?style=flat)
+![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-65-brightgreen?style=flat)
+![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-58%25-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 > Scores measure industry-wide requirement trends from public job data. No editorial judgement is made about any individual employer.
@@ -18,17 +18,17 @@
 
 ## ⚠️ Industry Signal — March 2026
 
-> 🔴 **HIGH INFLATION** — Global score **3.54**, above the 3.0 threshold. **62% of all listings** flagged for requirement signals.
+> 🔴 **HIGH INFLATION** — Global score **3.28**, above the 3.0 threshold. **58% of all listings** flagged for requirement signals.
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| 📈 Global Skill Inflation Score | **3.54** | 🔴 High — above threshold |
-| 📅 Avg Years Required | **4.4 yrs** | 🔴 Rising across all domains |
-| 🧠 Avg Certifications Demanded | **3.3** | 🟡 Cert creep industry-wide |
-| 🛠️ Avg Tools Required | **2.7** | 🔴 High tool complexity |
-| ⚠️ Requirement Signal Rate | **62%** | 🔴 Majority of listings flagged |
-| 💰 Avg Salary (USD) | **~$60,325** | 🟡 Varies significantly by market |
-| 💼 Total Jobs Analyzed | **73** | ✅ 6 domains · 6 countries |
+| 📈 Global Skill Inflation Score | **3.28** | 🔴 High — above threshold |
+| 📅 Avg Years Required | **4.2 yrs** | 🔴 Rising across all domains |
+| 🧠 Avg Certifications Demanded | **3.0** | 🟡 Cert creep industry-wide |
+| 🛠️ Avg Tools Required | **2.3** | 🔴 High tool complexity |
+| ⚠️ Requirement Signal Rate | **58%** | 🔴 Majority of listings flagged |
+| 💰 Avg Salary (USD) | **~$55,708** | 🟡 Varies significantly by market |
+| 💼 Total Jobs Analyzed | **65** | ✅ 6 domains · 6 countries |
 ---
 
 ## 📈 Global Inflation Trend
@@ -45,10 +45,6 @@
 
 | Domain | Avg Years | Avg Certs | Score | Signal | Jobs |
 |--------|-----------|-----------|-------|--------|------|
-| Network Security | 6.0 | 3.0 | 🔴 **4.65** | every listing flagged for requirement signals; 4.5 avg tools per listing | 2 |
-| DFIR | 4.5 | 4.0 | 🔴 **4.35** | every listing flagged for requirement signals; 4.0 avg certs per role — above market norm | 2 |
-| Data Privacy | 5.0 | 5.0 | 🔴 **4.25** | $39,000 avg salary vs 5+ yrs required — below market; 5.0 certs demanded on average — extreme stacking | 2 |
-| OT/ICS Security | 4.5 | 4.5 | 🔴 **4.05** | 4.5 avg certs per role — above market norm | 2 |
 | Cloud Security | 4.5 | 3.5 | 🔴 **3.67** | 4 yrs + 3.5 certs now baseline expectation | 4 |
 | GRC | 4.5 | 5.0 | 🔴 **3.60** | $21,450 avg salary for 4+ yrs demanded — pay gap critical; every listing flagged for requirement signals | 4 |
 | IAM | 5.0 | 2.2 | 🔴 **3.58** | $52,794 avg salary vs 5+ yrs required — below market; 75% of listings flagged | 4 |
@@ -127,7 +123,7 @@
 | Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |
 |-------|-----------|-----------|-----------|-------------|------|
 | 2026-02 | 4.15 | 2.59 | 2.37 | **3.14** | 41 |
-| 2026-03 | 4.38 | 3.31 | 2.66 | **3.54** | 32 |
+| 2026-03 | 4.17 | 3.04 | 2.33 | **3.28** | 24 |
 ## 🔍 What Is CSII?
 
 The **Cybersecurity Skill Inflation Index** measures whether employers across cybersecurity domains are raising job requirements faster than compensation — a structural market trend that affects career planning, hiring, and salary benchmarking.
