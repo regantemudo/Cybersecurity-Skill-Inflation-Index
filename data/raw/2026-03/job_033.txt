@@ -1,0 +1,30 @@
+Title: Operational Technology (OT) Cybersecurity Analyst
+Company: Barry-Wehmiller
+Location:  Chennai, India
+Salary: INR 3,00,000 - 7,00,000 annually
+Domain: OT/ICS Security
+Source: Manual
+Collected: 2026-03-19
+
+Job Description:
+At Barry-Wehmiller Companies, we believe business can be a powerful force for good. Headquartered in St. Louis, Missouri, we are a global leader in manufacturing technology and services. Since our founding in 1885 as a maker of brewing machinery, we’ve grown through the acquisition of more than 80 companies, serving industries such as packaging, paper converting, sheeting, corrugating, engineering, and IT consulting. In 2016, we ranked No. 10 on the St. Louis Business Journal list of the city’s Top 150 Privately Held Companies.
+What truly sets us apart is our culture—rooted in Truly Human Leadership, a philosophy that prioritizes the well-being and growth of every individual. We measure success by the way we touch lives, not just by financial results.
+In India, Barry-Wehmiller operates as a hub of innovation and collaboration through our Global Competency Center (GCC) and other strategic functions. The GCC houses centers of excellence in engineering, content management, sourcing, software development, global IT operations, and shared financial services—providing critical support to Barry-Wehmiller divisions worldwide.
+
+Responsibilities:
+- OT Security Incident Response: Lead cross-functional incident investigations, determine root cause, identify gaps in security capabilities, take remediation actions, and develop prevention measures.
+- Regulatory and security best practices reviews: Lead the evaluation of emerging OT cybersecurity regulations and determine organizational impacts and required compliance actions.
+- Cybersecurity best practices implementation: The OT Cybersecurity Analyst will conduct OT cybersecurity assessments, architecture evaluations, and threat analyses, define security control requirements for OT/ICS designs and IIoT integrations, and develop recommendations for secure configurations and network segmentation. This will be carried out in close collaboration with BW’s in-house and external legal counsel, as well as the Global Data Protection Officer team, to ensure legal and data privacy aspects of this work comply with current regulations.
+- Collaborate with Stakeholders: Provide expert advisory guidance to business units, engineering groups, and leadership.
+- Documentation: Lead the development, maintenance, and implementation of OT cybersecurity policies, standards, procedures, and training material.
+- Lead collaboration with the Digital Innovation (DI) team and IIoT/OT Cybersecurity Architect when conducting and documenting cybersecurity assessments, integrations, and enhancements of BW’s connected IIoT platform. 
+
+Requirements:
+- Minimum of 5 years of experience in industrial control system design, implementation or cybersecurity engineering.
+- Degree or certification in industrial controls engineering or OT cybersecurity.
+- Advanced understanding of OT networks, ICS components, and associated security risks.
+- Excellent problem-solving skills and attention to detail.
+- Demonstrated ability to independently analyze complex technical problems and propose actionable solutions.
+- Strong written and verbal communication skills for engaging technical and non-technical stakeholders.
+- Ability to lead cross-functional initiatives with minimal supervision.
+- Reading, writing, and speaking fluency in the English language
