@@ -4,12 +4,12 @@
 
 [![CSII Automation](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml/badge.svg)](https://github.com/regantemudo/Cybersecurity-Skill-Inflation-Index/actions/workflows/csii.yml)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03-blue?style=flat)
-![Skill Score](https://img.shields.io/badge/Skill%20Score-3.54-red?style=flat)
+![Skill Score](https://img.shields.io/badge/Skill%20Score-3.49-red?style=flat)
 ![Avg Years](https://img.shields.io/badge/Avg%20Years-4.4-blue?style=flat)
-![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.3-green?style=flat)
-![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.7-yellow?style=flat)
-![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-73-brightgreen?style=flat)
-![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-62%25-orange?style=flat)
+![Avg Certs](https://img.shields.io/badge/Avg%20Certs-3.2-green?style=flat)
+![Avg Tools](https://img.shields.io/badge/Avg%20Tools-2.6-yellow?style=flat)
+![Jobs Analyzed](https://img.shields.io/badge/Jobs%20Analyzed-74-brightgreen?style=flat)
+![Exploitation Rate](https://img.shields.io/badge/Exploitation%20Rate-64%25-orange?style=flat)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat)
 
 > Scores measure industry-wide requirement trends from public job data. No editorial judgement is made about any individual employer.
@@ -18,17 +18,17 @@
 
 ## ⚠️ Industry Signal — March 2026
 
-> 🔴 **HIGH INFLATION** — Global score **3.54**, above the 3.0 threshold. **62% of all listings** flagged for requirement signals.
+> 🔴 **HIGH INFLATION** — Global score **3.49**, above the 3.0 threshold. **64% of all listings** flagged for requirement signals.
 
 | Metric | Value | Signal |
 |--------|-------|--------|
-| 📈 Global Skill Inflation Score | **3.54** | 🔴 High — above threshold |
+| 📈 Global Skill Inflation Score | **3.49** | 🔴 High — above threshold |
 | 📅 Avg Years Required | **4.4 yrs** | 🔴 Rising across all domains |
-| 🧠 Avg Certifications Demanded | **3.3** | 🟡 Cert creep industry-wide |
-| 🛠️ Avg Tools Required | **2.7** | 🔴 High tool complexity |
-| ⚠️ Requirement Signal Rate | **62%** | 🔴 Majority of listings flagged |
-| 💰 Avg Salary (USD) | **~$60,325** | 🟡 Varies significantly by market |
-| 💼 Total Jobs Analyzed | **73** | ✅ 10 domains · 6 countries |
+| 🧠 Avg Certifications Demanded | **3.2** | 🟡 Cert creep industry-wide |
+| 🛠️ Avg Tools Required | **2.6** | 🔴 High tool complexity |
+| ⚠️ Requirement Signal Rate | **64%** | 🔴 Majority of listings flagged |
+| 💰 Avg Salary (USD) | **~$58,627** | 🟡 Varies significantly by market |
+| 💼 Total Jobs Analyzed | **74** | ✅ 10 domains · 6 countries |
 ---
 
 ## 📈 Global Inflation Trend
@@ -48,8 +48,8 @@
 | Network Security | 6.0 | 3.0 | 🔴 **4.65** | every listing flagged; 4.5 avg tools per listing | 2 |
 | DFIR | 4.5 | 4.0 | 🔴 **4.35** | every listing flagged; 4.0 avg certs — above market norm | 2 |
 | Data Privacy | 5.0 | 5.0 | 🔴 **4.25** | $39,000 avg vs 5+ yrs — below market; 5.0 certs avg — extreme stacking | 2 |
-| OT/ICS Security | 4.5 | 4.5 | 🔴 **4.05** | 4.5 avg certs — above market norm | 2 |
 | IAM | 4.8 | 2.2 | 🔴 **3.57** | 5 yrs + 2.2 certs now baseline | 10 |
+| OT/ICS Security | 4.7 | 3.0 | 🔴 **3.37** | $49,500 avg vs 5+ yrs — below market | 3 |
 | Cloud Security | 3.9 | 3.4 | 🔴 **3.35** | 4 yrs + 3.4 certs now baseline | 8 |
 | AppSec | 4.2 | 2.5 | 🔴 **3.20** | 4 yrs + 2.5 certs now baseline | 8 |
 | GRC | 4.2 | 3.3 | 🔴 **3.09** | $51,812 avg vs 4+ yrs — below market | 16 |
@@ -127,7 +127,7 @@
 | Month | Avg Years | Avg Certs | Avg Tools | Skill Score | Jobs |
 |-------|-----------|-----------|-----------|-------------|------|
 | 2026-02 | 4.15 | 2.59 | 2.37 | **3.14** | 41 |
-| 2026-03 | 4.38 | 3.31 | 2.66 | **3.54** | 32 |
+| 2026-03 | 4.39 | 3.21 | 2.58 | **3.49** | 33 |
 ## 🔍 What Is CSII?
 
 The **Cybersecurity Skill Inflation Index** measures whether employers across cybersecurity domains are raising job requirements faster than compensation — a structural market trend that affects career planning, hiring, and salary benchmarking.
