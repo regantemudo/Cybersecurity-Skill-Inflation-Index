@@ -1,0 +1,24 @@
+Title: Vulnerability Management Analyst
+Company: Alignerr 
+Location:  Maharashtra, India
+Salary: $35–$60 /hour
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-03-24
+
+Job Description:
+At Alignerr, we partner with the world’s leading AI research teams and labs to build and train cutting-edge AI models.
+We’re looking for practitioners who understand vulnerabilities, exposure management, and remediation in real environments. You’ll work with real-world data and scenarios that reflect how security teams actually discover, prioritize, and fix risk across modern systems.
+Organization: Alignerr Position: Vulnerability Management Analyst Type: Contract / Task-Based Compensation: $35–$60 /hour Location: Remote Commitment: 10–40 hours/week
+
+Responsibilities:
+- Analyze vulnerability reports, CVEs, and exposure scenarios across infrastructure and applications
+- Classify severity, impact, exploitability, and remediation strategies
+- Review patching, mitigation, and remediation decision-making scenarios
+- Help generate, label, and validate realistic security-reasoning data used to evaluate and improve AI systems
+
+Requirements:
+- 2+ years in vulnerability management, security operations, or infrastructure security
+- Familiar with CVEs, scanners, patching workflows, and risk prioritization frameworks
+- Understand the tradeoffs between theoretical risk and what actually matters in production
+- A clear, structured, and analytical thinker
