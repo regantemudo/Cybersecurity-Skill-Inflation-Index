@@ -5,12 +5,12 @@
 ## Global Metrics
 | Metric | Value |
 |--------|-------|
-| Avg Years Required | 4.39 |
-| Avg Certifications | 3.21 |
-| Avg Tools Required | 2.58 |
-| Skill Score | 3.4939 |
-| Jobs This Month | 33 |
-| Signal Rate | 63.6% |
+| Avg Years Required | 4.32 |
+| Avg Certifications | 3.12 |
+| Avg Tools Required | 2.50 |
+| Skill Score | 3.4147 |
+| Jobs This Month | 34 |
+| Signal Rate | 61.8% |
 
 ## Domain Intelligence — All Jobs
 | Domain | Avg Years | Avg Certs | Score | Signal | Total Jobs |
@@ -23,5 +23,5 @@
 | Cloud Security | 3.9 | 3.4 | 3.35 | 🔴 | 8 |
 | AppSec | 4.2 | 2.5 | 3.20 | 🔴 | 8 |
 | GRC | 4.2 | 3.3 | 3.09 | 🔴 | 16 |
-| Penetration Testing | 3.9 | 2.3 | 3.06 | 🔴 | 11 |
 | SOC | 3.8 | 2.7 | 3.03 | 🔴 | 12 |
+| Penetration Testing | 3.8 | 2.1 | 2.88 | 🟡 | 12 |
