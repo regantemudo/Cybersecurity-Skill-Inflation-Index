@@ -28,7 +28,7 @@
 | 🛠️ Avg Tools Required | **2.5** | 🔴 High tool complexity |
 | ⚠️ Requirement Signal Rate | **62%** | 🔴 Majority of listings flagged |
 | 💰 Avg Salary (USD) | **~$58,627** | 🟡 Varies significantly by market |
-| 💼 Total Jobs Analyzed | **75** | ✅ 10 domains · 6 countries |
+| 💼 Total Jobs Analyzed | **76** | ✅ 10 domains · 6 countries |
 ---
 
 ## 📈 Global Inflation Trend
