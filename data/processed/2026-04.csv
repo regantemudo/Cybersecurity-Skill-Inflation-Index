@@ -1,5 +1,4 @@
 file,title,company,location,country,domain,seniority,years_required,cert_count,tool_count,framework_count,salary_raw,salary_usd,anomaly_flags
-2026-04.txt,Unknown,Unknown,Unknown,Other,GRC,Junior,0,0,0,0,Unknown,,CLEAN
 job_001.txt,SOC Analyst L2 - Threat Detection,Accenture Security Operations,"Bengaluru, Karnataka, India",India,SOC,Mid,3,3,3,3,"INR 15,00,000 - 22,00,000 annually",22200.0,UNDERPAID_EXPERIENCED
 job_002.txt,Senior Threat Intelligence Analyst,Group-IB,"Dubai, UAE",UAE,SOC,Senior,5,1,0,1,"AED 25,000 - 38,000 per month",102816.0,CLEAN
 job_003.txt,Detection Engineer - SIEM,Telstra Security,"Melbourne, VIC, Australia",Australia,SOC,Mid,4,2,3,1,"AUD 120,000 - 150,000 annually",87075.0,CLEAN
