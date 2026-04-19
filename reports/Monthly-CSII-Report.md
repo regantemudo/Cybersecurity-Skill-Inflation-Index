@@ -1,27 +1,27 @@
-# CSII Monthly Report — 2026-03
+# CSII Monthly Report — 2026-04
 
 ## Signal: 🔴 **HIGH INFLATION**
 
 ## Global Metrics
 | Metric | Value |
 |--------|-------|
-| Avg Years Required | 4.20 |
+| Avg Years Required | 4.74 |
 | Avg Certifications | 3.03 |
-| Avg Tools Required | 2.43 |
-| Skill Score | 3.3171 |
-| Jobs This Month | 35 |
-| Signal Rate | 60.0% |
+| Avg Tools Required | 1.90 |
+| Skill Score | 3.3774 |
+| Jobs This Month | 31 |
+| Signal Rate | 38.7% |
 
 ## Domain Intelligence — All Jobs
 | Domain | Avg Years | Avg Certs | Score | Signal | Total Jobs |
 |--------|-----------|-----------|-------|--------|------------|
-| Network Security | 6.0 | 3.0 | 4.65 | 🔴 | 2 |
-| DFIR | 4.5 | 4.0 | 4.35 | 🔴 | 2 |
-| Data Privacy | 5.0 | 5.0 | 4.25 | 🔴 | 2 |
-| IAM | 4.8 | 2.2 | 3.57 | 🔴 | 10 |
-| OT/ICS Security | 4.7 | 3.0 | 3.37 | 🔴 | 3 |
-| Cloud Security | 3.9 | 3.4 | 3.35 | 🔴 | 8 |
-| AppSec | 4.2 | 2.5 | 3.20 | 🔴 | 8 |
-| SOC | 3.8 | 2.7 | 3.03 | 🔴 | 12 |
-| GRC | 4.0 | 3.1 | 2.91 | 🟡 | 17 |
-| Penetration Testing | 3.8 | 2.1 | 2.88 | 🟡 | 12 |
+| Data Privacy | 5.4 | 4.6 | 4.26 | 🔴 | 5 |
+| DFIR | 4.8 | 3.8 | 3.96 | 🔴 | 5 |
+| Network Security | 5.6 | 3.0 | 3.86 | 🔴 | 5 |
+| OT/ICS Security | 4.8 | 3.8 | 3.63 | 🔴 | 6 |
+| IAM | 4.6 | 2.2 | 3.48 | 🔴 | 13 |
+| Cloud Security | 4.2 | 3.4 | 3.39 | 🔴 | 11 |
+| AppSec | 4.6 | 2.4 | 3.27 | 🔴 | 11 |
+| SOC | 3.9 | 2.5 | 2.99 | 🟡 | 15 |
+| Penetration Testing | 3.9 | 2.1 | 2.93 | 🟡 | 15 |
+| GRC | 3.9 | 3.1 | 2.86 | 🟡 | 21 |

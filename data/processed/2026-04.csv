@@ -1,0 +1,32 @@
+file,title,company,location,country,domain,seniority,years_required,cert_count,tool_count,framework_count,salary_raw,salary_usd,anomaly_flags
+2026-04.txt,Unknown,Unknown,Unknown,Other,GRC,Junior,0,0,0,0,Unknown,,CLEAN
+job_001.txt,SOC Analyst L2 - Threat Detection,Accenture Security Operations,"Bengaluru, Karnataka, India",India,SOC,Mid,3,3,3,3,"INR 15,00,000 - 22,00,000 annually",22200.0,UNDERPAID_EXPERIENCED
+job_002.txt,Senior Threat Intelligence Analyst,Group-IB,"Dubai, UAE",UAE,SOC,Senior,5,1,0,1,"AED 25,000 - 38,000 per month",102816.0,CLEAN
+job_003.txt,Detection Engineer - SIEM,Telstra Security,"Melbourne, VIC, Australia",Australia,SOC,Mid,4,2,3,1,"AUD 120,000 - 150,000 annually",87075.0,CLEAN
+job_004.txt,Senior Penetration Tester - Red Team,HackerOne,Remote - Global,USA,Penetration Testing,Senior,6,3,4,1,"USD 130,000 - 165,000 annually",147500.0,TOOL_STACK_ABUSE
+job_005.txt,Vulnerability Researcher,Trend Micro Research,Singapore,Singapore,Penetration Testing,Mid,5,1,0,0,"SGD 9,000 - 13,000 per month",97944.0,CLEAN
+job_006.txt,VAPT Engineer - Mobile and Web,Wipro Cybersecurity Services,"Hyderabad, India",India,Penetration Testing,Mid,3,2,3,1,"INR 12,00,000 - 20,00,000 annually",19200.0,UNDERPAID_EXPERIENCED
+job_007.txt,Cloud Security Engineer - Azure,Microsoft (India),"Hyderabad, India",India,Cloud Security,Mid,5,3,3,0,"INR 35,00,000 - 55,00,000 annually",54000.0,CLEAN
+job_008.txt,GCP Security Engineer,Google Cloud,Singapore,Singapore,Cloud Security,Mid,4,4,1,2,"SGD 12,000 - 18,000 per month",133560.0,CLEAN
+job_009.txt,DevSecOps Lead,PhonePe,"Bengaluru, Karnataka, India",India,Cloud Security,Senior,6,3,1,0,"INR 30,00,000 - 45,00,000 annually",45000.0,CLEAN
+job_010.txt,Application Security Engineer - Fintech,Stripe,Singapore,Singapore,AppSec,Mid,5,4,3,3,"SGD 14,000 - 20,000 per month",151368.0,CLEAN
+job_011.txt,Mobile Security Engineer,Samsung Research India,"Bengaluru, Karnataka, India",India,AppSec,Mid,4,0,0,0,"INR 25,00,000 - 40,00,000 annually",39000.0,CLEAN
+job_012.txt,Product Security Manager,Grab,Singapore,Singapore,AppSec,Senior,8,2,3,5,"SGD 16,000 - 22,000 per month",169176.0,CLEAN
+job_013.txt,SailPoint IdentityNow Engineer,HSBC Technology India,"Pune, Maharashtra, India",India,IAM,Mid,4,2,3,2,"INR 18,00,000 - 28,00,000 annually",27600.0,UNDERPAID_EXPERIENCED
+job_014.txt,Entra ID (Azure AD) Security Engineer,Capgemini Security,"London, United Kingdom",UK,IAM,Mid,4,3,3,1,"GBP 70,000 - 95,000 annually",104775.0,CLEAN
+job_015.txt,CyberArk PAM Consultant,Deloitte Cyber Risk,Singapore,Singapore,IAM,Mid,4,2,3,1,"SGD 9,000 - 13,000 per month",97944.0,CLEAN
+job_016.txt,Senior GRC Analyst - Financial Services,Citi,"Mumbai, Maharashtra, India",India,GRC,Senior,5,6,2,2,"INR 18,00,000 - 28,000,000 annually",178800.0,CERT_OVERLOAD
+job_017.txt,Cybersecurity Compliance Analyst - Healthcare,Apollo Hospitals,"Chennai, Tamil Nadu, India",India,GRC,Mid,3,3,3,2,"INR 10,00,000 - 16,00,000 annually",15600.0,UNDERPAID_EXPERIENCED
+job_018.txt,Information Security Risk Manager,DBS Bank,Singapore,Singapore,GRC,Senior,6,3,0,1,"SGD 9,000 - 14,000 per month",102396.0,CLEAN
+job_019.txt,Network Security Engineer - SASE,Zscaler,"Mumbai, Maharashtra, India",India,Network Security,Mid,4,2,0,2,"INR 25,00,000 - 40,00,000 annually",39000.0,CLEAN
+job_020.txt,Firewall Security Engineer,Emirates NBD,"Dubai, UAE",UAE,Network Security,Mid,4,4,2,0,"AED 22,000 - 32,000 per month",88128.0,CLEAN
+job_021.txt,Network Security Architect - Zero Trust,Infosys,"Bengaluru, Karnataka, India",India,Network Security,Senior,8,3,1,3,"INR 30,00,000 - 50,00,000 annually",48000.0,CLEAN
+job_022.txt,Digital Forensics Analyst,Deloitte Forensics,Singapore,Singapore,DFIR,Mid,3,3,4,0,"SGD 8,000 - 12,000 per month",89040.0,TOOL_STACK_ABUSE
+job_023.txt,Malware Reverse Engineer,Kaspersky GReAT,Remote - India,India,DFIR,Mid,5,3,2,0,"INR 24,00,000 - 40,00,000 annually",38400.0,CLEAN
+job_024.txt,Incident Response Lead,PwC Cyber Incident Response,"London, United Kingdom",UK,DFIR,Senior,7,5,0,0,"GBP 80,000 - 110,000 annually",120650.0,CERT_OVERLOAD
+job_025.txt,OT Cybersecurity Specialist,Schneider Electric,"Bengaluru, Karnataka, India",India,OT/ICS Security,Mid,4,4,2,1,"INR 22,00,000 - 35,00,000 annually",34200.0,CLEAN
+job_026.txt,SCADA Security Analyst,Singapore Power Group,Singapore,Singapore,OT/ICS Security,Mid,3,4,3,3,"SGD 7,500 - 11,000 per month",82362.0,CLEAN
+job_027.txt,ICS Security Architect,Wood PLC,"Dubai, UAE",UAE,OT/ICS Security,Senior,8,6,0,3,"AED 30,000 - 45,000 per month",122400.0,CERT_OVERLOAD
+job_028.txt,Data Privacy Analyst - DPDP Compliance,Infosys BPM,"Bengaluru, Karnataka, India",India,Data Privacy,Mid,4,4,2,2,"INR 10,00,000 - 16,00,000 annually",15600.0,UNDERPAID_EXPERIENCED
+job_029.txt,Privacy Engineer - Platform,Swiggy,"Bengaluru, Karnataka, India",India,Data Privacy,Mid,3,3,4,2,"INR 18,00,000 - 30,00,000 annually",28800.0,TOOL_STACK_ABUSE|UNDERPAID_EXPERIENCED
+job_030.txt,Chief Privacy Officer (CPO),Nykaa (FSN E-Commerce Ventures),"Mumbai, Maharashtra, India",India,Data Privacy,Senior,10,6,1,3,"INR 60,00,000 - 100,00,000 annually",96000.0,CERT_OVERLOAD
