@@ -1,0 +1,28 @@
+Title: Data Privacy Analyst - DPDP Compliance
+Company: Infosys BPM
+Location: Bengaluru, Karnataka, India
+Salary: INR 10,00,000 - 16,00,000 annually
+Domain: Data Privacy
+Source: Manual
+Collected: 2026-04-06
+
+Job Description:
+Infosys BPM is seeking a Data Privacy Analyst to lead DPDP Act 2023 compliance implementation across its BPO operations processing personal data for global banking and insurance clients, ensuring alignment with India's data protection regulatory requirements.
+
+Responsibilities:
+- Lead Data Protection Impact Assessments (DPIAs) for new BPO processes handling personal data
+- Implement consent management workflows aligned to DPDP Act 2023 requirements
+- Conduct data mapping and inventory across Infosys BPM's 50+ global delivery centres
+- Manage data subject rights requests including access, correction, and erasure under DPDP
+- Review and update Data Processing Agreements with clients and sub-processors
+- Deliver DPDP Act awareness training to operations and technology teams
+- Support regulatory engagement with India's Data Protection Board
+
+Requirements:
+- 2-4 years experience in data privacy or compliance
+- CIPP/E or CIPP/US certification required
+- CIPM certification preferred
+- Deep knowledge of India DPDP Act 2023 and GDPR requirements
+- Experience with consent management and data subject rights processes
+- Familiarity with OneTrust, TrustArc, or similar privacy management platforms
+- Strong documentation and policy drafting skills

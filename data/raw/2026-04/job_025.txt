@@ -1,0 +1,28 @@
+Title: OT Cybersecurity Specialist
+Company: Schneider Electric
+Location: Bengaluru, Karnataka, India
+Salary: INR 22,00,000 - 35,00,000 annually
+Domain: OT/ICS Security
+Source: Manual
+Collected: 2026-04-04
+
+Job Description:
+Schneider Electric is seeking an OT Cybersecurity Specialist to secure industrial control systems across manufacturing, energy, and data centre customers in India and South Asia, delivering IEC 62443-aligned security programs.
+
+Responsibilities:
+- Conduct OT/ICS security assessments using IEC 62443 Zone and Conduit methodology
+- Design and implement network segmentation between IT and OT environments using DMZ architecture
+- Deploy and configure Claroty and Schneider EcoStruxure cybersecurity monitoring
+- Perform vulnerability assessments on Schneider PLCs, HMIs, and SCADA components
+- Develop OT security policies, incident response playbooks, and operator training programs
+- Support customers through IEC 62443 Level 2 compliance certification programs
+- Conduct pre-sales technical engagements and produce OT security proposals
+
+Requirements:
+- 4+ years experience in OT/ICS security or industrial automation
+- GICSP (Global Industrial Cyber Security Professional) required
+- IEC 62443 Cybersecurity Professional certification preferred
+- Hands-on experience with Claroty, Nozomi, or similar OT monitoring platforms
+- Knowledge of Modbus, DNP3, EtherNet/IP, and Profinet industrial protocols
+- Electrical engineering or automation background preferred
+- CISSP or CISM preferred for senior candidates

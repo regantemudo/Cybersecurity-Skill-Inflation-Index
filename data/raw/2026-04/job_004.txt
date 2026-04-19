@@ -1,0 +1,27 @@
+Title: Senior Penetration Tester - Red Team
+Company: HackerOne
+Location: Remote - Global
+Salary: USD 130,000 - 165,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-04-01
+
+Job Description:
+HackerOne is seeking a Senior Penetration Tester to join its internal red team, conducting full-scope adversary simulations against HackerOne's own infrastructure and validating vulnerability reports from the bug bounty community.
+
+Responsibilities:
+- Plan and execute full-scope red team operations targeting HackerOne's web, API, and cloud infrastructure
+- Validate and reproduce vulnerability reports submitted through HackerOne's platform
+- Develop custom exploitation tooling and bypass techniques for WAF, EDR, and MFA controls
+- Conduct Active Directory and Azure AD attack path assessments
+- Produce detailed red team reports with MITRE ATT&CK TTP mappings and remediation guidance
+- Mentor junior penetration testers and review their technical outputs
+
+Requirements:
+- 6+ years experience in penetration testing or offensive security
+- OSCP required; OSEP or OSWE strongly preferred
+- Active bug bounty track record on major platforms
+- Expert knowledge of web application, API, and cloud attack techniques
+- Hands-on experience with Burp Suite Pro, BloodHound, Cobalt Strike, and Nuclei
+- Python and Go scripting for custom tooling development
+- CRTO or CRTE certification a strong advantage

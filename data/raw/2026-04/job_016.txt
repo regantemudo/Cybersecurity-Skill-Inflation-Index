@@ -1,0 +1,28 @@
+Title: Senior GRC Analyst - Financial Services
+Company: Citi
+Location: Mumbai, Maharashtra, India
+Salary: INR 18,00,000 - 28,000,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-04-03
+
+Job Description:
+Citi is seeking a Senior GRC Analyst to manage information security risk and compliance programs across Citi's India operations, supporting RBI, SEBI, and global regulatory compliance under Citi's enterprise cybersecurity framework.
+
+Responsibilities:
+- Conduct cybersecurity risk assessments aligned to NIST CSF and ISO 27001 for technology platforms
+- Manage regulatory compliance obligations under RBI IT Framework, SEBI CSCRF, and Citi's global standards
+- Perform third-party vendor risk assessments and manage supplier security controls
+- Lead internal security audits and coordinate responses to regulatory examination findings
+- Maintain the information security risk register and report risk posture to senior management
+- Develop and update security policies, standards, and procedures
+- Support annual ISO 27001 surveillance audits and control evidence collection
+
+Requirements:
+- 5+ years experience in GRC, IT audit, or information security risk management
+- CISA certification required
+- ISO 27001 Lead Auditor or Lead Implementer required
+- CRISC or CISSP preferred
+- Deep knowledge of RBI IT Framework and SEBI CSCRF regulatory requirements
+- Experience with GRC platforms: ServiceNow GRC or Archer
+- Strong report writing and stakeholder management skills

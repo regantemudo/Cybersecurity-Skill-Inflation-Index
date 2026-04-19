@@ -1,0 +1,28 @@
+Title: Information Security Risk Manager
+Company: DBS Bank
+Location: Singapore
+Salary: SGD 9,000 - 14,000 per month
+Domain: GRC
+Source: Manual
+Collected: 2026-04-11
+
+Job Description:
+DBS Bank is seeking an Information Security Risk Manager to lead the second line of defence risk oversight for DBS's technology and digital banking operations, supporting MAS TRM compliance across Singapore, India, Hong Kong, and Indonesia.
+
+Responsibilities:
+- Perform independent technology risk assessments on critical banking systems and cloud platforms
+- Monitor and challenge first-line security controls across DBS's digital banking infrastructure
+- Manage MAS TRM, MAS Notice 655, and Hong Kong HKMA TM-E-1 compliance obligations
+- Conduct third-party technology risk assessments for critical outsourcing arrangements
+- Produce risk reports and metrics for Technology Risk Committee and Board Risk Committee
+- Lead tabletop exercises and business continuity scenario testing for cyber incidents
+- Oversee cyber incident management reporting obligations to MAS under MAS Notice 655
+
+Requirements:
+- 6+ years experience in technology risk management or IT audit in banking
+- CISM or CRISC certification required
+- CISSP preferred
+- Deep knowledge of MAS TRM, MAS Notice 655, and HKMA TM-E-1 requirements
+- Experience with cloud risk management for AWS and Azure in financial services
+- Strong executive communication and board reporting capabilities
+- Experience with scenario-based stress testing and cyber resilience programs

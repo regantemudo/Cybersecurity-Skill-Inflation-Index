@@ -1,0 +1,28 @@
+Title: SCADA Security Analyst
+Company: Singapore Power Group
+Location: Singapore
+Salary: SGD 7,500 - 11,000 per month
+Domain: OT/ICS Security
+Source: Manual
+Collected: 2026-04-09
+
+Job Description:
+Singapore Power Group is seeking a SCADA Security Analyst to monitor and protect industrial control systems across Singapore's electricity transmission and gas distribution networks, supporting CSA Critical Information Infrastructure (CII) compliance.
+
+Responsibilities:
+- Monitor OT/SCADA environments using Dragos Platform for threat detection and anomaly identification
+- Conduct vulnerability assessments of PLCs, RTUs, and SCADA workstations
+- Implement and manage OT network segmentation using Purdue Model architecture
+- Develop and maintain OT-specific incident response playbooks
+- Support Singapore Cybersecurity Act (CSA) and NERC CIP compliance requirements
+- Coordinate with IT security team on IT/OT convergence security architecture
+- Participate in CSA's operational technology security exercises
+
+Requirements:
+- 3+ years experience in OT/ICS security or SCADA operations
+- GICSP certification required
+- IEC 62443 foundation training preferred
+- Hands-on Dragos Platform, Claroty, or Nozomi experience
+- Understanding of DNP3, Modbus, and IEC 61850 protocols
+- Knowledge of Singapore Cybersecurity Act and CSA CII framework
+- CISSP or CompTIA Security+ preferred

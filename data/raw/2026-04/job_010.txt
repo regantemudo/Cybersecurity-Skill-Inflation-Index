@@ -1,0 +1,29 @@
+Title: Application Security Engineer - Fintech
+Company: Stripe
+Location: Singapore
+Salary: SGD 14,000 - 20,000 per month
+Domain: AppSec
+Source: Manual
+Collected: 2026-04-03
+
+Job Description:
+Stripe is seeking an Application Security Engineer to secure its global payments infrastructure serving millions of businesses, with a focus on vulnerability management, secure code review, and developer security enablement across the APAC region.
+
+Responsibilities:
+- Perform manual and automated secure code reviews across Ruby, Java, and Go microservices
+- Conduct threat modelling and security design reviews for new payment products
+- Integrate and manage SAST tools (Semgrep, CodeQL) and SCA (Snyk) in GitHub Actions CI/CD
+- Run DAST assessments and API security testing using Burp Suite Enterprise
+- Manage Stripe's bug bounty program including triage, validation, and researcher communication
+- Deliver developer security training and build security champions across APAC engineering teams
+- Ensure PCI-DSS Level 1 compliance across application security controls
+
+Requirements:
+- 5+ years experience in application security
+- OSWE or CSSLP certification required
+- Expert knowledge of OWASP Top 10 and OWASP API Security Top 10
+- Proficiency with Semgrep, Snyk, Burp Suite Pro, and CodeQL
+- Ruby, Java, or Go programming knowledge for code review
+- PCI-DSS Level 1 compliance experience required
+- GWEB or GWAPT preferred
+- Strong ability to explain security risks to non-security engineers

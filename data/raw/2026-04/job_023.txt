@@ -1,0 +1,29 @@
+Title: Malware Reverse Engineer
+Company: Kaspersky GReAT
+Location: Remote - India
+Salary: INR 24,00,000 - 40,00,000 annually
+Domain: DFIR
+Source: Manual
+Collected: 2026-04-09
+
+Job Description:
+Kaspersky Global Research and Analysis Team (GReAT) is seeking a Malware Reverse Engineer to analyse sophisticated nation-state and cybercrime malware, contributing to Kaspersky's world-leading threat intelligence research published globally.
+
+Responsibilities:
+- Perform advanced static and dynamic malware analysis on APT and cybercrime malware samples
+- Reverse engineer malware using IDA Pro, Ghidra, and x64dbg for deep technical understanding
+- Analyse C2 protocols, evasion techniques, and persistence mechanisms
+- Develop YARA and Sigma detection rules from malware analysis findings
+- Write technical research reports and blog posts on APT campaigns
+- Present findings at security conferences including Virus Bulletin and HITB
+- Contribute to Kaspersky Threat Intelligence Portal with new threat actor profiles
+
+Requirements:
+- 5+ years experience in malware analysis or threat intelligence research
+- GREM (GIAC Reverse Engineering Malware) required
+- GCFA or GCFE preferred
+- Expert knowledge of x86/x64 assembly and Windows internals
+- Proficiency with IDA Pro, Ghidra, x64dbg, and PE analysis tools
+- Python scripting for malware automation and YARA rule development
+- Track record of published security research or CVE discoveries preferred
+- Deep understanding of APT TTPs and nation-state threat actor methodologies

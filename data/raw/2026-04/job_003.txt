@@ -1,0 +1,27 @@
+Title: Detection Engineer - SIEM
+Company: Telstra Security
+Location: Melbourne, VIC, Australia
+Salary: AUD 120,000 - 150,000 annually
+Domain: SOC
+Source: Manual
+Collected: 2026-04-08
+
+Job Description:
+Telstra Security is seeking a Detection Engineer to build and maintain a world-class detection content library across Microsoft Sentinel and Splunk, supporting managed security services for enterprise and government clients across Australia and Asia Pacific.
+
+Responsibilities:
+- Develop, test, and maintain detection rules in KQL and Splunk SPL aligned to MITRE ATT&CK
+- Build SOAR playbooks in Microsoft Sentinel Automation and Cortex XSOAR for automated response
+- Conduct purple team exercises with red team to validate and improve detection coverage
+- Manage detection content lifecycle from requirements through deployment and tuning
+- Onboard and normalise new log sources into the SIEM data platform
+- Produce detection engineering documentation and coverage gap reports
+
+Requirements:
+- 4+ years experience in detection engineering, SOC, or threat hunting
+- Microsoft SC-200 certification required
+- GCIA or Splunk Core Certified Power User preferred
+- Expert KQL and Splunk SPL query writing skills
+- Hands-on SOAR experience: Sentinel Automation or Cortex XSOAR
+- Python for log parsing and automation scripting
+- Familiarity with ASD Essential Eight and PSPF compliance frameworks

@@ -1,0 +1,28 @@
+Title: Firewall Security Engineer
+Company: Emirates NBD
+Location: Dubai, UAE
+Salary: AED 22,000 - 32,000 per month
+Domain: Network Security
+Source: Manual
+Collected: 2026-04-08
+
+Job Description:
+Emirates NBD is seeking a Firewall Security Engineer to manage and optimise enterprise firewall infrastructure across UAE and international banking operations, covering Palo Alto Networks, Fortinet, and Cisco environments.
+
+Responsibilities:
+- Manage and maintain Palo Alto Networks and Fortinet NGFW policies across 50+ firewalls
+- Review and approve firewall change requests following ITIL change management process
+- Conduct quarterly firewall rule base audits and cleanup of redundant access rules
+- Implement network segmentation and micro-segmentation strategies
+- Configure and manage Palo Alto Panorama for centralised policy management
+- Respond to network security incidents and implement emergency firewall rule changes
+- Ensure compliance with CBUAE and UAE IA cybersecurity regulatory requirements
+
+Requirements:
+- 4+ years experience in firewall management or network security operations
+- PCNSE (Palo Alto Networks Certified Network Security Engineer) required
+- Fortinet NSE 7 or CCNP Security preferred
+- Hands-on Palo Alto Panorama and Fortinet FortiManager experience
+- Knowledge of CBUAE cybersecurity regulations and UAE IA standards
+- Understanding of network protocols: BGP, OSPF, MPLS, and VPN
+- CISSP preferred for senior candidates

@@ -1,0 +1,28 @@
+Title: Digital Forensics Analyst
+Company: Deloitte Forensics
+Location: Singapore
+Salary: SGD 8,000 - 12,000 per month
+Domain: DFIR
+Source: Manual
+Collected: 2026-04-05
+
+Job Description:
+Deloitte Forensics Singapore is seeking a Digital Forensics Analyst to support corporate investigations, regulatory inquiries, and litigation support engagements for financial services and government clients across Asia Pacific.
+
+Responsibilities:
+- Acquire and preserve digital evidence from endpoints, servers, cloud storage, and mobile devices
+- Perform forensic analysis using EnCase, Axiom, and FTK across Windows, macOS, and Linux systems
+- Conduct eDiscovery processing and review using Nuix and Relativity platforms
+- Support regulatory investigations and produce court-admissible forensic reports
+- Analyse mobile device data from iOS and Android using Cellebrite UFED
+- Coordinate chain of custody documentation and evidence handling procedures
+- Present forensic findings to legal teams and regulatory bodies
+
+Requirements:
+- 3+ years experience in digital forensics or eDiscovery
+- GCFE or GCFA certification required
+- EnCase Certified Examiner (EnCE) or IACIS CFCE preferred
+- Proficiency with EnCase, Axiom Cyber, FTK, and Cellebrite UFED
+- Experience with eDiscovery platforms: Nuix or Relativity
+- Knowledge of legal hold procedures and chain of custody requirements
+- Understanding of Singapore CPC and MAS regulatory investigation requirements

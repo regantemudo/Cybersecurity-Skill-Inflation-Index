@@ -1,0 +1,29 @@
+Title: GCP Security Engineer
+Company: Google Cloud
+Location: Singapore
+Salary: SGD 12,000 - 18,000 per month
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-04-07
+
+Job Description:
+Google Cloud is seeking a GCP Security Engineer to help customers design and implement secure cloud architectures on Google Cloud Platform, supporting enterprise transformation programs across the Asia Pacific region.
+
+Responsibilities:
+- Design security architectures for GCP deployments covering IAM, VPC, CMEK, and Security Command Center
+- Implement Cloud Armor, Cloud Armour WAF, and BeyondCorp enterprise access controls
+- Conduct GCP security assessments and threat modelling for customer environments
+- Build security automation using Cloud Functions and Security Command Center APIs
+- Define security baselines aligned with CIS GCP Benchmark and ISO 27001
+- Support customer teams in achieving PCI-DSS and SOC 2 compliance on GCP
+- Deliver GCP security workshops and training to customer technical teams
+
+Requirements:
+- 4+ years experience in cloud security with GCP expertise
+- Google Professional Cloud Security Engineer certification required
+- CCSP certification required
+- Knowledge of GCP Security Command Center, Chronicle, and BeyondCorp
+- Experience with Terraform and cloud-native IaC security tooling
+- Python or Go scripting for GCP automation
+- CISSP preferred for senior candidates
+- Knowledge of NIST CSF and CIS GCP Benchmarks

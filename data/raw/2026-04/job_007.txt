@@ -1,0 +1,29 @@
+Title: Cloud Security Engineer - Azure
+Company: Microsoft (India)
+Location: Hyderabad, India
+Salary: INR 35,00,000 - 55,00,000 annually
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-04-02
+
+Job Description:
+Microsoft India is seeking a Cloud Security Engineer to secure Azure cloud infrastructure and internal engineering platforms, driving security posture improvements across one of the world's largest cloud environments.
+
+Responsibilities:
+- Design and implement security controls for Azure subscriptions using Azure Policy and Defender for Cloud
+- Manage CSPM across Azure environments using Microsoft Defender for Cloud and Wiz
+- Build and maintain IaC security pipelines using Terraform, Checkov, and Azure DevOps
+- Conduct cloud security architecture reviews for internal Microsoft product teams
+- Define and enforce security guardrails for multi-tenant Azure environments
+- Develop threat models for new Azure services and product features
+- Automate security remediation using Azure Logic Apps and Python
+
+Requirements:
+- 5+ years experience in cloud security or DevSecOps
+- AZ-500 (Azure Security Engineer) required
+- SC-100 (Microsoft Cybersecurity Architect) preferred
+- CCSP certification preferred
+- Hands-on experience with Microsoft Defender for Cloud and Sentinel
+- Proficiency with Terraform, Azure Policy, and Kubernetes security
+- Python or PowerShell for automation
+- Knowledge of Zero Trust and CIS Azure Foundations Benchmark

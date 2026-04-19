@@ -1,0 +1,29 @@
+Title: Incident Response Lead
+Company: PwC Cyber Incident Response
+Location: London, United Kingdom
+Salary: GBP 80,000 - 110,000 annually
+Domain: DFIR
+Source: Manual
+Collected: 2026-04-14
+
+Job Description:
+PwC Cyber Incident Response is seeking an Incident Response Lead to head complex breach investigations and ransomware recovery engagements for FTSE 100 and critical national infrastructure clients across the United Kingdom and Europe.
+
+Responsibilities:
+- Lead end-to-end incident response engagements from initial breach notification through full recovery
+- Direct forensic investigations across enterprise Windows, Linux, and Active Directory environments
+- Manage ransomware response including negotiation strategy support, decryption validation, and recovery
+- Lead cloud forensics investigations on AWS, Azure, and M365 environments
+- Produce executive-ready incident reports and present findings to Board and regulatory bodies
+- Manage ICO breach notifications under UK GDPR and advise on regulatory disclosure timelines
+- Build and mentor a team of 6 IR consultants and manage engagement delivery
+
+Requirements:
+- 7+ years experience in incident response with 2+ years in a lead role
+- GCFA and GCIH certifications required
+- GCFR or GCFE preferred
+- CISSP or CISM required for leadership credibility
+- Expert knowledge of Windows forensic artifacts, Active Directory attack paths, and ransomware TTPs
+- Cloud forensics experience on AWS, M365, and Azure
+- UK GDPR breach notification expertise including ICO engagement experience
+- Strong executive communication and crisis management skills

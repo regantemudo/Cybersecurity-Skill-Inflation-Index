@@ -1,0 +1,26 @@
+Title: SOC Analyst L2 - Threat Detection
+Company: Accenture Security Operations
+Location: Bengaluru, Karnataka, India
+Salary: INR 15,00,000 - 22,00,000 annually
+Domain: SOC
+Source: Manual
+Collected: 2026-04-01
+
+Job Description:
+Accenture Security Operations is hiring an L2 SOC Analyst to monitor, detect, and respond to cybersecurity threats for a global banking client, operating across a 24x7 follow-the-sun SOC model.
+
+Responsibilities:
+- Investigate and triage security alerts escalated from L1 analysts across Splunk and Microsoft Sentinel
+- Perform deep-dive threat analysis using EDR telemetry from CrowdStrike Falcon
+- Conduct threat hunting using MITRE ATT&CK TTP-based hypotheses
+- Develop and tune SIEM correlation rules and detection use cases
+- Produce incident reports and post-incident reviews for client stakeholders
+- Coordinate with threat intelligence team to enrich IOCs and update watchlists
+
+Requirements:
+- 3+ years experience in SOC operations or incident response
+- Microsoft SC-200 certification required
+- CompTIA CySA+ or GCIA preferred
+- Hands-on experience with Splunk, Microsoft Sentinel, and CrowdStrike Falcon
+- Knowledge of MITRE ATT&CK, Cyber Kill Chain, and NIST IR frameworks
+- Python scripting for alert automation and log parsing

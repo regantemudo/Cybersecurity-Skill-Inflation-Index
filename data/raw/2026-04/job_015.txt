@@ -1,0 +1,28 @@
+Title: CyberArk PAM Consultant
+Company: Deloitte Cyber Risk
+Location: Singapore
+Salary: SGD 9,000 - 13,000 per month
+Domain: IAM
+Source: Manual
+Collected: 2026-04-10
+
+Job Description:
+Deloitte Cyber Risk Singapore is seeking a CyberArk PAM Consultant to deliver privileged access management transformation programs for financial services and government clients across Southeast Asia.
+
+Responsibilities:
+- Lead CyberArk PAS deployments including Vault, PVWA, CPM, PSM, and PSMP
+- Design and implement just-in-time (JIT) privileged access workflows
+- Integrate CyberArk with Active Directory, Azure AD, and cloud platforms (AWS, Azure, GCP)
+- Conduct PAM maturity assessments and produce client roadmap recommendations
+- Configure CyberArk Secrets Manager for DevOps pipeline secrets management
+- Support MAS TRM, PDPA, and MAS Notice 655 regulatory compliance requirements
+- Train client administrators and produce platform documentation
+
+Requirements:
+- 4+ years experience in CyberArk administration or PAM consulting
+- CyberArk Defender required; CyberArk Sentry or Guardian preferred
+- CISSP or CISM preferred
+- Experience with CyberArk PAS, Secrets Manager, and Alero
+- Knowledge of MAS TRM and Singapore regulatory compliance requirements
+- PowerShell and REST API scripting for automation
+- Strong client-facing communication and consulting skills

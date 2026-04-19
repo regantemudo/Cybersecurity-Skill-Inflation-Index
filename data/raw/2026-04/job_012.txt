@@ -1,0 +1,28 @@
+Title: Product Security Manager
+Company: Grab
+Location: Singapore
+Salary: SGD 16,000 - 22,000 per month
+Domain: AppSec
+Source: Manual
+Collected: 2026-04-11
+
+Job Description:
+Grab is seeking a Product Security Manager to lead its application security program, overseeing threat modelling, vulnerability management, bug bounty operations, and security champions across Grab's super-app ecosystem serving 35 million+ users.
+
+Responsibilities:
+- Lead end-to-end application security program including SAST, DAST, SCA, and pen testing
+- Build and manage Grab's public bug bounty program and coordinate with external researchers
+- Define secure SDLC standards and enforce security gates across 500+ engineering squads
+- Lead threat modelling sessions for Grab's fintech, mobility, and food delivery products
+- Manage a team of 6 product security engineers across Singapore, Indonesia, and Vietnam
+- Report program metrics and AppSec risk posture to VP Engineering and CISO quarterly
+- Drive incident response for application-layer security incidents
+
+Requirements:
+- 8+ years experience in application security with at least 3 years in a management role
+- CSSLP required; CISSP preferred
+- Expert knowledge of OWASP Top 10, OWASP SAMM, and BSIMM framework
+- Hands-on experience with Checkmarx, Snyk, and Burp Suite Enterprise
+- Track record managing bug bounty programs on HackerOne or Bugcrowd
+- Strong people management and executive stakeholder communication skills
+- PCI-DSS and MAS TRM compliance knowledge preferred

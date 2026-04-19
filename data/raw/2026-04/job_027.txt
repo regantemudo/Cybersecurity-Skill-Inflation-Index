@@ -1,0 +1,28 @@
+Title: ICS Security Architect
+Company: Wood PLC
+Location: Dubai, UAE
+Salary: AED 30,000 - 45,000 per month
+Domain: OT/ICS Security
+Source: Manual
+Collected: 2026-04-14
+
+Job Description:
+Wood PLC is seeking an ICS Security Architect to design security architectures for oil and gas and petrochemical clients across the Middle East, delivering IEC 62443 and NERC CIP compliant security programs for upstream and downstream operations.
+
+Responsibilities:
+- Design ICS security architectures for greenfield and brownfield oil and gas plants
+- Develop Security Level (SL) assessments and zone and conduit designs per IEC 62443-3-3
+- Lead OT security risk assessments using HAZOP-S and OT-specific threat modelling methodologies
+- Define security requirements for SCADA, DCS, and Safety Instrumented Systems (SIS)
+- Produce ICS security design documentation including ICS Security Plans and risk registers
+- Interface with automation and process engineers to embed security in engineering design
+- Support regulatory compliance for ADNOC, Saudi Aramco, and Kuwait Oil Company standards
+
+Requirements:
+- 8+ years experience in OT/ICS security or industrial cybersecurity
+- GICSP required; CSSA (Certified SCADA Security Architect) strongly preferred
+- IEC 62443 Lead Auditor or Security Expert certification required
+- Electrical or process engineering degree preferred
+- Deep knowledge of NERC CIP, IEC 62443, and NIST SP 800-82
+- Experience in oil and gas, petrochemical, or power generation sectors
+- CISSP or CISM preferred

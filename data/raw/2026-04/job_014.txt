@@ -1,0 +1,28 @@
+Title: Entra ID (Azure AD) Security Engineer
+Company: Capgemini Security
+Location: London, United Kingdom
+Salary: GBP 70,000 - 95,000 annually
+Domain: IAM
+Source: Manual
+Collected: 2026-04-06
+
+Job Description:
+Capgemini Security is seeking a Microsoft Entra ID Security Engineer to design and deliver enterprise identity security transformations for FTSE 100 clients, specialising in Conditional Access, Privileged Identity Management, and Zero Trust identity architecture.
+
+Responsibilities:
+- Design and implement Microsoft Entra ID Conditional Access policies for 50,000+ user organisations
+- Configure Privileged Identity Management (PIM) for just-in-time privileged access
+- Implement Entra ID Identity Protection and automated risk-based access controls
+- Architect passwordless authentication using FIDO2 and Microsoft Authenticator
+- Perform Entra ID security assessments and produce roadmap recommendations
+- Integrate Entra ID with SailPoint, CyberArk, and third-party ITSM platforms
+- Deliver client workshops on Zero Trust identity architecture
+
+Requirements:
+- 4+ years experience in Entra ID or Azure AD security
+- Microsoft SC-300 required; AZ-500 preferred
+- CISSP or CISM preferred
+- Expert knowledge of Conditional Access, PIM, Identity Protection, and Entra External ID
+- Experience with SAML, OAuth 2.0, and OIDC federation
+- PowerShell and Microsoft Graph API scripting
+- Knowledge of NCSC Cyber Essentials Plus and UK government security standards

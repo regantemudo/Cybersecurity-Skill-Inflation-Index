@@ -1,0 +1,27 @@
+Title: VAPT Engineer - Mobile and Web
+Company: Wipro Cybersecurity Services
+Location: Hyderabad, India
+Salary: INR 12,00,000 - 20,00,000 annually
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-04-10
+
+Job Description:
+Wipro Cybersecurity Services is seeking a VAPT Engineer to conduct web application, mobile, and API security assessments for banking and telecom clients across India and the Middle East.
+
+Responsibilities:
+- Perform web application penetration testing covering OWASP Top 10 and business logic flaws
+- Conduct Android and iOS mobile application assessments using Frida and Objection
+- Perform REST and GraphQL API security testing
+- Execute network infrastructure vulnerability assessments using Nessus and Nmap
+- Produce detailed VAPT reports with risk-rated findings and remediation steps
+- Provide remediation support and re-testing for client development teams
+
+Requirements:
+- 3+ years experience in VAPT or application security testing
+- CEH or eJPT certification required
+- OSCP or eMAPT preferred
+- Proficiency with Burp Suite Pro, Frida, MobSF, Nmap, and Nessus
+- Knowledge of OWASP Top 10 and OWASP Mobile Top 10
+- Python or Bash scripting for automation
+- Understanding of CVSS scoring and risk classification

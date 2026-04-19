@@ -1,0 +1,28 @@
+Title: Cybersecurity Compliance Analyst - Healthcare
+Company: Apollo Hospitals
+Location: Chennai, Tamil Nadu, India
+Salary: INR 10,00,000 - 16,00,000 annually
+Domain: GRC
+Source: Manual
+Collected: 2026-04-07
+
+Job Description:
+Apollo Hospitals is seeking a Cybersecurity Compliance Analyst to manage information security compliance across India's largest hospital network, ensuring alignment with HIPAA, India's DPDP Act, NABH, and internal security standards protecting patient health data.
+
+Responsibilities:
+- Manage HIPAA Security Rule compliance program across Apollo's 70+ hospital locations
+- Conduct annual risk assessments aligned to HIPAA and India DPDP Act requirements
+- Perform security assessments of medical device and clinical system vendors
+- Maintain information security policy framework and ensure staff compliance training
+- Support external audits by NABH and CERT-In empanelled auditors
+- Track and remediate audit findings within agreed timelines
+- Prepare compliance dashboards for CISO and Board reporting
+
+Requirements:
+- 3+ years experience in IT compliance or GRC in healthcare or regulated sector
+- CISA or ISO 27001 Lead Implementer certification required
+- Knowledge of HIPAA Security Rule and India DPDP Act 2023
+- CHPC (Certified Healthcare Privacy Compliance) preferred
+- Experience with GRC tools: Vanta, Drata, or ServiceNow GRC
+- Strong documentation and policy writing skills
+- Familiarity with NABH accreditation requirements preferred

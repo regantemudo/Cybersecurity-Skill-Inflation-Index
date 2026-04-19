@@ -1,0 +1,27 @@
+Title: Vulnerability Researcher
+Company: Trend Micro Research
+Location: Singapore
+Salary: SGD 9,000 - 13,000 per month
+Domain: Penetration Testing
+Source: Manual
+Collected: 2026-04-05
+
+Job Description:
+Trend Micro Research is seeking a Vulnerability Researcher to discover and analyse zero-day vulnerabilities in operating systems, browsers, IoT firmware, and enterprise software, contributing to responsible disclosure programs and CVE publications.
+
+Responsibilities:
+- Conduct vulnerability research on Windows, Linux, macOS, and IoT firmware targets
+- Perform binary analysis, reverse engineering, and fuzzing to identify security flaws
+- Develop proof-of-concept exploits to demonstrate vulnerability impact
+- Publish CVEs and contribute to responsible disclosure with vendors
+- Present research at security conferences including Black Hat and DEF CON
+- Collaborate with threat intelligence team to track exploitation in the wild
+
+Requirements:
+- 5+ years experience in vulnerability research or exploit development
+- OSCP required; OSED or OSEE strongly preferred
+- Expert knowledge of x86/x64 assembly and binary analysis
+- Proficiency with Ghidra, IDA Pro, Binary Ninja, and pwndbg
+- Experience with fuzzing frameworks: AFL++, libFuzzer, or WinAFL
+- C, C++, and Python programming for exploit development
+- Track record of CVE discoveries preferred

@@ -1,0 +1,28 @@
+Title: Privacy Engineer - Platform
+Company: Swiggy
+Location: Bengaluru, Karnataka, India
+Salary: INR 18,00,000 - 30,00,000 annually
+Domain: Data Privacy
+Source: Manual
+Collected: 2026-04-10
+
+Job Description:
+Swiggy is seeking a Privacy Engineer to build privacy-by-design capabilities into its food delivery and quick commerce platform, ensuring technical compliance with India's DPDP Act and GDPR for international markets serving 100 million+ users.
+
+Responsibilities:
+- Design and implement technical privacy controls including data minimisation, pseudonymisation, and encryption
+- Build and maintain data classification engine using Microsoft Purview and BigID across Swiggy's data lake
+- Implement consent management platform integrated with Swiggy's mobile apps and web platform
+- Develop automated data retention and deletion pipelines across production databases
+- Perform privacy engineering reviews for new features processing sensitive personal data
+- Build privacy compliance dashboards for DPO and leadership reporting
+- Integrate DLP controls to prevent personal data leakage across Swiggy's data platforms
+
+Requirements:
+- 3+ years experience in privacy engineering or data governance
+- CIPP/E certification required; CIPT preferred
+- Hands-on experience with Microsoft Purview, BigID, or Varonis
+- Python or SQL for data discovery and privacy automation
+- Knowledge of India DPDP Act 2023 and GDPR technical requirements
+- Understanding of data classification and labelling frameworks
+- Experience with consent management platforms: OneTrust or Usercentrics

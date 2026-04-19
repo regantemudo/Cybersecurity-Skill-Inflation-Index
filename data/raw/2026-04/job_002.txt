@@ -1,0 +1,27 @@
+Title: Senior Threat Intelligence Analyst
+Company: Group-IB
+Location: Dubai, UAE
+Salary: AED 25,000 - 38,000 per month
+Domain: SOC
+Source: Manual
+Collected: 2026-04-05
+
+Job Description:
+Group-IB is seeking a Senior Threat Intelligence Analyst to produce finished threat intelligence products for financial sector clients across the Middle East, tracking cybercrime groups and APT actors targeting the region.
+
+Responsibilities:
+- Track and profile threat actors targeting BFSI and critical infrastructure in MENA region
+- Produce tactical, operational, and strategic intelligence reports with MITRE ATT&CK mapping
+- Monitor underground forums, Telegram channels, and dark web marketplaces for threat signals
+- Develop threat actor TTPs, IOC sets, and YARA/Sigma detection rules
+- Brief client CISOs and security teams on emerging threats
+- Integrate threat feeds into client SIEM and SOAR platforms
+
+Requirements:
+- 5+ years experience in cyber threat intelligence or security research
+- GCTI or CREST CTI certification required
+- GIAC GREM preferred for malware analysis component
+- Proficiency with MITRE ATT&CK, STIX/TAXII, and MISP
+- Experience with Recorded Future, Mandiant Advantage, or OpenCTI platforms
+- Arabic language proficiency a strong advantage
+- Python scripting for threat intelligence automation

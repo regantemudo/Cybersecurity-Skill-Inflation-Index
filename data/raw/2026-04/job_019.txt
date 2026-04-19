@@ -1,0 +1,28 @@
+Title: Network Security Engineer - SASE
+Company: Zscaler
+Location: Mumbai, Maharashtra, India
+Salary: INR 25,00,000 - 40,00,000 annually
+Domain: Network Security
+Source: Manual
+Collected: 2026-04-04
+
+Job Description:
+Zscaler India is seeking a Network Security Engineer to design and deploy Zscaler Internet Access (ZIA) and Zscaler Private Access (ZPA) for enterprise customers across India and South Asia, replacing legacy VPN and on-premise proxy infrastructure.
+
+Responsibilities:
+- Design and implement ZIA and ZPA deployments for enterprise customers with 5,000–100,000 users
+- Configure SSL inspection, DLP policies, and cloud firewall rules on Zscaler platform
+- Integrate Zscaler with Azure AD, Okta, and Active Directory for SSO and conditional access
+- Perform network security assessments and produce SASE readiness reports
+- Troubleshoot connectivity issues across Zscaler enforcement nodes and PAC files
+- Design microsegmentation architecture for data centre and cloud workloads
+- Deliver customer workshops and Zscaler enablement training
+
+Requirements:
+- 4+ years experience in network security or SASE architecture
+- Zscaler Certified Cloud Professional (ZCCP) required
+- PCNSE or CCNP Security preferred
+- Hands-on Zscaler ZIA, ZPA, and Zscaler Client Connector experience
+- Knowledge of DNS, BGP, and enterprise routing security
+- Familiarity with SD-WAN and Zero Trust Network Access concepts
+- Python scripting for Zscaler API automation

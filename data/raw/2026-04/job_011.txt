@@ -1,0 +1,29 @@
+Title: Mobile Security Engineer
+Company: Samsung Research India
+Location: Bengaluru, Karnataka, India
+Salary: INR 25,00,000 - 40,00,000 annually
+Domain: AppSec
+Source: Manual
+Collected: 2026-04-06
+
+Job Description:
+Samsung Research India is seeking a Mobile Security Engineer to secure the Samsung Galaxy ecosystem including Android OS, Samsung Knox, and Galaxy applications serving 1+ billion devices globally.
+
+Responsibilities:
+- Conduct security assessments of Android applications, Knox container, and Samsung One UI components
+- Perform static analysis using MobSF and Jadx and dynamic analysis using Frida and Objection
+- Research and identify vulnerabilities in Android OS components and Samsung proprietary software
+- Develop and maintain internal security testing tools and frameworks for Android
+- Coordinate with Samsung Electronics Korea on vulnerability disclosure and patch development
+- Represent Samsung at Android security community events and conferences
+- Contribute to Samsung Mobile Security Rewards Program (SMRP) report triaging
+
+Requirements:
+- 4+ years experience in mobile security or Android security research
+- Deep knowledge of Android internals, Binder IPC, and SELinux policies
+- Proficiency with Frida, MobSF, Jadx, and ADB for dynamic analysis
+- GMOB or eMAPT certification required
+- OSCP preferred
+- Java, Kotlin, and C/C++ programming for Android security research
+- Experience with Samsung Knox architecture preferred
+- Track record of CVE discoveries in mobile platforms a strong advantage

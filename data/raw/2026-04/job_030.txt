@@ -1,0 +1,30 @@
+Title: Chief Privacy Officer (CPO)
+Company: Nykaa (FSN E-Commerce Ventures)
+Location: Mumbai, Maharashtra, India
+Salary: INR 60,00,000 - 100,00,000 annually
+Domain: Data Privacy
+Source: Manual
+Collected: 2026-04-15
+
+Job Description:
+Nykaa is seeking a Chief Privacy Officer to establish and lead Nykaa's enterprise privacy program, driving DPDP Act compliance across India's leading beauty and fashion e-commerce platform processing personal data of 200 million+ registered customers.
+
+Responsibilities:
+- Establish and lead Nykaa's enterprise privacy governance framework
+- Serve as primary liaison with India's Data Protection Board under DPDP Act 2023
+- Lead enterprise-wide data mapping, inventory, and classification program
+- Build and manage a team of 5 privacy professionals across legal, engineering, and compliance
+- Oversee privacy-by-design review for all new Nykaa product launches and features
+- Manage regulatory inquiries, data breach notifications, and data subject rights at scale
+- Report privacy risk posture to Board of Directors and Executive Leadership Team
+- Coordinate cross-border data transfer compliance for Nykaa's international operations
+
+Requirements:
+- 10+ years experience in data privacy leadership with 3+ years in CPO or DPO role
+- CIPP/E and CIPM certifications required; CIPT preferred
+- Law degree (LLB or LLM) with data privacy specialisation strongly preferred
+- Expert knowledge of India DPDP Act 2023, GDPR, and CCPA
+- Experience with privacy management platforms: OneTrust at enterprise scale
+- Strong Board and executive communication capability
+- Track record leading data breach incident response and regulatory notifications
+- CISSP or CISM preferred for technical credibility

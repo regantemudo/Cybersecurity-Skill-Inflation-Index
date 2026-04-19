@@ -1,0 +1,28 @@
+Title: DevSecOps Lead
+Company: PhonePe
+Location: Bengaluru, Karnataka, India
+Salary: INR 30,00,000 - 45,00,000 annually
+Domain: Cloud Security
+Source: Manual
+Collected: 2026-04-12
+
+Job Description:
+PhonePe is seeking a DevSecOps Lead to build and mature the security engineering function, embedding security across CI/CD pipelines and AWS cloud infrastructure supporting India's largest UPI payments platform.
+
+Responsibilities:
+- Lead DevSecOps strategy and roadmap across 300+ engineering squads
+- Integrate and manage SAST (Semgrep, Checkmarx), DAST (Burp Enterprise), and SCA (Snyk) toolchains
+- Implement Kubernetes security using Falco, OPA, and Kyverno across production clusters
+- Define and enforce AWS security guardrails using Security Hub, Config, and SCPs
+- Build security champions program and deliver secure coding training to engineering teams
+- Manage container image scanning pipeline using Trivy and ECR scanning
+- Lead penetration testing scoping and manage third-party security assessments
+
+Requirements:
+- 6+ years experience in DevSecOps or cloud security with 2+ years in a lead role
+- AWS Certified Security Specialty required
+- CCSP or CKS (Certified Kubernetes Security Specialist) preferred
+- Expert knowledge of Kubernetes security and container security
+- Hands-on Semgrep, Snyk, Falco, and Trivy experience
+- Python and Go scripting for security automation
+- PCI-DSS Level 1 and RBI compliance experience required
